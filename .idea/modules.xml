@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/【006】【ZigZagConversion】/【006】【ZigZagConversion】.iml" filepath="$PROJECT_DIR$/【006】【ZigZagConversion】/【006】【ZigZagConversion】.iml" />
       <module fileurl="file://$PROJECT_DIR$/【007】【ReverseInteger】/【007】【ReverseInteger】.iml" filepath="$PROJECT_DIR$/【007】【ReverseInteger】/【007】【ReverseInteger】.iml" />
       <module fileurl="file://$PROJECT_DIR$/【008】【StringToInteger (atoi)】/【008】【StringToInteger (atoi)】.iml" filepath="$PROJECT_DIR$/【008】【StringToInteger (atoi)】/【008】【StringToInteger (atoi)】.iml" />
+      <module fileurl="file://$PROJECT_DIR$/【009】【PalindromeNumber】/【009】【PalindromeNumber】.iml" filepath="$PROJECT_DIR$/【009】【PalindromeNumber】/【009】【PalindromeNumber】.iml" />
       <module fileurl="file://$PROJECT_DIR$/【010】【RegularExpressionMatching】/【010】【RegularExpressionMatching】.iml" filepath="$PROJECT_DIR$/【010】【RegularExpressionMatching】/【010】【RegularExpressionMatching】.iml" />
       <module fileurl="file://$PROJECT_DIR$/【011】【ContainerWithMost Water】/【011】【ContainerWithMost Water】.iml" filepath="$PROJECT_DIR$/【011】【ContainerWithMost Water】/【011】【ContainerWithMost Water】.iml" />
       <module fileurl="file://$PROJECT_DIR$/【012】【IntegerToRoman】/【012】【IntegerToRoman】.iml" filepath="$PROJECT_DIR$/【012】【IntegerToRoman】/【012】【IntegerToRoman】.iml" />
@@ -17,13 +18,27 @@
       <module fileurl="file://$PROJECT_DIR$/【014】【LongestCommonPrefix】/【014】【LongestCommonPrefix】.iml" filepath="$PROJECT_DIR$/【014】【LongestCommonPrefix】/【014】【LongestCommonPrefix】.iml" />
       <module fileurl="file://$PROJECT_DIR$/【015】【3Sum】/【015】【3Sum】.iml" filepath="$PROJECT_DIR$/【015】【3Sum】/【015】【3Sum】.iml" />
       <module fileurl="file://$PROJECT_DIR$/【016】【3SumClosest】/【016】【3SumClosest】.iml" filepath="$PROJECT_DIR$/【016】【3SumClosest】/【016】【3SumClosest】.iml" />
+      <module fileurl="file://$PROJECT_DIR$/【017】【LetterCombinationsOfAPhonNumber 】/【017】【LetterCombinationsOfAPhonNumber 】.iml" filepath="$PROJECT_DIR$/【017】【LetterCombinationsOfAPhonNumber 】/【017】【LetterCombinationsOfAPhonNumber 】.iml" />
+      <module fileurl="file://$PROJECT_DIR$/【018】【4Sum】/【018】【4Sum】.iml" filepath="$PROJECT_DIR$/【018】【4Sum】/【018】【4Sum】.iml" />
+      <module fileurl="file://$PROJECT_DIR$/【019】【RemoveNthNodeFromEndOfList】/【019】【RemoveNthNodeFromEndOfList】.iml" filepath="$PROJECT_DIR$/【019】【RemoveNthNodeFromEndOfList】/【019】【RemoveNthNodeFromEndOfList】.iml" />
+      <module fileurl="file://$PROJECT_DIR$/【020】【ValidParentheses】/【020】【ValidParentheses】.iml" filepath="$PROJECT_DIR$/【020】【ValidParentheses】/【020】【ValidParentheses】.iml" />
+      <module fileurl="file://$PROJECT_DIR$/【021】【MergeTwoSortedLists】/【021】【MergeTwoSortedLists】.iml" filepath="$PROJECT_DIR$/【021】【MergeTwoSortedLists】/【021】【MergeTwoSortedLists】.iml" />
       <module fileurl="file://$PROJECT_DIR$/【022】【GenerateParentheses】/【022】【GenerateParentheses】.iml" filepath="$PROJECT_DIR$/【022】【GenerateParentheses】/【022】【GenerateParentheses】.iml" />
       <module fileurl="file://$PROJECT_DIR$/【023】【MergeKSortedLists】/【023】【MergeKSortedLists】.iml" filepath="$PROJECT_DIR$/【023】【MergeKSortedLists】/【023】【MergeKSortedLists】.iml" />
+      <module fileurl="file://$PROJECT_DIR$/【024】【SwapNodesInPairs】/【024】【SwapNodesInPairs】.iml" filepath="$PROJECT_DIR$/【024】【SwapNodesInPairs】/【024】【SwapNodesInPairs】.iml" />
       <module fileurl="file://$PROJECT_DIR$/【025】【ReverseNodesInK-Group】/【025】【ReverseNodesInK-Group】.iml" filepath="$PROJECT_DIR$/【025】【ReverseNodesInK-Group】/【025】【ReverseNodesInK-Group】.iml" />
+      <module fileurl="file://$PROJECT_DIR$/【026】【RemoveDuplicatesfromSortedArray】/【026】【RemoveDuplicatesfromSortedArray】.iml" filepath="$PROJECT_DIR$/【026】【RemoveDuplicatesfromSortedArray】/【026】【RemoveDuplicatesfromSortedArray】.iml" />
+      <module fileurl="file://$PROJECT_DIR$/【027】【RemoveElement】/【027】【RemoveElement】.iml" filepath="$PROJECT_DIR$/【027】【RemoveElement】/【027】【RemoveElement】.iml" />
+      <module fileurl="file://$PROJECT_DIR$/【028】【Implement-strStr()】/【028】【Implement-strStr()】.iml" filepath="$PROJECT_DIR$/【028】【Implement-strStr()】/【028】【Implement-strStr()】.iml" />
       <module fileurl="file://$PROJECT_DIR$/【029】【DivideTwoIntegers】/【029】【DivideTwoIntegers】.iml" filepath="$PROJECT_DIR$/【029】【DivideTwoIntegers】/【029】【DivideTwoIntegers】.iml" />
       <module fileurl="file://$PROJECT_DIR$/【030】【SubstringWithConcatenationOfAllWords】/【030】【SubstringWithConcatenationOfAllWords】.iml" filepath="$PROJECT_DIR$/【030】【SubstringWithConcatenationOfAllWords】/【030】【SubstringWithConcatenationOfAllWords】.iml" />
       <module fileurl="file://$PROJECT_DIR$/【032】【LongestValidParentheses】/【032】【LongestValidParentheses】.iml" filepath="$PROJECT_DIR$/【032】【LongestValidParentheses】/【032】【LongestValidParentheses】.iml" />
       <module fileurl="file://$PROJECT_DIR$/【033】【SearchInRotatedSortedArray】/【033】【SearchInRotatedSortedArray】.iml" filepath="$PROJECT_DIR$/【033】【SearchInRotatedSortedArray】/【033】【SearchInRotatedSortedArray】.iml" />
+      <module fileurl="file://$PROJECT_DIR$/【034】【SearchForARange】/【034】【SearchForARange】.iml" filepath="$PROJECT_DIR$/【034】【SearchForARange】/【034】【SearchForARange】.iml" />
+      <module fileurl="file://$PROJECT_DIR$/【035】【SearchInsertPosition】/【035】【SearchInsertPosition】.iml" filepath="$PROJECT_DIR$/【035】【SearchInsertPosition】/【035】【SearchInsertPosition】.iml" />
+      <module fileurl="file://$PROJECT_DIR$/【036】【Valid Sudoku】/【036】【Valid Sudoku】.iml" filepath="$PROJECT_DIR$/【036】【Valid Sudoku】/【036】【Valid Sudoku】.iml" />
+      <module fileurl="file://$PROJECT_DIR$/【038】【CountAndSay】/【038】【CountAndSay】.iml" filepath="$PROJECT_DIR$/【038】【CountAndSay】/【038】【CountAndSay】.iml" />
+      <module fileurl="file://$PROJECT_DIR$/【046】【Permutations】/【046】【Permutations】.iml" filepath="$PROJECT_DIR$/【046】【Permutations】/【046】【Permutations】.iml" />
       <module fileurl="file://$PROJECT_DIR$/【050】【Pow(x,n)】/【050】【Pow(x,n)】.iml" filepath="$PROJECT_DIR$/【050】【Pow(x,n)】/【050】【Pow(x,n)】.iml" />
       <module fileurl="file://$PROJECT_DIR$/【052未】【N-QueensII 】/【052】【N-QueensII 】.iml" filepath="$PROJECT_DIR$/【052未】【N-QueensII 】/【052】【N-QueensII 】.iml" />
       <module fileurl="file://$PROJECT_DIR$/【053】【MaximumSubarray】/【053】【MaximumSubarray】.iml" filepath="$PROJECT_DIR$/【053】【MaximumSubarray】/【053】【MaximumSubarray】.iml" />

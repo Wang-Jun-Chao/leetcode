@@ -8,13 +8,13 @@ public class Solution {
     /**
      * <pre>
      * 原题
-     * 　　Write a function to find the longest common prefix string amongst an array of strings.
+     * Write a function to find the longest common prefix string amongst an array of strings.
      *
      * 题目大意
-     * 　　写一个函数找出一个字串所数组中的最长的公共前缀。
+     * 写一个函数找出一个字串所数组中的最长的公共前缀。
      *
      * 解题思路
-     * 　　第一步先找出长度最小的字符串，然后将这个字符串与其它的字符串相比找出最短的最公共前缀。
+     * 第一步先找出长度最小的字符串，然后将这个字符串与其它的字符串相比找出最短的最公共前缀。
      * </pre>
      *
      * @param strs
