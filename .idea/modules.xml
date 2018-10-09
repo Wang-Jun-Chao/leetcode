@@ -148,6 +148,10 @@
       <module fileurl="file://$PROJECT_DIR$/【223】【RectangleArea】/【223】【RectangleArea】.iml" filepath="$PROJECT_DIR$/【223】【RectangleArea】/【223】【RectangleArea】.iml" />
       <module fileurl="file://$PROJECT_DIR$/【225】【ImplementStackUsingQueues】/【225】【ImplementStackUsingQueues】.iml" filepath="$PROJECT_DIR$/【225】【ImplementStackUsingQueues】/【225】【ImplementStackUsingQueues】.iml" />
       <module fileurl="file://$PROJECT_DIR$/【226】【InvertBinaryTree 】/【226】【InvertBinaryTree 】.iml" filepath="$PROJECT_DIR$/【226】【InvertBinaryTree 】/【226】【InvertBinaryTree 】.iml" />
+      <module fileurl="file://$PROJECT_DIR$/【231】【Power of Two】/【231】【Power of Two】.iml" filepath="$PROJECT_DIR$/【231】【Power of Two】/【231】【Power of Two】.iml" />
+      <module fileurl="file://$PROJECT_DIR$/【232】【Implement Queue using Stacks】/【232】【Implement Queue using Stacks】.iml" filepath="$PROJECT_DIR$/【232】【Implement Queue using Stacks】/【232】【Implement Queue using Stacks】.iml" />
+      <module fileurl="file://$PROJECT_DIR$/【234】【Palindrome Linked List】/【234】【Palindrome Linked List】.iml" filepath="$PROJECT_DIR$/【234】【Palindrome Linked List】/【234】【Palindrome Linked List】.iml" />
+      <module fileurl="file://$PROJECT_DIR$/【235】【Lowest Common Ancestor of a Binary Search Tree】/【235】【Lowest Common Ancestor of a Binary Search Tree】.iml" filepath="$PROJECT_DIR$/【235】【Lowest Common Ancestor of a Binary Search Tree】/【235】【Lowest Common Ancestor of a Binary Search Tree】.iml" />
     </modules>
   </component>
 </project>
