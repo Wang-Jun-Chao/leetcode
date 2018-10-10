@@ -11,7 +11,6 @@ public class Solution {
             return true;
         }
 
-        int remainder;
         while ((num % 2) == 0) {
             num /= 2;
         }
