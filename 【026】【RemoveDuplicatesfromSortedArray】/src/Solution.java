@@ -31,27 +31,24 @@ public class Solution {
      */
     public int removeDuplicates(int[] A) {
 
-        if (A.length == 0) {
+        if (A == null) {
             return 0;
         }
 
-        int index = 0;//[0,index]只记录数组中出现的按从小到大的唯一一个数，已经排好序了
-        int next = 1;
+        if (A.length < 2) {
+            return A.length;
+        }
 
-        // 算法思想：找index之后的比A[index]大的数，如是找到就移动到A[index+1]处，
-        // index移动到下一个位置，next移动到下一个位置，再找比A[index]大的数
-
-        while (next < A.length) {
-            while (next < A.length && A[index] == A[next]) { // 找不等于数组中最
-                next++;
-            }
-
-            if (next < A.length) {
+        // 指向下一个可用位置
+        int index = 1;
+        for (int i = 1; i < A.length; i++) {
+            // index - 1表示当前最后一个排好的位置
+            if (A[index - 1] < A[i]) {
+                A[index] = A[i];
                 index++;
-                A[index] = A[next];
-                next++;
             }
         }
-        return index + 1;
+
+        return index;
     }
 }
