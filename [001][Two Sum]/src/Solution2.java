@@ -1,7 +1,4 @@
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
+import java.util.Arrays;
 
 /**
  * Author: 王俊超
@@ -9,7 +6,28 @@ import java.util.Map;
  * Time: 20:27
  * Declaration: All Rights Reserved !!!
  */
-public class Solution {
+public class Solution2 {
+    private static class Node implements Comparable<Node> {
+        int val;
+        int idx;
+
+        public Node() {
+        }
+
+        public Node(int val, int idx) {
+            this.val = val;
+            this.idx = idx;
+        }
+
+        @Override
+        public int compareTo(Node o) {
+            if (o == null) {
+                return -1;
+            }
+            return this.val - o.val;
+        }
+    }
+
 
     /**
      * <pre>
@@ -41,34 +59,36 @@ public class Solution {
     public int[] twoSum(int[] nums, int target) {
         int[] result = {0, 0};
 
-        // 因为无素可能会重复
-        Map<Integer, List<Integer>> map = new HashMap<>(nums.length);
-
+        Node[] tmp = new Node[nums.length];
         for (int i = 0; i < nums.length; i++) {
-            if (map.containsKey(nums[i])) {
-                map.get(nums[i]).add(i);
-            } else {
-                List<Integer> list = new ArrayList<>();
-                list.add(i);
-                map.put(nums[i], list);
-            }
+            tmp[i] = new Node(nums[i], i);
         }
 
-        for (int num : nums) {
-            int gap = target - num;
-            if (map.containsKey(gap)) {
-                // 同样的元素最多只可以有两个
-                if (gap == num && map.get(num).size() >= 2) {
-                    List<Integer> list = map.get(num);
-                    result[0] = Math.min(list.get(0), list.get(1));
-                    result[1] = Math.max(list.get(0), list.get(1));
-                } else if (gap != num){
-                    result[0] = Math.min(map.get(num).get(0), map.get(gap).get(0));
-                    result[1] = Math.max(map.get(num).get(0), map.get(gap).get(0));
+        // 先排序，然后左右夹逼，排序O(n log n)，左右夹逼O(n)，最终O(n log n)。但是注
+        // 意，这题需要返回的是下标，而不是数字本身，因此这个方法不好。
+        Arrays.sort(tmp);
+
+        int lo = 0;
+        int hi = nums.length - 1;
+
+
+        while (lo < hi) {
+            if (tmp[lo].val + tmp[hi].val == target) {
+
+                if (tmp[lo].idx > tmp[hi].idx) {
+                    result[0] = tmp[hi].idx + 1;
+                    result[1] = tmp[lo].idx + 1;
+                } else {
+                    result[0] = tmp[lo].idx + 1;
+                    result[1] = tmp[hi].idx + 1;
                 }
+                break;
+            } else if (tmp[lo].val + tmp[hi].val > target) {
+                hi--;
+            } else {
+                lo++;
             }
         }
-
         return result;
     }
 }

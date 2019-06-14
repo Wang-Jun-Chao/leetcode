@@ -23,57 +23,68 @@ public class Solution {
      * @return
      */
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
+        int total = nums1.length + nums2.length;
+        if (total % 2 != 0) {
+            return findKth(nums1, 0, nums2, 0, total / 2 + 1);
+        } else {
+            return (findKth(nums1, 0, nums2, 0, total / 2)
+                    + findKth(nums1, 0, nums2, 0, total / 2 + 1)
+            ) / 2.0;
+        }
+    }
 
-        if (nums1 == null) {
-            nums1 = new int[0];
+    /**
+     * 在数组两个数组中找第k大的元素，k=1, 2, 3, ...
+     *
+     * @param nums1
+     * @param nums2
+     * @param k
+     * @return
+     **/
+
+    public int findKth(int[] nums1, final int start1,
+                       int[] nums2, final int start2,
+                       final int k) {
+        // 将要查找长度小的放在前面
+        if (nums1.length - start1 > nums2.length - start2) {
+            return findKth(nums2, start2, nums1, start1, k);
         }
 
-        if (nums2 == null) {
-            nums2 = new int[0];
+        if (nums1.length == start1) {
+            return nums2[start2 + k - 1];
         }
 
-        int len1 = nums1.length;
-        int len2 = nums2.length;
-
-        if (len1 < len2) {
-            // 确保第一个数组比第二个数组长度大
-            return findMedianSortedArrays(nums2, nums1);
-        }
-
-        // 如果长度小的数组长度为0，就返回前一个数组的中位数
-        if (len2 == 0) {
-            return (nums1[(len1 - 1) / 2] + nums1[len1 / 2]) / 2.0;
+        // 第一个，就找两个中比较小的
+        if (k == 1) {
+            return Math.min(nums1[start1], nums2[start2]);
         }
 
 
-        int lo = 0;
-        int hi = len2 * 2;
-        int mid1;
-        int mid2;
-        double l1;
-        double l2;
-        double r1;
-        double r2;
+        // 在num1, nums2数组中各找一半的数，相当于每次丢掉要查总数的1/4
+        int half = Math.min(k / 2, nums1.length - start1);
+        // nums2数组中可找的位置
+        int ia = half + start1;
+        // nums2数组中可找的位置
+        int ib = k - half + start2;
 
-        while (lo <= hi) {
-            mid2 = (lo + hi) / 2;
-            mid1 = len1 + len2 - mid2;
-
-            l1 = (mid1 == 0) ? Integer.MIN_VALUE : nums1[(mid1 - 1) / 2];
-            l2 = (mid2 == 0) ? Integer.MIN_VALUE : nums2[(mid2 - 1) / 2];
-
-            r1 = (mid1 == len1 * 2) ? Integer.MAX_VALUE : nums1[mid1 / 2];
-            r2 = (mid2 == len2 * 2) ? Integer.MAX_VALUE : nums2[mid2 / 2];
-
-            if (l1 > r2) {
-                lo = mid2 + 1;
-            } else if (l2 > r1) {
-                hi = mid2 - 1;
-            } else {
-                return (Math.max(l1, l2) + Math.min(r1, r2)) / 2;
-            }
+        // nums1[start, ..., ia-1, ia, ..., nums1.length]
+        // nums2[start, ..., ib-1, ib, ..., nums2.length]
+        // 说明子数组nums1[start, ..., ia-1]可以弃了，要找的值在nums1[ia, ..., nums1.length]
+        // 和nums2[start, ..., ib-1, ib, ..., nums2.length]中
+        if (nums1[ia - 1] < nums2[ib - 1]) {
+            // k - (ia - start1) = k - (half + start1 - start1)=k - half
+            return findKth(nums1, ia, nums2, start2, k - (ia - start1));
         }
 
-        return -1;
+        // 说明子数组nums2[start, ..., ib-1]可以弃了，要找的值在nums2[ib, ..., nums2.length]
+        // nums1[start, ..., ia-1, ia, ..., nums1.length]
+        else if (nums1[ia - 1] > nums2[ib - 1]) {
+            // k - (ib - start2) = k - (k - half + start2 - start2)
+            return findKth(nums1, start1, nums2, ib, half);
+        }
+        // 两个值相等说明找到了，
+        else {
+            return nums1[ia - 1];
+        }
     }
 }
