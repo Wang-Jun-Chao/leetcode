@@ -66,25 +66,58 @@ class Solution {
         return ans;
     }
 
+    /**
+     * <pre>
+     * 用一个栈辅助，小于栈顶的元素压入，大于等于栈顶就把栈里所有小于或
+     * 等于当前值的元素全部出栈处理掉，计算面积，最后把当前元素入栈
+     *
+     *
+     *
+     *         =
+     *    =   === =
+     *  = == =======
+     * =============
+     * 0123456789012
+     * </pre>
+     * @param height
+     * @return
+     */
     int trap3(int[] height) {
         int ans = 0, current = 0;
         Deque<Integer> st = new LinkedList<>();
         while (current < height.length) {
+            // 当前元素比栈顶元素大
             while (!st.isEmpty() && height[current] > height[st.getFirst()]) {
-                int top = st.peek();
-                st.pop();
+                int top = st.pop();
                 if (st.isEmpty()) {
                     break;
                 }
+
+                // 求距离，如上图，比如current=7，此时top=4，top到current距离：current-top-1
                 int distance = current - st.peek() - 1;
+                // top以下的水位已经计算过了，top以上的水位就
+                // height[current] - height[top], height[st.peek()] - height[top]
+                // 较小的值，简化为以下面的表达式
                 int boundedHeight = Math.min(height[current], height[st.peek()]) - height[top];
                 ans += distance * boundedHeight;
             }
+
+            // 当前元素不大于栈顶元素
             st.push(current++);
         }
         return ans;
     }
 
+    /**
+     * <pre>
+     * 1. 扫描一遍，找到最高的柱子，这个柱子将数组分为两半；
+     * 2. 处理左边一半；
+     * 3. 处理右边一半。
+     * </pre>
+     *
+     * @param height
+     * @return
+     */
     int trap4(int[] height) {
         int left = 0;
         int right = height.length - 1;
