@@ -45,20 +45,27 @@ public class Solution {
             return result;
         }
 
-        Arrays.sort(num); // 对数组进行排序
+        // 对数组进行排序
+        Arrays.sort(num);
 
-        for (int i = 0; i < num.length - 3; i++) { // 第一个加数
-            if (i > 0 && num[i] == num[i - 1]) { // 第一个加数使用不重复
+        // 第一个加数
+        for (int i = 0; i < num.length - 3; i++) {
+            // 第一个加数使用不重复
+            if (i > 0 && num[i] == num[i - 1]) {
                 continue;
             }
 
-            for (int j = num.length - 1; j > i + 2; j--) { // 第四个加数
-                if (j < num.length - 1 && num[j] == num[j + 1]) { // 第四个加数使用不重复
+            // 第四个加数
+            for (int j = num.length - 1; j > i + 2; j--) {
+                // 第四个加数使用不重复
+                if (j < num.length - 1 && num[j] == num[j + 1]) {
                     continue;
                 }
 
-                int start = i + 1; // 第二个加数
-                int end = j - 1; // 第三个加数
+                // 第二个加数
+                int start = i + 1;
+                // 第三个加数
+                int end = j - 1;
                 int n = target - num[i] - num[j];
 
                 while (start < end) {
@@ -73,19 +80,22 @@ public class Solution {
 
                         do {
                             start++;
-                        } while (start < end && num[start] == num[start - 1]); // 保证再次使用第二个数不重复
-
+                            // 保证再次使用第二个数不重复
+                        } while (start < end && num[start] == num[start - 1]);
                         do {
                             end--;
-                        } while (start < end && num[end] == num[end + 1]); // 保证再次使用第三个数不重复
+                            // 保证再次使用第三个数不重复
+                        } while (start < end && num[end] == num[end + 1]);
                     } else if (num[start] + num[end] < n) {
                         do {
                             start++;
-                        } while (start < end && num[start] == num[start - 1]); // 保证再次使用第二个数不重复
+                            // 保证再次使用第二个数不重复
+                        } while (start < end && num[start] == num[start - 1]);
                     } else {
                         do {
                             end--;
-                        } while (start < end && num[end] == num[end + 1]); // 保证再次使用第三个数不重复
+                            // 保证再次使用第三个数不重复
+                        } while (start < end && num[end] == num[end + 1]);
                     }
                 }
             }

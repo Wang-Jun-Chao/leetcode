@@ -18,32 +18,35 @@ public class Solution {
      * 从左边找值为elem的元素的位置，j从右边找值不为elem的元素的位置，然后将j位置的数值移动到i位置。
      * </pre>
      *
-     * @param A
-     * @param elem
+     * @param nums
+     * @param val
      * @return
      */
-    public int removeElement(int[] A, int elem) {
+    public int removeElement(int[] nums, int val) {
         int exchange = 0; // 记录交换的次数，也就是统计数组中与elem元素值相等的个数
 
         // 算法思想：i从左边找值为elem的元素的位置，j从右边找值不为elem的元素的位置，
         // 取等号是让长度为1的数组可以进入
-        for (int i = 0, j = A.length - 1; i <= j; i++) {
-            if (A[i] == elem) { // 找到要交换的元素
+        for (int i = 0, j = nums.length - 1; i <= j; i++) {
+            // 找到要交换的元素
+            if (nums[i] == val) {
                 exchange++;
 
-                while (j > i && A[j] == elem) { // 从数组后面开始向前找第一个不等于elem的元素
-                    exchange++; // 有值为elem的元素说明要交换，但是交换过程可以省去
+                // 从数组后面开始向前找第一个不等于elem的元素
+                while (j > i && nums[j] == val) {
+                    // 有值为elem的元素说明要交换，但是交换过程可以省去
+                    exchange++;
                     j--;
                 }
 
                 // 情况1：到到不为elem的元素的位置，将j位置的元素放到i位置
                 // 情况2：没有找到不elem的元素的位置，即i后的所有元素值都是e，此时有j=i
                 // 不论哪种情况将j中的值放入i都没有关系
-                A[i] = A[j];
+                nums[i] = nums[j];
                 j--; // j已经被交换使用了所以还要和前移动到一个新的位置
             }
         }
 
-        return A.length - exchange;
+        return nums.length - exchange;
     }
 }

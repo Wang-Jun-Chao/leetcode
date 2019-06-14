@@ -1,6 +1,4 @@
-import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.List;
 
 /**
  * Author: 王俊超
@@ -8,7 +6,7 @@ import java.util.List;
  * Time: 09:29
  * Declaration: All Rights Reserved !!!
  */
-public class Solution {
+public class Solution2 {
     /**
      * <pre>
      * Given an array S of n integers, find three integers in S such that the sum is
@@ -47,7 +45,7 @@ public class Solution {
 
 
         // i表示假设取第i个数作为结果
-        for (int i = 0; i < nums.length - 2;) {
+        for (int i = 0; i < nums.length - 2; i++) {
             // 第二个数可能的起始位置
             int j = i + 1;
             // 第三个数可能是结束位置
@@ -77,21 +75,13 @@ public class Solution {
 
                 // 和大于target
                 if (sum > target) {
-                   do {
-                       k--; // 找到不同的值
-                   }while (j < k && nums[k]==nums[k + 1]);
+                    k--;
                 }
                 // 和小于target
                 else {
-                    do {
-                        j++;
-                    }while (j < k && nums[j - 1] == nums[j]);
+                    j++;
                 }
             }
-
-            do {
-                i++;
-            }while (i < nums.length - 2 && nums[i - 1] == nums[i]);
         }
 
         return (int) result;
