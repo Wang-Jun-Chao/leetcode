@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 /**
  * Author: 王俊超
  * Date: 2015-08-21
@@ -42,9 +44,12 @@ public class Solution {
                 record[board[i][j] - '.']++;
             }
 
-            if (!check(record)) { // 如是检查失败
+            // 如是检查失败
+            if (!check(record)) {
                 return false;
-            } else { // 检查成功重置棋盘
+            }
+            // 检查成功重置棋盘
+            else {
                 reset(record);
             }
         }
@@ -83,11 +88,7 @@ public class Solution {
     }
 
     private void reset(int[] a) {
-        for (int i = 0; i < a.length; i++) {
-            a[i] = 0;
-        }
-
-
+        Arrays.fill(a, 0);
     }
 
     /**

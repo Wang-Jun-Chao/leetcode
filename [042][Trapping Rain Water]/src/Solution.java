@@ -11,20 +11,33 @@ class Solution {
         return trap4(height);
     }
 
+    /**
+     * <pre>
+     * 对于每个柱子，找到其左右两边最高的柱子，该柱子能容纳的面积就是min(max_left,max_right) - height。所以，
+     * 1. 从左往右扫描一遍，对于每个柱子，求取左边最大值；
+     * 2. 从右往左扫描一遍，对于每个柱子，求最大右值；
+     * 3. 再扫描一遍，把每个柱子的面积并累加。
+     * </pre>
+     *
+     * @param height
+     * @return
+     */
     public int trap1(int[] height) {
         int ans = 0;
         int size = height.length;
         for (int i = 1; i < size - 1; i++) {
             int maxLeft = 0;
             int maxRight = 0;
-            for (int j = i; j >= 0; j--) { //Search the left part for max bar size
+            // 找此柱左边最高的柱子
+            for (int j = i - 1; j >= 0; j--) {
                 maxLeft = Math.max(maxLeft, height[j]);
             }
-            for (int j = i; j < size; j++) { //Search the right part for max bar size
+            // 找此柱子右边最高的柱子
+            for (int j = i + 2; j < size; j++) {
                 maxRight = Math.max(maxRight, height[j]);
             }
 
-            // TODO 原理是什么？
+            // Math.min(maxLeft, maxRight) - height[i] 此柱子可以容纳的水
             ans += Math.min(maxLeft, maxRight) - height[i];
         }
         return ans;
@@ -39,15 +52,13 @@ class Solution {
         int[] leftMax = new int[size];
         int[] rightMax = new int[size];
 
-        leftMax[0] = height[0];
-        for (int i = 1; i < size; i++) {
+
+        // 对于每个柱子求左右最大值，并保存起来
+        for (int i = 1; i < size - 1; i++) {
             leftMax[i] = Math.max(height[i], leftMax[i - 1]);
+            rightMax[size - i - 1] = Math.max(height[size - i], rightMax[size - i]);
         }
 
-        rightMax[size - 1] = height[size - 1];
-        for (int i = size - 2; i >= 0; i--) {
-            rightMax[i] = Math.max(height[i], rightMax[i + 1]);
-        }
 
         for (int i = 1; i < size - 1; i++) {
             ans += Math.min(leftMax[i], rightMax[i]) - height[i];
