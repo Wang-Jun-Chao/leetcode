@@ -5,6 +5,16 @@
  * Declaration: All Rights Reserved !!!
  */
 public class Solution {
+    /**
+     * <pre>
+     * 设f(n) 表示爬n 阶楼梯的不同方法数，为了爬到第n 阶楼梯，有两个选择：
+     * - 从第n - 1 阶前进1 步；
+     * - 从第n - 1 阶前进2 步；
+     * 因此，有f(n) = f(n - 1) + f(n - 2)。
+     * </pre>
+     * @param n
+     * @return
+     */
     public int climbStairs(int n) {
 
         int result = 0;

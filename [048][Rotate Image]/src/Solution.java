@@ -15,7 +15,7 @@ public class Solution {
             }
         }
 
-        // 再对行进行水平转换
+        // 再对行进行垂直转换
         int half = matrix.length / 2;
         for (int i = 0; i < matrix.length; i++) {
             for (int j = 0; j < half; j++) {
