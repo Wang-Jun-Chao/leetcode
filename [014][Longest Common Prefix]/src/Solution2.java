@@ -4,7 +4,7 @@
  * Time: 16:19
  * Declaration: All Rights Reserved !!!
  */
-public class Solution {
+public class Solution2 {
     /**
      * <pre>
      * 原题
@@ -33,27 +33,33 @@ public class Solution {
         int min = Integer.MAX_VALUE;
 
         // 找短字符串的长度
-        String result = "";
         for (String str : strs) {
 
-            if (str == null || str.length() == 0) {
-                return "";
+            if (str == null) {
+                return null;
             }
 
             if (min > str.length()) {
                 min = str.length();
-                result = str;
             }
         }
 
-        for (String s: strs) {
-            for (int i = 0; i < result.length(); i++) {
-                if (result.charAt(i) != s.charAt(i)) {
-                    result = result.substring(0, i);
+        int i; // 记录最长前缀的字符数
+        boolean flag;
+        for (i = 0; i < min; i++) {
+            flag = true;
+            for (int j = 1; j < strs.length; j++) {
+                if (strs[0].charAt(i) != strs[j].charAt(i)) {
+                    flag = false;
+                    break;
                 }
             }
+
+            if (!flag) {
+                break;
+            }
         }
 
-        return result;
+        return strs[0].substring(0, i);
     }
 }

@@ -1,3 +1,6 @@
+import org.junit.Assert;
+import org.junit.Test;
+
 /**
  * Author: 王俊超
  * Date: 2015-03-01
@@ -24,5 +27,11 @@ public class Main {
         System.out.println(solution.romanToInt("MDCLXVI"));
         System.out.println(solution.romanToInt("MCMLXXVI"));
         System.out.println(solution.romanToInt("MMMCMXCIX"));
+    }
+
+    @Test
+    public void test1() {
+        Solution solution = new Solution();
+        Assert.assertEquals(1994, solution.romanToInt("MCMXCIV"));
     }
 }

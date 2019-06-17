@@ -24,7 +24,10 @@ public class Solution {
             head = nextNode;
         }
 
-        return root.next;
+        head = root.next;
+        root.next = null;
+
+        return head;
     }
 
     /**

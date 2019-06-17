@@ -50,13 +50,15 @@ public class Solution {
 
         t2.next = null;
 
-        // 说明小于的链表上有数据
+        // 有可能t1链表是没有数据
+        // t1移动过，说明小于的链表上有数据
         if (t1 != le) {
             t1.next = ge.next;
             head = le.next;
         } else {
             head = ge.next;
         }
+
         return head;
     }
 }

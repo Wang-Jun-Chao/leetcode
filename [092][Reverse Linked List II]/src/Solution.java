@@ -49,7 +49,8 @@ public class Solution {
                 m = 1;
             }
 
-            n = n - m + 1; // n为要换的结点数目
+            // n为要换的结点数目
+            n = n - m + 1;
             // 有两个结点时才要使用尾插法，尾插的个数为n-1
             for (int i = 1; i < n && q.next != null; i++) {
                 // 为要进行尾插的结点

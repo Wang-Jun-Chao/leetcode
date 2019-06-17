@@ -25,10 +25,11 @@ public class Solution {
      * @return
      */
     public ListNode swapPairs(ListNode head) {
-        ListNode node = new ListNode(0); // 头结点
+        // 头结点
+        ListNode node = new ListNode(0);
         node.next = head;
 
-        // p指向新的链表的尾结点
+        // p指向新的链表的尾结点，p指向处理好的结点，添加的头结点认为已经处理好了
         ListNode p = node;
         ListNode tmp;
 

@@ -26,21 +26,28 @@ public class Solution {
      */
     public ListNode deleteDuplicates(ListNode head) {
         ListNode point;
-        ListNode tail = head; // 指向新结点的尾部，开始时新链只有一个元素，就是链头
+        // 指向新结点的尾部，开始时新链只有一个元素，就是链头
+        ListNode tail = head;
 
         if (head != null) {
-            point = head.next; // 指向另一个链的头部
-            while (point != null) { // 另一个链还未到末尾
+            // 指向链头的下一个元素
+            point = head.next;
+            // 还未到末尾
+            while (point != null) {
 
-                if (tail.val != point.val) { // 如果与尾节点不相同，就将不相同的节点链接到tail的下一个位置
+                // 如果与尾节点不相同，就将不相同的节点链接到tail的下一个位置
+                if (tail.val != point.val) {
                     tail.next = point;
-                    tail = tail.next; // 重新指向链尾
+                    // 重新指向链尾
+                    tail = tail.next;
                 }
 
+                // 移动到下一个位置
                 point = point.next;
             }
 
-            tail.next = null; // 链尾指向空
+            // 链尾指向空
+            tail.next = null;
         }
 
         return head;

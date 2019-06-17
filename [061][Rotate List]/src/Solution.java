@@ -11,47 +11,24 @@ public class Solution {
             return head;
         }
 
-        ListNode root = new ListNode(0);
-        root.next = head;
-        ListNode p = root;
-        ListNode q = root;
-
-        int count = 0;
-        for (int i = 0; i <= n; i++) {
+        int length = 1;
+        ListNode p = head;
+        while (p.next != null) {
             p = p.next;
-            count++;
-            if (p == null) {
-                count--; // 链表中除头结点后数据个数
-                n = n % count; // 实际要位置的位数
-                // 为重新开始位移做准备
-                i = 0;
-                p = head;
-            }
+            length++;
         }
 
-        // 找到第一个要交换的结点的前驱
-        // q为第一个要交换的结点的前驱
-        while (p != null) {
+        // 从左向右要，遍历的节点个数，即为新head的前一个节点
+        n = length - n % length;
+
+        // 首尾相连
+        p.next = head;
+        for (int i = 0; i < n; i++) {
             p = p.next;
-            q = q.next;
-
         }
 
-        p = q;
-        q = root;
-        if (p != null && p.next != null) { // 有要位移的结点
-            ListNode node;
-            while (p.next != null) {
-                // 摘除结点
-                node = p.next;
-                p.next = node.next;
-                // 接上结点
-                node.next = q.next;
-                q.next = node;
-                q = node; // 最后一个移动的节点
-            }
-        }
-
-        return root.next;
+        head = p.next;
+        p.next = null;
+        return head;
     }
 }

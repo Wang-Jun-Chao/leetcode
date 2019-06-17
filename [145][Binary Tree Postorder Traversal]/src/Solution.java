@@ -66,8 +66,8 @@ public class Solution {
                 // 获取栈顶元素（不删除）
                 curr = deque.getLast();
                 if ((curr.left == null && curr.right == null) // 当前元素无左右子树
-                        // prev == null && curr.left == prev，当前结点只有左子树，并且左子树已经遍历完
-                        // prev == null && curr.right == prev，当前结点有左右子树，并且左右子树已经遍历完
+                        // prev != null && curr.left == prev，当前结点只有左子树，并且左子树已经遍历完
+                        // prev != null && curr.right == prev，当前结点有右子树，并且右子树已经遍历完
                         || (prev != null && (curr.left == prev || curr.right == prev))) {
                     // 删除栈顶元素
                     curr = deque.removeLast();
@@ -78,11 +78,9 @@ public class Solution {
                 } else {
 
                     // 左右子树未遍历完，将非空左右子树入栈
-
                     if (curr.right != null) {
                         deque.addLast(curr.right);
                     }
-
                     if (curr.left != null) {
                         deque.addLast(curr.left);
                     }

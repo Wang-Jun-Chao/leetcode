@@ -26,33 +26,52 @@ public class Solution {
      */
     public ListNode deleteDuplicates(ListNode head) {
 
-        ListNode root = new ListNode(0); // 头结点
+        // 头结点
+        ListNode root = new ListNode(0);
         root.next = head;
         ListNode p = head;
-        ListNode q = root; // 记录最后一个没有重复的元素，开始指向头结点
+        // 记录最后一个没有重复的元素，开始指向头结点
+        ListNode q = root;
 
-        int delta = 0; // 元素重复个数
+        // 元素重复个数
+        int delta = 0;
 
         while (p != null && p.next != null) {
-            if (p.val == p.next.val) { // 如果相邻两个数相同
+            // 如果相邻两个数相同
+            if (p.val == p.next.val) {
                 delta++;
-                p = p.next; // 移动到下一个结点
-            } else { // 如果相邻两个结点不相同
-                if (delta == 0) { // 值为p.val的结点没有重复
-                    q.next = p; // 链接到没有复的元素
-                    q = p; // 指向最后一个未重复的元素
-                    p = p.next; // 移动到下一个结点
-                } else { // 值为p.val的结点有重复
-                    p = p.next; // 移动到下一个元素
-                    q.next = p.next; // 去掉重复的元素
-                    delta = 0; // 元素重复个数设置为0
+                // 移动到下一个结点
+                p = p.next;
+            }
+            // 如果相邻两个结点不相同
+            else {
+                // 值为p.val的结点没有重复
+                if (delta == 0) {
+                    // 链接到没有复的元素
+                    q.next = p;
+                    // 指向最后一个未重复的元素
+                    q = p;
+                    // 移动到下一个结点
+                    p = p.next;
+                }
+                // 值为p.val的结点有重复
+                else {
+                    // 移动到下一个元素
+                    p = p.next;
+                    // 去掉重复的元素
+                    q.next = p.next;
+                    // 元素重复个数设置为0
+                    delta = 0;
                 }
             }
         }
 
-        if (delta != 0) { // 如果最后一个元素是复的就去掉
+        // 如果最后一个元素是复的就去掉
+        if (delta != 0) {
             q.next = null;
-        } else { // 如果没有重复就开链接到表尾
+        }
+        // 如果没有重复就开链接到表尾
+        else {
             q.next = p;
         }
 

@@ -53,6 +53,7 @@ public class Solution {
         }
 
         pb.next = pb.next.next;
+
         return head;
     }
 }

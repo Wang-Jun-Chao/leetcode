@@ -29,8 +29,7 @@ public class Solution {
     public TreeNode buildTree(int[] preorder, int[] inorder) {
 
         // 参数校验
-        if (preorder == null || inorder == null || preorder.length == 0
-                || preorder.length != inorder.length) {
+        if (preorder == null || inorder == null || preorder.length == 0 || preorder.length != inorder.length) {
             return null;
         }
         return solve(preorder, 0, preorder.length - 1, inorder, 0, inorder.length - 1);
@@ -53,7 +52,9 @@ public class Solution {
             // 只有一个元素
             if (x == y) {
                 return new TreeNode(preorder[x]);
-            } else if (x < y) {
+            }
+            // x不可能大于y
+            else if (x < y) {
                 // 记录根结点的索引
                 int idx = i;
                 while (idx <= j && inorder[idx] != preorder[x]) {
@@ -64,6 +65,7 @@ public class Solution {
                 TreeNode root = new TreeNode(inorder[idx]);
 
                 // 左子树的结点个数
+                //[i, i+1, ..., idx - 1] -> 总计idx - i个
                 int leftLength = idx - i;
                 //
                 if (leftLength > 0) {
@@ -72,6 +74,7 @@ public class Solution {
                 }
 
                 // 右子树的结点个数
+                // [idx+1, idx+2, ..., j] -> 总计：j - idx个
                 int rightLength = j - idx;
                 if (rightLength > 0) {
                     // x + leftLength + 1, y：右子树起始和结束位置

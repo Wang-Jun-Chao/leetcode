@@ -16,7 +16,9 @@ public class Solution {
      * 输入的数字在1-3999之间。
      *
      * 解题思路
-     * 根据罗马数字与整数数字对应关系进行加法操作，如果前一个数字比后一个大就相减，否则进行相加。
+     * 从前往后扫描，用一个临时变量记录分段数字。
+     * 如果当前比前一个大，说明这一段的值应该是当前这个值减去上一个值。比如IV = 5 – 1；否
+     * 则，将当前值加入到结果中，然后开始下一段记录。比如VI = 5 + 1, II=1+1
      * </pre>
      *
      * @param s
@@ -25,74 +27,29 @@ public class Solution {
     public int romanToInt(String s) {
 
         int result = 0;
-        int prev = 0; // 记录前一个数字的值
 
-        for (int i = s.length() - 1; i > -1; i--) {
-            switch (s.charAt(i)) {
-                case 'I': // 1
-                    if (1 < prev) {
-                        result -= 1;
-                    } else {
-                        result += 1;
-
-                    }
-                    prev = 1;
-                    break;
-
-                case 'V': // 5
-
-                    if (5 < prev) {
-                        result -= 5;
-                    } else {
-                        result += 5;
-                    }
-
-                    prev = 5;
-
-                    break;
-                case 'X': // 10
-                    if (10 < prev) {
-                        result -= 10;
-                    } else {
-                        result += 10;
-                    }
-
-                    prev = 10;
-                    break;
-                case 'L': // 50
-                    if (50 < prev) {
-                        result -= 50;
-                    } else {
-                        result += 50;
-                    }
-
-                    prev = 50;
-                    break;
-                case 'C': // 100
-                    if (100 < prev) {
-                        result -= 100;
-                    } else {
-                        result += 100;
-                    }
-
-                    prev = 100;
-                    break;
-                case 'D': // 500
-                    if (500 < prev) {
-                        result -= 500;
-                    } else {
-                        result += 500;
-                    }
-
-                    prev = 500;
-                    break;
-                case 'M': // 1000
-                    result += 1000;
-                    prev = 1000;
-                    break;
+        for (int i = 0; i < s.length(); i++) {
+            // 当前的值比前一个值大，说明[i-1, i]组成一个值，并且值是s[i-1]-s[i]
+            if (i > 0 && charToInt(s.charAt(i)) > charToInt(s.charAt(i - 1))) {
+                // 要减去两倍之前前值才能回到真实值
+                result += charToInt(s.charAt(i)) - 2 * charToInt(s.charAt(i - 1));
+            } else {
+                result  += charToInt(s.charAt(i));
             }
         }
 
         return result;
+    }
+    private int charToInt(char c) {
+        switch (c) {
+            case 'I': return 1;
+            case 'V': return 5;
+            case 'X': return 10;
+            case 'L': return 50;
+            case 'C': return 100;
+            case 'D': return 500;
+            case 'M': return 1000;
+            default: return 0;
+        }
     }
 }

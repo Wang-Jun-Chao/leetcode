@@ -30,66 +30,21 @@ public class Solution {
      */
     public boolean isValid(String s) {
         Deque<Character> stack = new LinkedList<>();
-        int index = 0;
-        Character top;
-        while (index < s.length()) {
-            Character c = s.charAt(index);
-            switch (c) {
-                case '(':
-                case '[':
-                case '{':
-                    stack.addFirst(c);
-                    break;
-                case ')':
+        final String left = "([{";
+        final String right = ")]}";
 
-                    if (stack.isEmpty()) {
-                        return false;
-                    }
+        for (int index = 0; index < s.length(); index++) {
+            char c = s.charAt(index);
 
-                    top = stack.getFirst();
-                    if (top == '(') {
-                        stack.removeFirst();
-                    } else if (top == '[' || top == '{') {
-                        return false;
-                    } else {
-                        stack.addFirst(c);
-                    }
-                    break;
-                case ']':
-
-                    if (stack.isEmpty()) {
-                        return false;
-                    }
-
-                    top = stack.getFirst();
-                    if (top == '[') {
-                        stack.removeFirst();
-                    } else if (top == '(' || top == '{') {
-                        return false;
-                    } else {
-                        stack.addFirst(c);
-                    }
-                    break;
-                case '}':
-
-                    if (stack.isEmpty()) {
-                        return false;
-                    }
-
-                    top = stack.getFirst();
-                    if (top == '{') {
-                        stack.removeFirst();
-                    } else if (top == '[' || top == '(') {
-                        return false;
-                    } else {
-                        stack.addFirst(c);
-                    }
-                    break;
-                default:
+            if (left.indexOf(c) > -1) {
+                stack.push(c);
+            } else {
+                if (stack.isEmpty() || right.indexOf(c) != left.indexOf(stack.peek())) {
                     return false;
+                } else {
+                    stack.pop();
+                }
             }
-
-            index++;
         }
 
         return stack.isEmpty();
