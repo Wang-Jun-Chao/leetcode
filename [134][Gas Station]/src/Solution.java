@@ -100,7 +100,9 @@ public class Solution {
     }
 
 
-    // 下面的方法会超时O(N^2)时间复杂度
+    /**
+     * 下面的方法会超时O(N^2)时间复杂度
+     */
     public int canCompleteCircuit2(int[] gas, int[] cost) {
         // 参数检验
         if (gas == null || cost == null || gas.length == 0 || gas.length != cost.length) {

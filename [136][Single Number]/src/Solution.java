@@ -23,7 +23,7 @@ public class Solution {
     public int singleNumber(int[] nums) {
 
         if (nums == null || nums.length < 1) {
-            throw new IllegalArgumentException("nums");
+            throw new IllegalArgumentException("nums should contain at least one element");
         }
 
 

@@ -39,19 +39,24 @@ public class Solution {
 
         ListNode p1 = l1;
         ListNode p2 = l2;
-        ListNode root = new ListNode(0); // 头结点
+        // 头结点
+        ListNode root = new ListNode(0);
         ListNode r = root;
         root.next = l1;
 
-        int carry = 0; // 初始进位
+        // 初始进位
+        int carry = 0;
         int sum;
         while (p1 != null && p2 != null) {
             sum = p1.val + p2.val + carry;
-            p1.val = sum % 10; // 本位的结果
-            carry = sum / 10; // 本次进位
+            // 本位的结果
+            p1.val = sum % 10;
+            // 本次进位
+            carry = sum / 10;
 
             r.next = p1;
-            r = p1; // 指向最后一个相加的结点
+            // 指向最后一个相加的结点
+            r = p1;
             p1 = p1.next;
             p2 = p2.next;
 
