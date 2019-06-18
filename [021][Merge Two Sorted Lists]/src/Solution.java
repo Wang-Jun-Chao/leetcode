@@ -40,11 +40,13 @@ public class Solution {
                 l2 = l2.next;
             }
 
-            tail = tail.next; // 移动到新的尾结点
+            // 移动到新的尾结点
+            tail = tail.next;
         }
 
         tail.next = (l1 != null ? l1 : l2);
 
-        return head.next; // head的下一个节点是第一个数据结点
+        // head的下一个节点是第一个数据结点
+        return head.next;
     }
 }

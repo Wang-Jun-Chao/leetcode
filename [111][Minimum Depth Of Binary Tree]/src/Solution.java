@@ -5,9 +5,6 @@
  * Declaration: All Rights Reserved !!!
  */
 public class Solution {
-    private int min = Integer.MAX_VALUE; // 记录树的最小深度
-    private int cur = 0; // i当前处理的树的尝试
-
     /**
      * <pre>
      * 原题
@@ -26,39 +23,18 @@ public class Solution {
      * @return
      */
     public int minDepth(TreeNode root) {
-
-        depth(root);
-        return min;
+        return minDepth(root, false);
     }
 
-    /**
-     * 计算树的深度
-     *
-     * @param node 当前结点
-     */
-    private void depth(TreeNode node) {
-
-        if (node == null) {
-            min = cur;
-            return;
+    public int minDepth(TreeNode root, boolean hasBrother) {
+        if (root == null) {
+            // 自己为null，兄弟不为null，上层有子结点，说明当前还没有找到最小层
+            // 没有兄弟，说明遍历到当前时，局部最小层已经找到
+            return hasBrother ? Integer.MAX_VALUE : 0;
         }
 
-        cur++; // 当前处理的层次加1
-        // 如果是叶节点，并且路径比记录的最小还小
-        if (node.left == null && node.right == null && cur < min) {
-            min = cur; // 更新最小值
-        }
-        // 处理左子树
-        if (node.left != null) {
-            depth(node.left);
-        }
-
-        // 处理右子树
-        if (node.right != null) {
-            depth(node.right);
-        }
-
-        cur--; // 还原
-
+        return 1 + Math.min(minDepth(root.left, root.right != null),
+                minDepth(root.right, root.left != null));
     }
+
 }

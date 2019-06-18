@@ -23,28 +23,29 @@ public class Solution {
      * 动的位置值向前移动一个位置，再进行同样的操作，直到所有的元素处理完。
      * </pre>
      *
-     * @param A
+     * @param arr
      * @param m
-     * @param B
+     * @param brr
      * @param n
      */
-    public void merge(int A[], int m, int B[], int n) {
+    public void merge(int arr[], int m, int brr[], int n) {
         int pa = m - 1;
         int pb = n - 1;
         int index = m + n - 1;
 
         while (pa >= 0 && pb >= 0) {
-            if (A[pa] >= B[pb]) {
-                A[index--] = A[pa--];
+            if (arr[pa] >= brr[pb]) {
+                arr[index--] = arr[pa--];
             } else {
-                A[index--] = B[pb--];
+                arr[index--] = brr[pb--];
             }
         }
 
-        while (pb >= 0) { // 说明pa一定为0
-            A[index--] = B[pb--];
+        // 说明pa一定为0
+        while (pb >= 0) {
+            arr[index--] = brr[pb--];
         }
 
-        // 如果pa >= 0，说明[0, pa]还没有进行判断，因为[0, pa]的数在A中，所以不要移动了
+        // 如果pa >= 0，说明[0, pa]还没有进行判断，因为[0, pa]的数在arr中，所以不要移动了
     }
 }
