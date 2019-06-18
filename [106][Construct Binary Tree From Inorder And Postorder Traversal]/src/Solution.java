@@ -31,8 +31,7 @@ public class Solution {
     public TreeNode buildTree(int[] inorder, int[] postorder) {
 
         // 参数检验
-        if (inorder == null || postorder == null || inorder.length == 0
-                || inorder.length != postorder.length) {
+        if (inorder == null || postorder == null || inorder.length == 0 || inorder.length != postorder.length) {
             return null;
         }
 
@@ -70,6 +69,7 @@ public class Solution {
                 }
 
                 // 左子树非空，构建左子树
+                // [x, x+1, ..., idx-1] -> 总计 idx-x个
                 int leftLength = idx - x;
                 if (leftLength > 0) {
                     // i, i + leftLength - 1，前序遍历的左子树的起始，结束位置
@@ -77,6 +77,7 @@ public class Solution {
                 }
 
                 // 右子树非空，构建右子树
+                // [idx+1, idx+2, ..., y] -> 总计 y-idx个
                 int rightLength = y - idx;
                 if (rightLength > 0) {
                     // i + leftLength, j - 1，前序遍历的右子树的起始，结束位置
