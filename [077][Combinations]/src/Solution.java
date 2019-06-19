@@ -1,4 +1,3 @@
-import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
 
@@ -9,8 +8,6 @@ import java.util.List;
  * Declaration: All Rights Reserved !!!
  */
 public class Solution {
-    private List<List<Integer>> result;
-    private List<Integer> l;
 
     /**
      * <pre>
@@ -32,7 +29,7 @@ public class Solution {
      * 给定两个数n和k，求从1-n中k个数的所有组合。
      *
      * 解题思路
-     * 采用递归分治法进行求解，详见代码。
+     * 使用广度优化遍历算法
      * </pre>
      *
      * @param n
@@ -40,40 +37,26 @@ public class Solution {
      * @return
      */
     public List<List<Integer>> combine(int n, int k) {
-        result = new LinkedList<>();
+        List<List<Integer>> result = new LinkedList<>();
+        List<Integer> current = new LinkedList<>();
 
-        if (n > 0 && k > 0 && n >= k) {
-            l = new LinkedList<>();
-            combine(1, n, k);
-        }
+        dfs(1, n, k, current, result);
 
         return result;
     }
 
-    /**
-     * 求组合
-     *
-     * @param start 可选择的数开始位置
-     * @param end   可选择的数的结束位置
-     * @param num   在[start, end]中选择的数的数目
-     */
-    private void combine(int start, int end, int num) {
-
-        if (num == 0) {
-            List<Integer> tmp = new ArrayList<>();
-            for (Integer i : l) {
-                tmp.add(i);
-            }
-
-            result.add(tmp);
+    private void dfs(int start, int end, int k, List<Integer> current, List<List<Integer>> result) {
+        if (k == current.size()) {
+            result.add(new LinkedList<>(current));
             return;
         }
 
-        int endFirst = end - num + 1; // 第一个数可以选择的最大值
-        for (int i = start; i <= endFirst; i++) {
-            l.add(i);
-            combine(i + 1, end, num - 1);
-            l.remove(new Integer(i));
+        for (int i = start; i <= end; i++) {
+            current.add(i);
+            dfs(i + 1, end, k, current, result);
+            current.remove((Integer) i);
         }
     }
+
+
 }

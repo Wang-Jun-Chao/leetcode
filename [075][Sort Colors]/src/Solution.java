@@ -21,45 +21,48 @@ public class Solution {
      * 注意：不能使用库函数进行排序。
      *
      * 解题思路
-     * 对数组进行扫描，计录1的个数和整个数组的和。扫描完后可以得出1的数目t，2的数目(sum-t)/2，
-     * 最后可以得出0的数目，这样子根据0，1，2的数目再对数组进行设置值。
+     * 用一个数组分别计算0，1，2出现的次数，再奖数组赋值
      * </pre>
      *
-     * @param A
+     * @param nums
      */
-    public void sortColors(int[] A) {
+    public void sortColors(int[] nums) {
 
-        if (A == null) {
+        if (nums == null) {
             return;
         }
 
-        int count = 0; // 统计1的个数
-        int sum = 0; // 统计数组的和
+        int[] count = new int[3];
 
-        for (int i : A) {
-            if (i == 1) {
-                count++;
+        for (int n : nums) {
+            count[n]++;
+        }
+
+        int start = 0;
+        int end = 0;
+        for (int i = 0; i < count.length; i++) {
+            if (i == 0) {
+                start = 0;
+            } else {
+                start += count[i - 1];
             }
-
-            sum += i;
+            end += count[i];
+            for (int j = start; j < end; j++) {
+                nums[j] = i;
+            }
         }
 
-        sum = (sum - count) / 2; // 计算2的数目
-
-        count = A.length - count - sum; // 1开始出现的位置
-
-        sum = A.length - sum; // 2开始出现的位置
-
-        for (int i = 0; i < count; i++) {
-            A[i] = 0;
-        }
-
-        for (int i = count; i < sum; i++) {
-            A[i] = 1;
-        }
-
-        for (int i = sum; i < A.length; i++) {
-            A[i] = 2;
-        }
+        // 上面上对下面的改进
+//        for (int i = 0; i < count[0]; i++) {
+//            nums[i] = 0;
+//        }
+//
+//        for (int i = count[0]; i < count[0] + count[1]; i++) {
+//            nums[i] = 1;
+//        }
+//
+//        for (int i = count[0] + count[1]; i < nums.length; i++) {
+//            nums[i] = 2;
+//        }
     }
 }

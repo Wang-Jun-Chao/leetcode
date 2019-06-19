@@ -8,7 +8,7 @@ import java.util.List;
  * Time: 19:41
  * Declaration: All Rights Reserved !!!
  */
-public class Solution {
+public class Solution3 {
 
     /**
      * <pre>
@@ -35,7 +35,7 @@ public class Solution {
      * 给定一个不同数字的数组，返回它的所有子集。
      *
      * 解题思路
-     * 先对数组中的元素进行排序，然后使用广度优化遍历。
+     * 先对数组中的元素进行排序，然后再用递归分治法进行求解。
      * </pre>
      *
      * @param nums
@@ -45,27 +45,42 @@ public class Solution {
         List<List<Integer>> result = new LinkedList<>();
         List<Integer> curr = new LinkedList<>();
         if (nums != null) {
+
             // 对S进行排序处理
             Arrays.sort(nums);
-            dfs(nums, 0, result, curr);
+            // i表示子集元素个数
+            for (int i = 0; i <= nums.length; i++) {
+                subset(nums, 0, i, result, curr);
+            }
         }
 
         return result;
     }
 
-    private void dfs(int[] nums, int index, List<List<Integer>> result, List<Integer> curr) {
+    /**
+     * 找元素有n个的子集数
+     *
+     * @param nums   元素集合
+     * @param idx    可取元素的起始位置
+     * @param n      集合元素个数
+     * @param result 结果集
+     * @param curr   临时解
+     */
+    private void subset(int[] nums, int idx, int n, List<List<Integer>> result, List<Integer> curr) {
 
+        // 已经处理到末尾了，说明有一个解
+        if (n == 0) {
+            result.add(new LinkedList<>(curr));
+            return;
+        }
 
-        // 添加到结果中，说明有一种新的结产生
-        result.add(new LinkedList<>(curr));
-
-
-        for (int j = index; j < nums.length; j++) {
-            // 添加元素
-            curr.add(nums[j]);
-            dfs(nums, j + 1, result, curr);
-            // 还原
-            curr.remove((Integer) nums[j]);
+        // 还没有处理完，递归处理下一个元素
+        for (int i = idx; i < nums.length - n + 1; i++) {
+            curr.add(nums[i]);
+            subset(nums, i + 1, n - 1, result, curr);
+            curr.remove((Integer) nums[i]);
         }
     }
+
+
 }

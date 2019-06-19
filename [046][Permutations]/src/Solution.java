@@ -1,4 +1,5 @@
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.LinkedList;
 import java.util.List;
 
@@ -39,28 +40,27 @@ public class Solution {
         return result;
     }
 
-    private void permute(int i, int[] num) {
+    private void permute(int i, int[] nums) {
 
-        if (i == num.length) {
+        if (i == nums.length) {
             List<Integer> l = new ArrayList<>();
-            for (int n : num) {
+            for (int n : nums) {
                 l.add(n);
             }
-
             result.add(l);
         } else {
 
-            for (int j = i; j < num.length; j++) {
-                swap(num, j, i);
-                permute(i + 1, num);
-                swap(num, j, i);
+            for (int j = i; j < nums.length; j++) {
+                swap(nums, j, i);
+                permute(i + 1, nums);
+                swap(nums, j, i);
             }
         }
     }
 
-    private void swap(int[] A, int x, int y) {
-        int tmp = A[x];
-        A[x] = A[y];
-        A[y] = tmp;
+    private void swap(int[] nums, int x, int y) {
+        int tmp = nums[x];
+        nums[x] = nums[y];
+        nums[y] = tmp;
     }
 }

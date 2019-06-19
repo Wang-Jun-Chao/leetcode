@@ -24,6 +24,13 @@ public class Solution {
         return res;
     }
 
+    /**
+     * 时间复杂度：n!
+     * @param nums
+     * @param used
+     * @param list
+     * @param res
+     */
     private void permuteUnique(int[] nums, boolean[] used, List<Integer> list, List<List<Integer>> res) {
         if (list.size() == nums.length) {
             res.add(new ArrayList<>(list));
@@ -36,7 +43,7 @@ public class Solution {
                 continue;
             }
 
-            // 第不个字符与前一个字符相等，并且第i-1个字符没有使用，说明此次不应该交换
+            // 第i个字符与前一个字符相等，并且第i-1个字符没有使用，说明此次不应该交换
             if (i > 0 && nums[i - 1] == nums[i] && !used[i - 1]) {
                 continue;
             }

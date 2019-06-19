@@ -9,7 +9,7 @@ import java.util.List;
  */
 public class Solution {
 
-    private String[] map = {
+    private final static String[] S = {
             "abc",
             "def",
             "ghi",
@@ -19,11 +19,7 @@ public class Solution {
             "tuv",
             "wxyz",
     };
-    private List<String> result;    // 存储最终结果
-    private char[] chars;           // 保存去掉0，1字符的结果
-    private char[] curResult;       // 存储中间结果
-    private int end = 0;            // 字符数组中的第一个未使用的位置
-    private int handle = 0;         // 当前处理的是第几个字符数字
+
 
     /**
      * <pre>
@@ -49,47 +45,30 @@ public class Solution {
      * @return
      */
     public List<String> letterCombinations(String digits) {
-        result = new LinkedList<>();
+        List<String> result = new LinkedList<>();
 
-        if (digits != null && digits.length() > 0) {
-
-            chars = digits.toCharArray();
-
-            // 对字符串进行处理，去掉0和1
-            // 找第一个0或者1的位置
-            while (end < digits.length() && chars[end] != '0' && chars[end] != '1') {
-                end++;
-            }
-
-            handle = end + 1;
-            while (handle < chars.length) {
-                if (chars[handle] != '0' && chars[handle] != '1') {
-                    chars[end] = chars[handle];
-                    end++;
-                }
-                handle++;
-            }
-
-            curResult = new char[end];
-            // while结束后，end为有效字符的长度
-            handle = 0; // 指向第一个有效字符的位置
-
-            letterCombinations();
+        if (digits == null || digits.length() < 1) {
+            return result;
         }
+
+        StringBuilder builder = new StringBuilder();
+        letterCombinations(digits, 0, builder, result);
+
         return result;
     }
 
-    private void letterCombinations() {
-        if (handle >= end) {
-            result.add(new String(curResult));
-        } else {
-            int num = chars[handle] - '2';
-            for (int i = 0; i < map[num].length(); i++) {
-                curResult[handle] = map[num].charAt(i);
-                handle++;
-                letterCombinations();
-                handle--;
-            }
+    private void letterCombinations(String digits, int index, StringBuilder builder, List<String> result) {
+        if (index == digits.length()) {
+            result.add(builder.toString());
+            return;
+        }
+
+        String t = S[digits.charAt(index) - '2'];
+
+        for (int i = 0; i < t.length(); i++) {
+            builder.append(t.charAt(i));
+            letterCombinations(digits, index + 1, builder, result);
+            builder.deleteCharAt(builder.length() - 1);
         }
     }
 }

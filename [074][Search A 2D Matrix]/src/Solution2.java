@@ -4,7 +4,7 @@
  * Time: 19:36
  * Declaration: All Rights Reserved !!!
  */
-public class Solution {
+public class Solution2 {
     /**
      * <pre>
      * 原题
@@ -41,19 +41,45 @@ public class Solution {
         int row = matrix.length;
         int column = matrix[0].length;
         int low = 0;
-        int high = row * column - 1;
-        int mid;
+        int high = row - 1;
+        int mid = 0;
 
         // 找结果所在的列
         while (low <= high) {
             mid = low + (high - low) / 2;
-            int value = matrix[mid / column][mid % column];
-            if (value == target) {
-                return true;
-            } else if (value < target) {
+
+            if (target < matrix[mid][column - 1]) {
+                high = mid - 1;
+            } else if (target > matrix[mid][column - 1]) {
                 low = mid + 1;
             } else {
+                return true;
+            }
+        }
+
+        // 决定列所在的最终位置
+        int targetRow = mid;
+        if (matrix[mid][column - 1] < target) {
+            targetRow++;
+        }
+
+        // 目标列超出，无结果
+        if (targetRow >= row) {
+            return false;
+        }
+
+        low = 0;
+        high = column - 1;
+        // 找所在的行，找到返回true，没有返回false
+        while (low <= high) {
+            mid = low + (high - low) / 2;
+
+            if (target < matrix[targetRow][mid]) {
                 high = mid - 1;
+            } else if (target > matrix[targetRow][mid]) {
+                low = mid + 1;
+            } else {
+                return true;
             }
         }
 
