@@ -1,3 +1,5 @@
+import org.junit.Test;
+
 /**
  * Author: Íõ¿¡³¬
  * Date: 2015-06-22
@@ -5,15 +7,9 @@
  * Declaration: All Rights Reserved !!!
  */
 public class Main {
-    public static void main(String[] args) {
-//        test01();
-//        test02();
-//        test03();
-        test04();
-    }
 
-
-    private static void test01() {
+    @Test
+    public void test01() {
         Solution solution = new Solution();
         char[][] board = {
                 "XXXX".toCharArray(),
@@ -27,9 +23,11 @@ public class Main {
         for (char[] line : board) {
             System.out.println(new String(line));
         }
+        System.out.println();
     }
 
-    private static void test02() {
+    @Test
+    public void test02() {
         Solution solution = new Solution();
         char[][] board = {
                 "XOXX".toCharArray(),
@@ -45,9 +43,11 @@ public class Main {
         for (char[] line : board) {
             System.out.println(new String(line));
         }
+        System.out.println();
     }
 
-    private static void test03() {
+    @Test
+    public void test03() {
         Solution solution = new Solution();
         char[][] board = {
                 "OO".toCharArray(),
@@ -59,9 +59,11 @@ public class Main {
         for (char[] line : board) {
             System.out.println(new String(line));
         }
+        System.out.println();
     }
 
-    private static void test04() {
+    @Test
+    public void test04() {
         Solution solution = new Solution();
         char[][] board = {
                 "OOO".toCharArray(),
@@ -74,5 +76,6 @@ public class Main {
         for (char[] line : board) {
             System.out.println(new String(line));
         }
+        System.out.println();
     }
 }

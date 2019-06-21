@@ -1,3 +1,7 @@
+import java.util.Deque;
+import java.util.HashSet;
+import java.util.LinkedList;
+import java.util.List;
 import java.util.Set;
 
 /**
@@ -40,14 +44,57 @@ public class Solution {
      *   - 所有单词只包含小写字母字符。
      *
      * 解题思路：
+     * 广度优化遍历
      * </pre>
      *
      * @param beginWord
      * @param endWord
-     * @param wordDict
+     * @param wordList
      * @return
      */
-    public int ladderLength(String beginWord, String endWord, Set<String> wordDict) {
+    public int ladderLength(String beginWord, String endWord, List<String> wordList) {
+
+        Set<String> wordDict = new HashSet<>(wordList);
+
+        char[] chars;
+        Deque<String> deque = new LinkedList<>();
+        deque.addLast(beginWord);
+        int result = 0;
+        String s;
+        String t;
+        while (!deque.isEmpty()) {
+
+            // 处理当前层
+            for (int k = deque.size(); k > 0; k--) {
+                s = deque.removeFirst();
+
+                if (s.equalsIgnoreCase(endWord)) {
+                    return result + 1;
+                }
+
+                // 找出当前层的每个元素经过一次变化后，是否在剩余的wordDict中找到，
+                // 如果找到就放到下一层的处理中
+                chars = s.toCharArray();
+                for (int i = 0; i < beginWord.length(); i++) {
+                    for (char j = 'a'; j <= 'z'; j++) {
+                        char temp = chars[i];
+                        chars[i] = j;
+                        t = new String(chars);
+                        // 一次变换后可以找到单词，放到下一层处理中，并且在wordDict中删除记录
+                        if (wordDict.contains(t) && !t.equals(s)) {
+                            deque.addLast(t);
+                            wordDict.remove(t);
+                        }
+                        // 还原
+                        chars[i] = temp;
+                    }
+                }
+            }
+
+
+            result++;
+        }
+
         return 0;
     }
 }
