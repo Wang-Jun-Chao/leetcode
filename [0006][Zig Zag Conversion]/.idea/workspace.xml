@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="097abcc9-8689-4584-80e2-c5b166c2ed23" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../[004][Median of Two Sorted Arrays]/src/Solution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[081][Search In Rotated Sorted Array II]/src/Solution2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../【001】【TwoSum】/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../【001】【TwoSum】/src/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../【001】【TwoSum】/【001】【TwoSum】.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../【002】【AddTwoNumbers】/src/ListNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../【002】【AddTwoNumbers】/src/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../【002】【AddTwoNumbers】/【002】【AddTwoNumbers】.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../【003】【LongestSubstringWithoutRepeatingCharacters】/src/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../【003】【LongestSubstringWithoutRepeatingCharacters】/【003】【LongestSubstringWithoutRepeatingCharacters】.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../【004】【MedianofTwoSortedArrays】/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../[004][Median of Two Sorted Arrays]/src/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../【004】【MedianofTwoSortedArrays】/【004】【MedianofTwoSortedArrays】.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../【005】【LongestPalindromicSubstringTotal 】/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../【005】【LongestPalindromicSubstringTotal 】/src/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../【005】【LongestPalindromicSubstringTotal 】/【005】【LongestPalindromicSubstringTotal 】.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../【006】【ZigZagConversion】/src/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../【006】【ZigZagConversion】/【006】【ZigZagConversion】.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../【007】【ReverseInteger】/src/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../【007】【ReverseInteger】/【007】【ReverseInteger】.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../【008】【StringToInteger (atoi)】/src/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../【008】【StringToInteger (atoi)】/【008】【StringToInteger (atoi)】.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../【009】【PalindromeNumber】/src/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../【009】【PalindromeNumber】/【009】【PalindromeNumber】.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../【010】【RegularExpressionMatching】/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../【010】【RegularExpressionMatching】/src/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../【010】【RegularExpressionMatching】/【010】【RegularExpressionMatching】.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../【011】【ContainerWithMost Water】/src/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../【011】【ContainerWithMost Water】/【011】【ContainerWithMost Water】.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../【012】【IntegerToRoman】/src/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../【012】【IntegerToRoman】/【012】【IntegerToRoman】.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../【013】【RomarToInteger】/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../【013】【RomarToInteger】/src/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../【013】【RomarToInteger】/【013】【RomarToInteger】.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../【014】【LongestCommonPrefix】/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../[014][Longest Common Prefix]/src/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../【014】【LongestCommonPrefix】/【014】【LongestCommonPrefix】.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../【015】【3Sum】/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../[015][3 Sum]/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../【015】【3Sum】/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../[015][3 Sum]/src/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../【015】【3Sum】/【015】【3Sum】.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../【081】【SearchInRotatedSortedArraII】/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../[081][Search In Rotated Sorted Array II]/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../【081】【SearchInRotatedSortedArraII】/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../[081][Search In Rotated Sorted Array II]/src/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../【081】【SearchInRotatedSortedArraII】/【081】【SearchInRotatedSortedArraII】.iml" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$USER_HOME$/Software/maven-3.5.3" />
+        <option name="userSettingsFile" value="$USER_HOME$/Software/maven-3.5.3/conf/xn-settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="118" />
+    <option name="y" value="35" />
+    <option name="width" value="1162" />
+    <option name="height" value="768" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="[006][Zig Zag Conversion]" type="b2602c69:ProjectViewProjectNode" />
+              <item name="[006][Zig Zag Conversion]" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="[006][Zig Zag Conversion]" type="b2602c69:ProjectViewProjectNode" />
+              <item name="[006][Zig Zag Conversion]" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/Software/sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="097abcc9-8689-4584-80e2-c5b166c2ed23" name="Default Changelist" comment="" />
+      <created>1560476240942</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560476240942</updated>
+      <workItem from="1560476242338" duration="6000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="6000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="118" y="35" width="1162" height="768" extended-state="0" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24955437" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="R Packages" />
+      <window_info anchor="right" id="Key Promoter X" />
+      <window_info anchor="right" id="R Graphics" />
+      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
