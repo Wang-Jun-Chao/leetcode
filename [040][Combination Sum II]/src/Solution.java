@@ -29,6 +29,8 @@ public class Solution {
             list.add(new LinkedList<>(tempList));
         } else {
             for (int i = start; i < nums.length; i++) {
+                // 如果上一轮循环没有选nums[i]，则本次循环就不能再选nums[i]，
+                // 确保nums[i] 最多只用一次
                 if (i > start && nums[i] == nums[i - 1]) {
                     continue;
                 }
