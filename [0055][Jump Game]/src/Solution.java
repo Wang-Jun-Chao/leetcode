@@ -53,6 +53,11 @@ public class Solution {
         return lastPos >= nums.length - 1;
     }
 
+    /**
+     * 逆向，从最高层下楼梯，一层一层下降，看最后能不能下降到第0 层。
+     * @param nums
+     * @return
+     */
     public boolean canJump2(int[] nums) {
         int lastPos = nums.length - 1;
         for (int i = nums.length - 1; i >= 0; i--) {

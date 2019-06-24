@@ -21,12 +21,13 @@ public class Solution {
      * 解题思路：
      * 用start记录当当处理的开始位置
      * 历遍字符串，当当前字符从开始位置start开始已经出现过的时候，子串开始位置+1，否则更新map中的hash值为当前位置。
+     *
+     * 可以处理所有的UTF-8字符
      * </pre>
      *
      * @param s
      * @return
      */
-    // 可以处理所有的UTF-8字符
     public int lengthOfLongestSubstring(String s) {
         // 字符串输入不合法
         if (s == null) {
@@ -57,7 +58,9 @@ public class Solution {
         return result;
     }
 
-    // 只考虑ASCII字符
+    /**
+     * 只考虑ASCII字符
+     */
     public int lengthOfLongestSubstring2(String s) {
         // 字符串输入不合法
         if (s == null) {

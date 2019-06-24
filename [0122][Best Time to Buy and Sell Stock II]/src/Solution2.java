@@ -2,7 +2,7 @@
  * @author: wangjunchao(王俊超)
  * @time: 2018-10-09 08:46
  **/
-public class Solution {
+public class Solution2 {
     /**
      * <pre>
      * Say you have an array for which the ith element is the price of a given stock on day i.
@@ -43,14 +43,27 @@ public class Solution {
             return 0;
         }
 
+        int buy = 0;
+        int sell = 1;
+
         int sum = 0;
-        int diff;
-        for (int i = 1; i < prices.length; i++) {
-            // 如果后一天的价格比前一天高就卖出
-            diff = prices[i] - prices[i - 1];
-            if (diff > 0) {
-                sum += diff;
+        while (sell < prices.length) {
+            // 从buy的位置开始找降序子序列中最小的值
+            while (buy + 1 < prices.length && prices[buy] >= prices[buy + 1]) {
+                buy++;
             }
+            // 从buy的位置开始找升序子序列中最大的值
+            sell = buy + 1;
+            while (sell + 1 < prices.length && prices[sell] <= prices[sell + 1]) {
+                sell++;
+            }
+
+            if (sell < prices.length) {
+                sum += prices[sell] - prices[buy];
+            }
+
+            buy = sell + 1;
+
         }
 
         return sum;
