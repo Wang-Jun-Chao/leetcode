@@ -2,192 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce385e91-de99-4e13-9d76-ab57b6a23494" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/[0011][Container With Most Water]/src/Solution2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[0132][Palindrome Partitioning II]/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[0132][Palindrome Partitioning II]/src/Solution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[0091][Decode Ways]/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[0091][Decode Ways]/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[0091][Decode Ways]/src/Solution2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0000][common]/[0000][common].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0000][common]/[0000][common].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0001][Two Sum]/[0001][Two Sum].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0001][Two Sum]/[0001][Two Sum].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0002][Add Two Numbers]/[0002][Add Two Numbers].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0002][Add Two Numbers]/[0002][Add Two Numbers].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0003][Longest Substring Without Repeating Characters]/[0003][Longest Substring Without Repeating Characters].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0003][Longest Substring Without Repeating Characters]/[0003][Longest Substring Without Repeating Characters].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0004][Median of Two Sorted Arrays]/[0004][Median of Two Sorted Arrays].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0004][Median of Two Sorted Arrays]/[0004][Median of Two Sorted Arrays].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0005][Longest Palindromic Substring Total]/[0005][Longest Palindromic Substring Total].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0005][Longest Palindromic Substring Total]/[0005][Longest Palindromic Substring Total].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0006][Zig Zag Conversion]/[0006][Zig Zag Conversion].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0006][Zig Zag Conversion]/[0006][Zig Zag Conversion].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0007][Reverse Integer]/[0007][Reverse Integer].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0007][Reverse Integer]/[0007][Reverse Integer].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0008][String To Integer (atoi)]/[0008][String To Integer (atoi)].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0008][String To Integer (atoi)]/[0008][String To Integer (atoi)].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0009][Palindrome Number]/[0009][Palindrome Number].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0009][Palindrome Number]/[0009][Palindrome Number].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0010][Regular Expression Matching]/[0010][Regular Expression Matching].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0010][Regular Expression Matching]/[0010][Regular Expression Matching].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0011][Container With Most Water]/[0011][Container With Most Water].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0011][Container With Most Water]/[0011][Container With Most Water].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0012][Integer To Roman]/[0012][Integer To Roman].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0012][Integer To Roman]/[0012][Integer To Roman].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0013][Romar To Integer]/[0013][Romar To Integer].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0013][Romar To Integer]/[0013][Romar To Integer].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0014][Longest Common Prefix]/[0014][Longest Common Prefix].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0014][Longest Common Prefix]/[0014][Longest Common Prefix].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0015][3 Sum]/[0015][3 Sum].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0015][3 Sum]/[0015][3 Sum].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0016][3 Sum Closest]/[0016][3 Sum Closest].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0016][3 Sum Closest]/[0016][3 Sum Closest].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0017][Letter Combinations Of A Phon Number/[0017][Letter Combinations Of A Phon Number.iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0017][Letter Combinations Of A Phon Number/[0017][Letter Combinations Of A Phon Number.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0018][4 Sum]/[0018][4 Sum].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0018][4 Sum]/[0018][4 Sum].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0019][Remove Nth Node From End Of List]/[0019][Remove Nth Node From End Of List].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0019][Remove Nth Node From End Of List]/[0019][Remove Nth Node From End Of List].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0020][Valid Parentheses]/[0020][Valid Parentheses].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0020][Valid Parentheses]/[0020][Valid Parentheses].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0021][Merge Two Sorted Lists]/[0021][Merge Two Sorted Lists].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0021][Merge Two Sorted Lists]/[0021][Merge Two Sorted Lists].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0022][Generate Parentheses]/[0022][Generate Parentheses].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0022][Generate Parentheses]/[0022][Generate Parentheses].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0023][Merge K Sorted Lists]/[0023][Merge K Sorted Lists].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0023][Merge K Sorted Lists]/[0023][Merge K Sorted Lists].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0024][Swap Nodes In Pairs]/[0024][Swap Nodes In Pairs].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0024][Swap Nodes In Pairs]/[0024][Swap Nodes In Pairs].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0025][Reverse Nodes In K-Group]/[0025][Reverse Nodes In K-Group].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0025][Reverse Nodes In K-Group]/[0025][Reverse Nodes In K-Group].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0026][Remove Duplicates from Sorted Array]/[0026][Remove Duplicates from Sorted Array].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0026][Remove Duplicates from Sorted Array]/[0026][Remove Duplicates from Sorted Array].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0027][Remove Element]/[0027][Remove Element].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0027][Remove Element]/[0027][Remove Element].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0028][Implement-strStr()]/[0028][Implement-strStr()].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0028][Implement-strStr()]/[0028][Implement-strStr()].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0029][Divide Two Integers]/[0029][Divide Two Integers].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0029][Divide Two Integers]/[0029][Divide Two Integers].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0030][Substring With Concatenation Of All Words]/[0030][Substring With Concatenation Of All Words].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0030][Substring With Concatenation Of All Words]/[0030][Substring With Concatenation Of All Words].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0031][Next Permutation]/[0031][Next Permutation].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0031][Next Permutation]/[0031][Next Permutation].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0032][Longest Valid Parentheses]/[0032][Longest Valid Parentheses].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0032][Longest Valid Parentheses]/[0032][Longest Valid Parentheses].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0033][Search In Rotated Sorted Array]/[0033][Search In Rotated Sorted Array].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0033][Search In Rotated Sorted Array]/[0033][Search In Rotated Sorted Array].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0034][Search For A Range]/[0034][Search For A Range].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0034][Search For A Range]/[0034][Search For A Range].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0035][Search Insert Position]/[0035][Search Insert Position].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0035][Search Insert Position]/[0035][Search Insert Position].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0036][Valid Sudoku]/[0036][Valid Sudoku].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0036][Valid Sudoku]/[0036][Valid Sudoku].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0037][Sudoku Solver]/[0037][Sudoku Solver].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0037][Sudoku Solver]/[0037][Sudoku Solver].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0038][Count And Say]/[0038][Count And Say].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0038][Count And Say]/[0038][Count And Say].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0039][Combination Sum]/[0039][Combination Sum].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0039][Combination Sum]/[0039][Combination Sum].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0040][Combination Sum II]/[0040][Combination Sum II].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0040][Combination Sum II]/[0040][Combination Sum II].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0041][First Missing Positive]/[0041][First Missing Positive].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0041][First Missing Positive]/[0041][First Missing Positive].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0042][Trapping Rain Water]/[0042][Trapping Rain Water].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0042][Trapping Rain Water]/[0042][Trapping Rain Water].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0043][Multiply Strings]/[0043][Multiply Strings].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0043][Multiply Strings]/[0043][Multiply Strings].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0044][Wildcard Matching]/[0044][Wildcard Matching].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0044][Wildcard Matching]/[0044][Wildcard Matching].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0045][Jump Game II]/[0045][Jump Game II].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0045][Jump Game II]/[0045][Jump Game II].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0046][Permutations]/[0046][Permutations].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0046][Permutations]/[0046][Permutations].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0047][Permutations II]/[0047][Permutations II].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0047][Permutations II]/[0047][Permutations II].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0048][Rotate Image]/[0048][Rotate Image].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0048][Rotate Image]/[0048][Rotate Image].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0049][Group Anagrams]/[0049][Group Anagrams].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0049][Group Anagrams]/[0049][Group Anagrams].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0050][Pow(x,n)]/[0050][Pow(x,n)].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0050][Pow(x,n)]/[0050][Pow(x,n)].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0051][N-Queens]/[0051][N-Queens].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0051][N-Queens]/[0051][N-Queens].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0052][N-Queens II]/[0052][N-Queens II].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0052][N-Queens II]/[0052][N-Queens II].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0053][Maximum Subarray]/[0053][Maximum Subarray].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0053][Maximum Subarray]/[0053][Maximum Subarray].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0053][Maximum Subarray]/[0053][MaximumSubarray].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0132][Palindrome Partitioning II]/[0132][Palindrome Partitioning II].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0053][Maximum Subarray]/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/[0053][Maximum Subarray]/src/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0054][Spiral Matrix]/[0054][Spiral Matrix].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0054][Spiral Matrix]/[0054][Spiral Matrix].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0055][Jump Game]/[0055][Jump Game].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0055][Jump Game]/[0055][Jump Game].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0056][Merge Intervals]/[0056][Merge Intervals].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0056][Merge Intervals]/[0056][Merge Intervals].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0057][Insert Interval]/[0057][Insert Interval].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0057][Insert Interval]/[0057][Insert Interval].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0058][Length Of Last Word]/[0058][Length Of Last Word].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0058][Length Of Last Word]/[0058][Length Of Last Word].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0059][Spiral Matrix II]/[0059][Spiral Matrix II].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0059][Spiral Matrix II]/[0059][Spiral Matrix II].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0060][Permutation Sequence]/[0060][Permutation Sequence].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0060][Permutation Sequence]/[0060][Permutation Sequence].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0061][Rotate List]/[0061][Rotate List].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0061][Rotate List]/[0061][Rotate List].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0062][Unique Paths]/[0062][Unique Paths].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0062][Unique Paths]/[0062][Unique Paths].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0063][Unique Paths II]/[0063][Unique Paths II].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0063][Unique Paths II]/[0063][Unique Paths II].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0064][Minimum Path Sum]/[0064][Minimum Path Sum].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0064][Minimum Path Sum]/[0064][Minimum Path Sum].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0065][Valid Number]/[0065][Valid Number].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0065][Valid Number]/[0065][Valid Number].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0066][Plus One]/[0066][Plus One].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0066][Plus One]/[0066][Plus One].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0067][Add Binary]/[0067][Add Binary].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0067][Add Binary]/[0067][Add Binary].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0069][Sqrt(x)]/[0069][Sqrt(x)].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0069][Sqrt(x)]/[0069][Sqrt(x)].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0070][Climbing Stairs]/[0070][Climbing Stairs].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0070][Climbing Stairs]/[0070][Climbing Stairs].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0071][Simplify Path]/[0071][Simplify Path].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0071][Simplify Path]/[0071][Simplify Path].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0073][Set Matrix Zeroes]/[0073][Set Matrix Zeroes].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0073][Set Matrix Zeroes]/[0073][Set Matrix Zeroes].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0074][Search A 2D Matrix]/[0074][Search A 2D Matrix].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0074][Search A 2D Matrix]/[0074][Search A 2D Matrix].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0075][Sort Colors]/[0075][Sort Colors].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0075][Sort Colors]/[0075][Sort Colors].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0077][Combinations]/[0077][Combinations].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0077][Combinations]/[0077][Combinations].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0078][Subsets]/[0078][Subsets].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0078][Subsets]/[0078][Subsets].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0079][Word Search]/[0079][Word Search].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0079][Word Search]/[0079][Word Search].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0080][Remove Duplicates from Sorted Array II]/[0080][Remove Duplicates from Sorted Array II].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0080][Remove Duplicates from Sorted Array II]/[0080][Remove Duplicates from Sorted Array II].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0081][Search In Rotated Sorted Array II]/[0081][Search In Rotated Sorted Array II].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0081][Search In Rotated Sorted Array II]/[0081][Search In Rotated Sorted Array II].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0082][Remove Duplicates From Sorted List II]/[0082][Remove Duplicates From Sorted List II].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0082][Remove Duplicates From Sorted List II]/[0082][Remove Duplicates From Sorted List II].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0083][Remove Duplicates From Sorted List]/[0083][Remove Duplicates From Sorted List].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0083][Remove Duplicates From Sorted List]/[0083][Remove Duplicates From Sorted List].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0084][Largest Rectangle in Histogram]/[0084][Largest Rectangle in Histogram].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0084][Largest Rectangle in Histogram]/[0084][Largest Rectangle in Histogram].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0086][Partition List]/[0086][Partition List].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0086][Partition List]/[0086][Partition List].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0088][Merge Sorted Array]/[0088][Merge Sorted Array].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0088][Merge Sorted Array]/[0088][Merge Sorted Array].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0089][Gray Code]/[0089][Gray Code].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0089][Gray Code]/[0089][Gray Code].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0090][Subsets II]/[0090][Subsets II].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0090][Subsets II]/[0090][Subsets II].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0092][Reverse Linked List II]/[0092][Reverse Linked List II].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0092][Reverse Linked List II]/[0092][Reverse Linked List II].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0093][Restore IP Addresses]/[0093][Restore IP Addresses].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0093][Restore IP Addresses]/[0093][Restore IP Addresses].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0094][Binary Tree Inorder Traversal]/[0094][Binary Tree Inorder Traversal].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0094][Binary Tree Inorder Traversal]/[0094][Binary Tree Inorder Traversal].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0096][Unique Binary Search Trees]/[0096][Unique Binary Search Trees].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0096][Unique Binary Search Trees]/[0096][Unique Binary Search Trees].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0098][Validate Binary Search Tree]/[0098][Validate Binary Search Tree].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0098][Validate Binary Search Tree]/[0098][Validate Binary Search Tree].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0100][Same Tree]/[0100][Same Tree].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0100][Same Tree]/[0100][Same Tree].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0101][Symmetric Tree]/[0101][Symmetric Tree].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0101][Symmetric Tree]/[0101][Symmetric Tree].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0102][Binary Tree Level Order Traversal]/[0102][Binary Tree Level Order Traversal].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0102][Binary Tree Level Order Traversal]/[0102][Binary Tree Level Order Traversal].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0103][Binary Tree Zigzag LevelOrder Traversal]/[0103][Binary Tree Zigzag LevelOrder Traversal].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0103][Binary Tree Zigzag LevelOrder Traversal]/[0103][Binary Tree Zigzag LevelOrder Traversal].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0104][Maximum Depth Of Binary Tree]/[0104][Maximum Depth Of Binary Tree].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0104][Maximum Depth Of Binary Tree]/[0104][Maximum Depth Of Binary Tree].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0105][Construct Binary Tree From Preorder And Inorder Traversal]/[0105][Construct Binary Tree From Preorder And Inorder Traversal].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0105][Construct Binary Tree From Preorder And Inorder Traversal]/[0105][Construct Binary Tree From Preorder And Inorder Traversal].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0106][Construct Binary Tree From Inorder And Postorder Traversal]/[0106][Construct Binary Tree From Inorder And Postorder Traversal].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0106][Construct Binary Tree From Inorder And Postorder Traversal]/[0106][Construct Binary Tree From Inorder And Postorder Traversal].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0107][Binary Tree Level Order Traversa lII]/[0107][Binary Tree Level Order Traversa lII].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0107][Binary Tree Level Order Traversa lII]/[0107][Binary Tree Level Order Traversa lII].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0108][Convert Sorted Array To Binary Search Tree]/[0108][Convert Sorted Array To Binary Search Tree].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0108][Convert Sorted Array To Binary Search Tree]/[0108][Convert Sorted Array To Binary Search Tree].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0109][Convert Sorted List To Binary Search Tree]/[0109][Convert Sorted List To Binary Search Tree].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0109][Convert Sorted List To Binary Search Tree]/[0109][Convert Sorted List To Binary Search Tree].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0110][Balanced Binary Tree]/[0110][Balanced Binary Tree].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0110][Balanced Binary Tree]/[0110][Balanced Binary Tree].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0111][Minimum Depth Of Binary Tree]/[0111][Minimum Depth Of Binary Tree].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0111][Minimum Depth Of Binary Tree]/[0111][Minimum Depth Of Binary Tree].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0112][Path Sum]/[0112][Path Sum].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0112][Path Sum]/[0112][Path Sum].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0113][Path Sum II]/[0113][Path Sum II].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0113][Path Sum II]/[0113][Path Sum II].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0114][Flatten Binary Tree To Linked List]/[0114][Flatten Binary Tree To Linked List].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0114][Flatten Binary Tree To Linked List]/[0114][Flatten Binary Tree To Linked List].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0116][Populating Next Right Pointersin Each Node]/[0116][Populating Next Right Pointersin Each Node].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0116][Populating Next Right Pointersin Each Node]/[0116][Populating Next Right Pointersin Each Node].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0117][Populating Next Right Pointers In Each Node II]/[0117][Populating Next Right Pointers In Each Node II].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0117][Populating Next Right Pointers In Each Node II]/[0117][Populating Next Right Pointers In Each Node II].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0118][Pascal's Triangle]/[0118][Pascal's Triangle].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0118][Pascal's Triangle]/[0118][Pascal's Triangle].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0119][Pascal's Triangle II]/[0119][Pascal's Triangle II].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0119][Pascal's Triangle II]/[0119][Pascal's Triangle II].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0120][Triangle]/[0120][Triangle].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0120][Triangle]/[0120][Triangle].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0121][Best Time To Buy And Sell Stock]/[0121][Best Time To Buy And Sell Stock].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0121][Best Time To Buy And Sell Stock]/[0121][Best Time To Buy And Sell Stock].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0122][Best Time to Buy and Sell Stock II]/[0122][Best Time to Buy and Sell Stock II].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0122][Best Time to Buy and Sell Stock II]/[0122][Best Time to Buy and Sell Stock II].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0124][Binary Tree Maximum Path Sum]/[0124][Binary Tree Maximum Path Sum].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0124][Binary Tree Maximum Path Sum]/[0124][Binary Tree Maximum Path Sum].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0125][Valid Palindrome]/[0125][Valid Palindrome].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0125][Valid Palindrome]/[0125][Valid Palindrome].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0126][Word Ladder II]/[0126][Word Ladder II].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0126][Word Ladder II]/[0126][Word Ladder II].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0127][Word Ladder]/[0127][Word Ladder].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0127][Word Ladder]/[0127][Word Ladder].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0128][Longest Consecutive Sequence]/[0128][Longest Consecutive Sequence].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0128][Longest Consecutive Sequence]/[0128][Longest Consecutive Sequence].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0129][Sum Root To Leaf Numbers]/[0129][Sum Root To Leaf Numbers].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0129][Sum Root To Leaf Numbers]/[0129][Sum Root To Leaf Numbers].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0130][Surrounded Regions]/[0130][Surrounded Regions].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0130][Surrounded Regions]/[0130][Surrounded Regions].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0131][Palindrome Partitioning]/[0131][Palindrome Partitioning].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0131][Palindrome Partitioning]/[0131][Palindrome Partitioning].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0134][Gas Station]/[0134][Gas Station].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0134][Gas Station]/[0134][Gas Station].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0135][Candy]/[0135][Candy].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0135][Candy]/[0135][Candy].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0136][Single Number]/[0136][Single Number].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0136][Single Number]/[0136][Single Number].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0137][Single Number II]/[0137][Single Number II].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0137][Single Number II]/[0137][Single Number II].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0138][Copy List With Random Pointer]/[0138][Copy List With Random Pointer].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0138][Copy List With Random Pointer]/[0138][Copy List With Random Pointer].iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[0009][Palindrome Number]/[0009][PalindromeNumber].iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/[0030][Substring With Concatenation Of All Words]/[0030][SubstringWithConcatenationOfAllWords].iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/[0030][Substring With Concatenation Of All Words]/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/[0030][Substring With Concatenation Of All Words]/src/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[0043][Multiply Strings]/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/[0043][Multiply Strings]/src/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[0056][Merge Intervals]/[0056][MergeIntervals].iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/[0057][Insert Interval]/[0057][InsertInterval].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0091][Decode Ways]/[0091][Decode Ways].iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[0132][Palindrome Partitioning II]/[0132][Palindrome Partitioning II].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0132][Palindrome Partitioning II]/[0132][Palindrome Partitioning II].iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[0132][Palindrome Partitioning II]/src/Solution2.java" beforeDir="false" afterPath="$PROJECT_DIR$/[0132][Palindrome Partitioning II]/src/Solution2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/[0139][Word Break]/[0139][Word Break].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0139][Word Break]/[0139][Word Break].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0141][Linked List Cycle]/[0141][Linked List Cycle].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0141][Linked List Cycle]/[0141][Linked List Cycle].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0142][Linked List Cycle II]/[0142][Linked List Cycle II].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0142][Linked List Cycle II]/[0142][Linked List Cycle II].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0143][Reorder List]/[0143][Reorder List].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0143][Reorder List]/[0143][Reorder List].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0144][Binary Tree Preorder Traversal]/[0144][Binary Tree Preorder Traversal].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0144][Binary Tree Preorder Traversal]/[0144][Binary Tree Preorder Traversal].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0145][Binary Tree Postorder Traversal]/[0145][Binary Tree Postorder Traversal].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0145][Binary Tree Postorder Traversal]/[0145][Binary Tree Postorder Traversal].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0146][LRU Cache]/[0146][LRU Cache].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0146][LRU Cache]/[0146][LRU Cache].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0147][Insertion Sort List]/[0147][Insertion Sort List].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0147][Insertion Sort List]/[0147][Insertion Sort List].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0148][Sort List]/[0148][Sort List].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0148][Sort List]/[0148][Sort List].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0150][Evaluate Reverse Polish Notation]/[0150][Evaluate Reverse Polish Notation].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0150][Evaluate Reverse Polish Notation]/[0150][Evaluate Reverse Polish Notation].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0151][Reverse Words In A String]/[0151][Reverse Words In A String].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0151][Reverse Words In A String]/[0151][Reverse Words In A String].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0152][Maximum Product Subarray]/[0152][Maximum Product Subarray].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0152][Maximum Product Subarray]/[0152][Maximum Product Subarray].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0153][Find Minimum In Rotated Sorted Array]/[0153][Find Minimum In Rotated Sorted Array].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0153][Find Minimum In Rotated Sorted Array]/[0153][Find Minimum In Rotated Sorted Array].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0154][Find Minimum In Rotated Sorted Array II]/[0154][Find Minimum In Rotated Sorted Array II].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0154][Find Minimum In Rotated Sorted Array II]/[0154][Find Minimum In Rotated Sorted Array II].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0155][Min Stack]/[0155][Min Stack].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0155][Min Stack]/[0155][Min Stack].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0162][Find Peak Element]/[0162][Find Peak Element].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0162][Find Peak Element]/[0162][Find Peak Element].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0167][Two Sum II - Input array is sorted]/[0167][Two Sum II - Input array is sorted].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0167][Two Sum II - Input array is sorted]/[0167][Two Sum II - Input array is sorted].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0191][Number Of 1 Bits]/[0191][Number Of 1 Bits].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0191][Number Of 1 Bits]/[0191][Number Of 1 Bits].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0198][House Robber]/[0198][House Robber].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0198][House Robber]/[0198][House Robber].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0199][Binary Tree Right Side View]/[0199][Binary Tree Right Side View].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0199][Binary Tree Right Side View]/[0199][Binary Tree Right Side View].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0200][Number Of Islands]/[0200][Number Of Islands].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0200][Number Of Islands]/[0200][Number Of Islands].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0201][Bitwise AND Of Numbers Range]/[0201][Bitwise AND Of Numbers Range].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0201][Bitwise AND Of Numbers Range]/[0201][Bitwise AND Of Numbers Range].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0202][Happy Number ]/[0202][Happy Number ].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0202][Happy Number ]/[0202][Happy Number ].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0203][Remove Linked List Elements]/[0203][Remove Linked List Elements].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0203][Remove Linked List Elements]/[0203][Remove Linked List Elements].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0204][Count Primes]/[0204][Count Primes].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0204][Count Primes]/[0204][Count Primes].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0205][Isomorphic Strings]/[0205][Isomorphic Strings].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0205][Isomorphic Strings]/[0205][Isomorphic Strings].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0206][Reverse Linked List]/[0206][Reverse Linked List].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0206][Reverse Linked List]/[0206][Reverse Linked List].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0215][Kth Largest Element In An Array]/[0215][Kth Largest Element In An Array].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0215][Kth Largest Element In An Array]/[0215][Kth Largest Element In An Array].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0216][Combination Sum III]/[0216][Combination Sum III].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0216][Combination Sum III]/[0216][Combination Sum III].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0217][Contains Duplicate ]/[0217][Contains Duplicate ].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0217][Contains Duplicate ]/[0217][Contains Duplicate ].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0219][Contains Duplicate II]/[0219][Contains Duplicate II].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0219][Contains Duplicate II]/[0219][Contains Duplicate II].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0223][Rectangle Area]/[0223][Rectangle Area].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0223][Rectangle Area]/[0223][Rectangle Area].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0225][Implement Stack Using Queues]/[0225][Implement Stack Using Queues].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0225][Implement Stack Using Queues]/[0225][Implement Stack Using Queues].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0226][Invert Binary Tree]/[0226][Invert Binary Tree].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0226][Invert Binary Tree]/[0226][Invert Binary Tree].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0231][Power of Two]/[0231][Power of Two].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0231][Power of Two]/[0231][Power of Two].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0232][Implement Queue using Stacks]/[0232][Implement Queue using Stacks].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0232][Implement Queue using Stacks]/[0232][Implement Queue using Stacks].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0234][Palindrome Linked List]/[0234][Palindrome Linked List].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0234][Palindrome Linked List]/[0234][Palindrome Linked List].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0235][Lowest Common Ancestor of a Binary Search Tree]/[0235][Lowest Common Ancestor of a Binary Search Tree].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0235][Lowest Common Ancestor of a Binary Search Tree]/[0235][Lowest Common Ancestor of a Binary Search Tree].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0237][Delete Node in a Linked List]/[0237][Delete Node in a Linked List].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0237][Delete Node in a Linked List]/[0237][Delete Node in a Linked List].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0242][Valid Anagram]/[0242][Valid Anagram].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0242][Valid Anagram]/[0242][Valid Anagram].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0257][Binary Tree Paths]/[0257][Binary Tree Paths].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0257][Binary Tree Paths]/[0257][Binary Tree Paths].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0258][Add Digits]/[0258][Add Digits].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0258][Add Digits]/[0258][Add Digits].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0263][Ugly Number]/[0263][Ugly Number].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0263][Ugly Number]/[0263][Ugly Number].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0268][Missing Number]/[0268][Missing Number].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0268][Missing Number]/[0268][Missing Number].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0278][First Bad Version]/[0278][First Bad Version].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0278][First Bad Version]/[0278][First Bad Version].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0283][Move Zeroes]/[0283][Move Zeroes].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0283][Move Zeroes]/[0283][Move Zeroes].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0290][Word Pattern]/[0290][Word Pattern].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0290][Word Pattern]/[0290][Word Pattern].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0303][Range Sum Query - Immutable]/[0303][Range Sum Query - Immutable].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0303][Range Sum Query - Immutable]/[0303][Range Sum Query - Immutable].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0326][Power of Three]/[0326][Power of Three].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0326][Power of Three]/[0326][Power of Three].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0342][Power of Four]/[0342][Power of Four].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0342][Power of Four]/[0342][Power of Four].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0344][Reverse String]/[0344][Reverse String].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0344][Reverse String]/[0344][Reverse String].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[0139][Word Break]/[0139][WordBreak].iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/[0139][Word Break]/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/[0139][Word Break]/src/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -203,90 +34,91 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/[0122][Best Time to Buy and Sell Stock II]/src/Solution2.java">
+        <entry file="file://$PROJECT_DIR$/[0139][Word Break]/src/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1020">
-              <caret line="68" selection-start-line="68" selection-end-line="68" />
+            <state relative-caret-position="242">
+              <caret line="73" column="31" lean-forward="true" selection-start-line="73" selection-start-column="31" selection-end-line="73" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/[0122][Best Time to Buy and Sell Stock II]/src/Main.java">
+        <entry file="file://$PROJECT_DIR$/[0007][Reverse Integer]/src/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="34" selection-start-line="34" selection-end-line="34" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="359">
+              <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/[0003][Longest Substring Without Repeating Characters]/src/Solution.java">
+        <entry file="file://$PROJECT_DIR$/[0009][Palindrome Number]/src/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="660">
-              <caret line="46" column="62" selection-start-line="46" selection-start-column="62" selection-end-line="46" selection-end-column="62" />
+            <state relative-caret-position="-291">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/[0011][Container With Most Water]/src/Solution.java">
+        <entry file="file://$PROJECT_DIR$/[0057][Insert Interval]/src/Interval.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="33" column="46" selection-start-line="33" selection-start-column="46" selection-end-line="33" selection-end-column="46" />
+            <state relative-caret-position="102">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/[0011][Container With Most Water]/src/Solution2.java">
+        <entry file="file://$PROJECT_DIR$/[0057][Insert Interval]/src/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="7" selection-end-line="74" />
+            <state relative-caret-position="126">
+              <caret line="43" column="51" lean-forward="true" selection-start-line="43" selection-start-column="51" selection-end-line="43" selection-end-column="51" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/[0120][Triangle]/src/Solution.java">
+        <entry file="file://$PROJECT_DIR$/[0056][Merge Intervals]/src/Interval.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="451">
-              <caret line="61" column="36" selection-start-line="61" selection-start-column="36" selection-end-line="61" selection-end-column="36" />
+            <state relative-caret-position="102">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/[0053][Maximum Subarray]/src/Solution.java">
+        <entry file="file://$PROJECT_DIR$/[0056][Merge Intervals]/src/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="271">
-              <caret line="20" column="46" selection-start-line="20" selection-start-column="46" selection-end-line="20" selection-end-column="46" />
+            <state relative-caret-position="297">
+              <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/[0043][Multiply Strings]/src/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="277">
+              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/[0132][Palindrome Partitioning II]/src/Solution.java">
+        <entry file="file://$PROJECT_DIR$/[0030][Substring With Concatenation Of All Words]/src/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="41" column="37" lean-forward="true" selection-start-line="41" selection-start-column="37" selection-end-line="41" selection-end-column="37" />
+            <state relative-caret-position="403">
+              <caret line="29" column="15" selection-start-line="29" selection-start-column="15" selection-end-line="29" selection-end-column="15" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/[0132][Palindrome Partitioning II]/src/Solution2.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/sql/Timestamp.java">
+        <entry file="file://$PROJECT_DIR$/[0139][Word Break]/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="7740">
-              <caret line="549" column="33" selection-start-line="549" selection-start-column="33" selection-end-line="549" selection-end-column="33" />
+            <state relative-caret-position="357">
+              <caret line="56" column="39" lean-forward="true" selection-start-line="56" selection-start-column="39" selection-end-line="56" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -333,12 +165,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/[078][Subsets]/src/Solution2.java" />
-        <option value="$PROJECT_DIR$/[078][Subsets]/src/Main.java" />
-        <option value="$PROJECT_DIR$/[078][Subsets]/src/Solution3.java" />
-        <option value="$PROJECT_DIR$/[078][Subsets]/src/Solution.java" />
-        <option value="$PROJECT_DIR$/[090][Subsets II]/src/Main.java" />
-        <option value="$PROJECT_DIR$/[090][Subsets II]/src/Solution.java" />
         <option value="$PROJECT_DIR$/[046][Permutations]/src/Solution.java" />
         <option value="$PROJECT_DIR$/[047][Permutations II]/src/Solution2.java" />
         <option value="$PROJECT_DIR$/[047][Permutations II]/src/Main.java" />
@@ -382,8 +208,14 @@
         <option value="$PROJECT_DIR$/[0011][Container With Most Water]/src/Solution2.java" />
         <option value="$PROJECT_DIR$/[0120][Triangle]/src/Solution.java" />
         <option value="$PROJECT_DIR$/[0053][Maximum Subarray]/src/Solution.java" />
-        <option value="$PROJECT_DIR$/[0132][Palindrome Partitioning II]/src/Solution2.java" />
         <option value="$PROJECT_DIR$/[0132][Palindrome Partitioning II]/src/Solution.java" />
+        <option value="$PROJECT_DIR$/[0132][Palindrome Partitioning II]/src/Solution2.java" />
+        <option value="$PROJECT_DIR$/[0091][Decode Ways]/src/Solution2.java" />
+        <option value="$PROJECT_DIR$/[0091][Decode Ways]/src/Solution.java" />
+        <option value="$PROJECT_DIR$/[0091][Decode Ways]/src/Main.java" />
+        <option value="$PROJECT_DIR$/[0139][Word Break]/src/Main.java" />
+        <option value="$PROJECT_DIR$/[0043][Multiply Strings]/src/Solution.java" />
+        <option value="$PROJECT_DIR$/[0030][Substring With Concatenation Of All Words]/src/Solution.java" />
       </list>
     </option>
   </component>
@@ -395,10 +227,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="3" />
+    <option name="x" value="40" />
     <option name="y" value="23" />
-    <option name="width" value="1335" />
-    <option name="height" value="834" />
+    <option name="width" value="1329" />
+    <option name="height" value="877" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -408,7 +240,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -420,12 +251,100 @@
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="[0007][Reverse Integer]" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="[0007][Reverse Integer]" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="[0009][Palindrome Number]" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="[0009][Palindrome Number]" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="[0030][Substring With Concatenation Of All Words]" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="[0030][Substring With Concatenation Of All Words]" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="[0043][Multiply Strings]" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="[0043][Multiply Strings]" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="[0053][Maximum Subarray]" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="[0053][Maximum Subarray]" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="[0056][Merge Intervals]" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="[0056][Merge Intervals]" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="[0057][Insert Interval]" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="[0057][Insert Interval]" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="[0064][Minimum Path Sum]" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="[0064][Minimum Path Sum]" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="[0091][Decode Ways]" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="[0091][Decode Ways]" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -451,10 +370,22 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Solution2" type="1a9f42e2:ClassTreeNode" />
             </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="[0139][Word Break]" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="[0139][Word Break]" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -470,7 +401,7 @@
     <property name="extract.method.default.visibility" value="private" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="go.import.settings.migrated" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.124843955" />
     <property name="project.structure.side.proportion" value="0.29248658" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
@@ -495,25 +426,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Main.test4 (1)">
-    <configuration name="FileRename" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FileRename" />
-      <module name="[000][common]" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="[0122][Best Time to Buy and Sell Stock II]" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.Main.test04">
     <configuration name="Main" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="[130][Surrounded Regions]" />
+      <module name="[0139][Word Break]" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="Main" />
       <option name="TEST_OBJECT" value="class" />
@@ -521,8 +436,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="[131][Palindrome Partitioning]" />
+    <configuration name="Main.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="[0139][Word Break]" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main.test03" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="[0139][Word Break]" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <option name="METHOD_NAME" value="test03" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main.test04" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="[0139][Word Break]" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <option name="METHOD_NAME" value="test04" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main.test1 (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="[0091][Decode Ways]" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="Main" />
       <option name="METHOD_NAME" value="test1" />
@@ -531,30 +476,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main.test4 (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="[0122][Best Time to Buy and Sell Stock II]" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <option name="METHOD_NAME" value="test4" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.FileRename" />
+      <item itemvalue="JUnit.Main.test1 (1)" />
+      <item itemvalue="JUnit.Main.test01" />
       <item itemvalue="JUnit.Main" />
-      <item itemvalue="JUnit.Main.test1" />
-      <item itemvalue="JUnit.Main (1)" />
-      <item itemvalue="JUnit.Main.test4 (1)" />
+      <item itemvalue="JUnit.Main.test03" />
+      <item itemvalue="JUnit.Main.test04" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Main.test4 (1)" />
-        <item itemvalue="JUnit.Main (1)" />
-        <item itemvalue="Application.FileRename" />
-        <item itemvalue="JUnit.Main.test1" />
+        <item itemvalue="JUnit.Main.test04" />
         <item itemvalue="JUnit.Main" />
+        <item itemvalue="JUnit.Main.test01" />
+        <item itemvalue="JUnit.Main.test03" />
+        <item itemvalue="JUnit.Main.test1 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -590,14 +525,8 @@
       <workItem from="1560861984641" duration="32459000" />
       <workItem from="1561112879442" duration="2002000" />
       <workItem from="1561124571926" duration="11932000" />
-      <workItem from="1561369053923" duration="3513000" />
-    </task>
-    <task id="LOCAL-00006" summary="commit">
-      <created>1538119421634</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1538119421634</updated>
+      <workItem from="1561369053923" duration="4663000" />
+      <workItem from="1561460799551" duration="3447000" />
     </task>
     <task id="LOCAL-00007" summary="commit">
       <created>1538119540961</created>
@@ -935,58 +864,65 @@
       <option name="project" value="LOCAL" />
       <updated>1561346644160</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="commit">
+      <created>1561383166917</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1561383166917</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Main_test1 - 2019.06.21 at 18h 37m 56s.xml">
-      <configuration name="Main.test1" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Main_test1 - 2019.06.21 at 18h 39m 11s.xml">
-      <configuration name="Main.test1" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Main_test1 - 2019.06.21 at 18h 39m 21s.xml">
-      <configuration name="Main.test1" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Main_test1 - 2019.06.21 at 18h 41m 23s.xml">
-      <configuration name="Main.test1" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Main_test1 - 2019.06.21 at 18h 41m 57s.xml">
-      <configuration name="Main.test1" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Main_(1) - 2019.06.24 at 08h 42m 21s.xml">
-      <configuration name="Main (1)" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Main_(1) - 2019.06.24 at 08h 42m 51s.xml">
-      <configuration name="Main (1)" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Main_test4_(1) - 2019.06.24 at 08h 43m 24s.xml">
-      <configuration name="Main.test4 (1)" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="Main_test4_(1) - 2019.06.24 at 08h 43m 33s.xml">
       <configuration name="Main.test4 (1)" configurationId="JUnit" />
     </history-entry>
     <history-entry file="Main_test4_(1) - 2019.06.24 at 08h 46m 00s.xml">
       <configuration name="Main.test4 (1)" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="Main_test1_(1) - 2019.06.25 at 19h 23m 09s.xml">
+      <configuration name="Main.test1 (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Main_test01 - 2019.06.25 at 19h 31m 25s.xml">
+      <configuration name="Main.test01" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Main - 2019.06.25 at 19h 31m 34s.xml">
+      <configuration name="Main" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Main_test03 - 2019.06.25 at 19h 32m 04s.xml">
+      <configuration name="Main.test03" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Main_test01 - 2019.06.25 at 19h 32m 09s.xml">
+      <configuration name="Main.test01" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Main - 2019.06.25 at 19h 32m 14s.xml">
+      <configuration name="Main" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Main_test04 - 2019.06.25 at 19h 33m 33s.xml">
+      <configuration name="Main.test04" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Main_test04 - 2019.06.25 at 19h 33m 51s.xml">
+      <configuration name="Main.test04" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="165005000" />
+    <option name="totallyTimeSpent" value="169602000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="3" y="23" width="1335" height="834" extended-state="0" />
+    <frame x="40" y="23" width="1329" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4973262" visible="true" weight="0.26872587" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4973262" visible="true" weight="0.26066718" />
       <window_info id="JRebel" order="1" side_tool="true" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info id="Structure" order="5" sideWeight="0.5026738" weight="0.32741314" />
+      <window_info id="Structure" order="5" sideWeight="0.5026738" weight="0.33204633" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49889788" visible="true" weight="0.3027523" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.03452244" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4981631" weight="0.40555555" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4981631" visible="true" weight="0.21363041" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -1162,50 +1098,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/[130][Surrounded Regions]/src/Solution2.java" />
-    <entry file="file://$PROJECT_DIR$/[126][Word Ladder II]/src/Solution3.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/Set.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5742">
-          <caret line="342" column="12" selection-start-line="342" selection-start-column="12" selection-end-line="342" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/IdentityHashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16974">
-          <caret line="994" column="23" selection-start-line="994" selection-start-column="23" selection-end-line="994" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/[130][Surrounded Regions]/src/Solution.java" />
-    <entry file="file://$PROJECT_DIR$/[131][Palindrome Partitioning]/src/Solution.java" />
-    <entry file="file://$PROJECT_DIR$/[062][Unique Paths]/src/Solution.java" />
-    <entry file="file://$PROJECT_DIR$/[063][Unique Paths II]/src/Solution.java" />
-    <entry file="file://$PROJECT_DIR$/[051][N-Queens]/src/Solution.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="33948">
-          <caret line="1957" column="18" selection-start-line="1957" selection-start-column="18" selection-end-line="1957" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/[131][Palindrome Partitioning]/src/Main.java" />
-    <entry file="file://$PROJECT_DIR$/[126][Word Ladder II]/src/Main.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="67086">
-          <caret line="3798" column="30" selection-start-line="3798" selection-start-column="30" selection-end-line="3798" selection-end-column="30" />
-          <folding>
-            <element signature="e#177013#177014#0" expanded="true" />
-            <element signature="e#177054#177055#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/[052][N-Queens II]/src/Solution.java" />
-    <entry file="file://$PROJECT_DIR$/[093][Restore IP Addresses]/src/Solution.java" />
-    <entry file="file://$PROJECT_DIR$/[039][Combination Sum]/src/Solution.java" />
     <entry file="file://$PROJECT_DIR$/[040][Combination Sum II]/src/Solution.java" />
     <entry file="file://$PROJECT_DIR$/[022][Generate Parentheses]/src/Main.java" />
     <entry file="file://$PROJECT_DIR$/[022][Generate Parentheses]/src/Solution.java" />
@@ -1328,58 +1220,175 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/[0053][Maximum Subarray]/[0053][MaximumSubarray].iml" />
     <entry file="file://$PROJECT_DIR$/[0003][Longest Substring Without Repeating Characters]/src/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
+        <state relative-caret-position="748">
           <caret line="46" column="62" selection-start-line="46" selection-start-column="62" selection-end-line="46" selection-end-column="62" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/[0011][Container With Most Water]/src/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
+        <state relative-caret-position="561">
           <caret line="33" column="46" selection-start-line="33" selection-start-column="46" selection-end-line="33" selection-end-column="46" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/[0011][Container With Most Water]/src/Solution2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
+        <state relative-caret-position="255">
           <caret line="15" column="7" selection-end-line="74" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/sql/Timestamp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7740">
-          <caret line="549" column="33" selection-start-line="549" selection-start-column="33" selection-end-line="549" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/[0120][Triangle]/src/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="451">
+        <state relative-caret-position="1037">
           <caret line="61" column="36" selection-start-line="61" selection-start-column="36" selection-end-line="61" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/[0053][Maximum Subarray]/[0053][MaximumSubarray].iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/[0053][Maximum Subarray]/src/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
+        <state relative-caret-position="340">
           <caret line="20" column="46" selection-start-line="20" selection-start-column="46" selection-end-line="20" selection-end-column="46" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/[0132][Palindrome Partitioning II]/src/Solution2.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/[0132][Palindrome Partitioning II]/src/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="39" column="25" selection-start-line="39" selection-start-column="25" selection-end-line="39" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[0132][Palindrome Partitioning II]/src/Solution2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="15" selection-start-line="32" selection-start-column="15" selection-end-line="32" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/Lock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2261">
+          <caret line="166" selection-start-line="166" selection-end-line="166" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/sql/Timestamp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8772">
+          <caret line="549" column="33" selection-start-line="549" selection-start-column="33" selection-end-line="549" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/ReentrantLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="105" column="13" selection-start-line="105" selection-start-column="13" selection-end-line="105" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[0064][Minimum Path Sum]/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="48" column="9" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[0091][Decode Ways]/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="41" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[0091][Decode Ways]/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14">
+          <caret line="28" column="15" selection-start-line="28" selection-start-column="15" selection-end-line="28" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[0091][Decode Ways]/src/Solution2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[0139][Word Break]/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
-          <caret line="41" column="37" lean-forward="true" selection-start-line="41" selection-start-column="37" selection-end-line="41" selection-end-column="37" />
+          <caret line="56" column="39" lean-forward="true" selection-start-line="56" selection-start-column="39" selection-end-line="56" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[0139][Word Break]/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="73" column="31" lean-forward="true" selection-start-line="73" selection-start-column="31" selection-end-line="73" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[0007][Reverse Integer]/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[0009][Palindrome Number]/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-291">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[0057][Insert Interval]/src/Interval.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[0057][Insert Interval]/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="43" column="51" lean-forward="true" selection-start-line="43" selection-start-column="51" selection-end-line="43" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[0056][Merge Intervals]/src/Interval.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[0056][Merge Intervals]/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[0043][Multiply Strings]/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[0030][Substring With Concatenation Of All Words]/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="29" column="15" selection-start-line="29" selection-start-column="15" selection-end-line="29" selection-end-column="15" />
         </state>
       </provider>
     </entry>
@@ -1436,11 +1445,12 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>[0344][Reverse String]</last-edited>
+          <last-edited>[0139][Word Break]</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.29248658" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>

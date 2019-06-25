@@ -54,7 +54,6 @@ public class Solution2 {
                     p[i][j] = true;
                     f[i] = Math.min(f[i], f[j + 1] + 1);
                 }
-
             }
         }
 
