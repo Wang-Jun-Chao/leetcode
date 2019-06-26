@@ -15,11 +15,11 @@ public class Solution {
      * input specs). You are responsible to gather all the input requirements up front.
      *
      * 题目大意
-     * 　　实现一个atoi函数，将字符串转成整形
-     * 　　要点：考虑所有的输入情况。
+     * 实现一个atoi函数，将字符串转成整形
+     * 要点：考虑所有的输入情况。
      *
      * 解题思路
-     * 　　前导字符是+或-或者没有，接下来输入的是数字，数字不能整数能表示的最大或最小数。
+     * 前导字符是+或-或者没有，接下来输入的是数字，数字不能整数能表示的最大或最小数。
      * 如果超过就返回对应的最小或者最小的值。
      * </pre>
      *

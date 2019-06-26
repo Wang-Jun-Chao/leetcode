@@ -25,7 +25,7 @@ public class Solution {
      */
     public boolean isPalindrome(int x) {
 
-        // 负数不是回访数字
+        // 负数不是回文数字
         if (x < 0) {
             return false;
         }

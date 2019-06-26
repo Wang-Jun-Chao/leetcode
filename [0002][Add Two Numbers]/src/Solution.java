@@ -71,7 +71,7 @@ public class Solution {
         // 最后一次相加还有进位
         if (carry == 1) {
             // 开始时r.next是第一个要相加的结点
-            while (r.next != null) {
+            while (r.next != null && carry != 0) {
                 sum = r.next.val + carry;
                 r.next.val = sum % 10;
                 carry = sum / 10;

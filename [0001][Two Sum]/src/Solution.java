@@ -41,7 +41,7 @@ public class Solution {
     public int[] twoSum(int[] nums, int target) {
         int[] result = {0, 0};
 
-        // 因为无素可能会重复
+        // 因为无素可能会重复，用于记录元素出现的下标
         Map<Integer, List<Integer>> map = new HashMap<>(nums.length);
 
         for (int i = 0; i < nums.length; i++) {

@@ -36,12 +36,13 @@ public class Solution {
     /**
      * 在数组两个数组中找第k大的元素，k=1, 2, 3, ...
      *
-     * @param nums1
-     * @param nums2
-     * @param k
+     * @param nums1  数组1
+     * @param start1 起始位置1
+     * @param nums2  数组2
+     * @param start2 起始位置2
+     * @param k      要找的中位位置
      * @return
-     **/
-
+     */
     public int findKth(int[] nums1, final int start1,
                        int[] nums2, final int start2,
                        final int k) {
@@ -50,6 +51,7 @@ public class Solution {
             return findKth(nums2, start2, nums1, start1, k);
         }
 
+        // 较少元素的数组已经达到末尾
         if (nums1.length == start1) {
             return nums2[start2 + k - 1];
         }
@@ -72,7 +74,7 @@ public class Solution {
         // 说明子数组nums1[start, ..., ia-1]可以弃了，要找的值在nums1[ia, ..., nums1.length]
         // 和nums2[start, ..., ib-1, ib, ..., nums2.length]中
         if (nums1[ia - 1] < nums2[ib - 1]) {
-            // k - (ia - start1) = k - (half + start1 - start1)=k - half
+            // k - (ia - start1) = k - (half + start1 - start1) = k - half
             return findKth(nums1, ia, nums2, start2, k - (ia - start1));
         }
 
