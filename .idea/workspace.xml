@@ -2,11 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce385e91-de99-4e13-9d76-ab57b6a23494" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0013][Romar To Integer]/[0013][Romar To Integer].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0013][Roman To Integer]/[0013][Roman To Integer].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0013][Romar To Integer]/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/[0013][Roman To Integer]/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0013][Romar To Integer]/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/[0013][Roman To Integer]/src/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0013][Romar To Integer]/src/Solution2.java" beforeDir="false" afterPath="$PROJECT_DIR$/[0013][Roman To Integer]/src/Solution2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[0013][Roman To Integer]/[0013][Roman To Integer].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0013][Roman To Integer]/[0013][Roman To Integer].iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[0015][3 Sum]/[0015][3 Sum].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0015][3 Sum]/[0015][3 Sum].iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[0015][3 Sum]/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/[0015][3 Sum]/src/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[0016][3 Sum Closest]/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/[0016][3 Sum Closest]/src/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[0017][Letter Combinations Of A Phon Number/[0017][Letter Combinations Of A Phon Number.iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0017][Letter Combinations Of A Phone Number/[0017][Letter Combinations Of A Phone Number.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[0017][Letter Combinations Of A Phon Number/[0017][LetterCombinationsOfAPhonNumber ].iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/[0017][Letter Combinations Of A Phon Number/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/[0017][Letter Combinations Of A Phone Number/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[0017][Letter Combinations Of A Phon Number/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/[0017][Letter Combinations Of A Phone Number/src/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[0017][Letter Combinations Of A Phon Number/src/Solution2.java" beforeDir="false" afterPath="$PROJECT_DIR$/[0017][Letter Combinations Of A Phone Number/src/Solution2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[0017][Letter Combinations Of A Phon Number/src/phone-number.png" beforeDir="false" afterPath="$PROJECT_DIR$/[0017][Letter Combinations Of A Phone Number/src/phone-number.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[0018][4 Sum]/[0018][4Sum].iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/[0018][4 Sum]/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/[0018][4 Sum]/src/Solution.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -22,61 +32,16 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/[0007][Reverse Integer]/src/Solution.java">
+        <entry file="file://$PROJECT_DIR$/[0015][3 Sum]/src/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="471">
-              <caret line="33" selection-start-line="33" selection-end-line="33" />
+            <state relative-caret-position="610">
+              <caret line="72" column="36" selection-start-line="72" selection-start-column="36" selection-end-line="72" selection-end-column="36" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/[0011][Container With Most Water]/src/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-509">
-              <caret line="22" column="43" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/[0012][Integer To Roman]/src/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="358">
-              <caret line="50" column="27" selection-start-line="50" selection-start-column="27" selection-end-line="50" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/[0013][Roman To Integer]/src/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-220">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/[0014][Longest Common Prefix]/src/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/[0009][Palindrome Number]/src/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="328">
-              <caret line="27" column="17" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/[0010][Regular Expression Matching]/src/Main.java">
+        <entry file="file://$PROJECT_DIR$/[0016][3 Sum Closest]/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
               <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
@@ -85,28 +50,69 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/[0010][Regular Expression Matching]/src/Solution.java">
+        <entry file="file://$PROJECT_DIR$/[0016][3 Sum Closest]/src/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1305">
+            <state relative-caret-position="477">
+              <caret line="90" column="11" selection-start-line="90" selection-start-column="11" selection-end-line="92" selection-end-column="67" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/[0017][Letter Combinations Of A Phone Number/src/phone-number.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/[0017][Letter Combinations Of A Phone Number/src/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-484">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/[0018][4 Sum]/src/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="477">
+              <caret line="97" column="24" selection-start-line="97" selection-start-column="24" selection-end-line="97" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/[0017][Letter Combinations Of A Phone Number/src/Solution2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-849">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/[0016][3 Sum Closest]/src/Solution2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-764">
               <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/[0008][String To Integer (atoi)]/src/Solution.java">
+        <entry file="file://$PROJECT_DIR$/[0015][3 Sum]/src/Solution3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-220">
-              <caret line="55" column="19" selection-start-line="55" selection-start-column="19" selection-end-line="55" selection-end-column="19" />
+            <state relative-caret-position="-205">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/[0009][Palindrome Number]/src/Main.java">
+        <entry file="file://$PROJECT_DIR$/[0015][3 Sum]/src/Solution2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+            <state relative-caret-position="-1063">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -153,11 +159,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/[077][Combinations]/src/Solution.java" />
-        <option value="$PROJECT_DIR$/[017][Letter Combinations Of A Phon Number/src/Solution2.java" />
-        <option value="$PROJECT_DIR$/[017][Letter Combinations Of A Phon Number/src/Main.java" />
-        <option value="$PROJECT_DIR$/[017][Letter Combinations Of A Phon Number/src/Solution.java" />
-        <option value="$PROJECT_DIR$/[127][Word Ladder]/src/Main.java" />
         <option value="$PROJECT_DIR$/[127][Word Ladder]/src/Solution.java" />
         <option value="$PROJECT_DIR$/[127][Word Ladder]/src/Solution2.java" />
         <option value="$PROJECT_DIR$/[126][Word Ladder II]/src/Solution2.java" />
@@ -204,6 +205,11 @@
         <option value="$PROJECT_DIR$/[0008][String To Integer (atoi)]/src/Solution.java" />
         <option value="$PROJECT_DIR$/[0009][Palindrome Number]/src/Solution.java" />
         <option value="$PROJECT_DIR$/[0011][Container With Most Water]/src/Solution.java" />
+        <option value="$PROJECT_DIR$/[0013][Roman To Integer]/src/Main.java" />
+        <option value="$PROJECT_DIR$/[0015][3 Sum]/src/Main.java" />
+        <option value="$PROJECT_DIR$/[0015][3 Sum]/src/Solution.java" />
+        <option value="$PROJECT_DIR$/[0016][3 Sum Closest]/src/Solution.java" />
+        <option value="$PROJECT_DIR$/[0018][4 Sum]/src/Solution.java" />
       </list>
     </option>
   </component>
@@ -389,6 +395,50 @@
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="[0014][Longest Common Prefix]" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="[0015][3 Sum]" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="[0015][3 Sum]" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="[0016][3 Sum Closest]" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="[0016][3 Sum Closest]" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="[0017][Letter Combinations Of A Phone Number" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="[0017][Letter Combinations Of A Phone Number" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="[0018][4 Sum]" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="[0018][4 Sum]" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -647,14 +697,7 @@
       <workItem from="1561124571926" duration="11932000" />
       <workItem from="1561369053923" duration="4663000" />
       <workItem from="1561460799551" duration="3462000" />
-      <workItem from="1561557253672" duration="2744000" />
-    </task>
-    <task id="LOCAL-00011" summary="commit">
-      <created>1538120090910</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1538120090910</updated>
+      <workItem from="1561557253672" duration="3654000" />
     </task>
     <task id="LOCAL-00012" summary="commit">
       <created>1538120198175</created>
@@ -992,7 +1035,14 @@
       <option name="project" value="LOCAL" />
       <updated>1561559322984</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="commit">
+      <created>1561588132148</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1561588132149</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1028,10 +1078,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="172361000" />
+    <option name="totallyTimeSpent" value="173271000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="40" y="23" width="1329" height="877" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4973262" visible="true" weight="0.26454616" />
       <window_info id="JRebel" order="1" side_tool="true" />
@@ -1218,98 +1269,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#75557#75561#0" expanded="true" />
-            <element signature="e#76150#76154#0" expanded="true" />
-            <element signature="e#76363#76367#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="41" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/[0054][Spiral Matrix]/src/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="13" column="59" selection-start-line="13" selection-start-column="59" selection-end-line="13" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/[0010][Regular Expression Matching]/[0010][Regular Expression Matching].iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/[0055][Jump Game]/src/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="25" column="6" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/[0045][Jump Game II]/src/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="17" selection-end-line="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/[0121][Best Time To Buy And Sell Stock]/src/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="45" column="26" selection-start-line="45" selection-start-column="26" selection-end-line="45" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/[0122][Best Time to Buy and Sell Stock II]/src/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="705">
-          <caret line="47" column="16" selection-start-line="47" selection-start-column="16" selection-end-line="47" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/[0122][Best Time to Buy and Sell Stock II]/src/Solution2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1020">
-          <caret line="68" selection-start-line="68" selection-end-line="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/[0122][Best Time to Buy and Sell Stock II]/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="34" selection-start-line="34" selection-end-line="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/[0053][Maximum Subarray]/[0053][MaximumSubarray].iml" />
-    <entry file="file://$PROJECT_DIR$/[0011][Container With Most Water]/src/Solution2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="7" selection-end-line="74" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/[0120][Triangle]/src/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1037">
@@ -1558,6 +1517,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/[0014][Longest Common Prefix]/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[0013][Roman To Integer]/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/[0013][Roman To Integer]/src/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-220">
@@ -1565,10 +1541,90 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/[0014][Longest Common Prefix]/src/Main.java">
+    <entry file="file://$PROJECT_DIR$/[0013][Roman To Integer]/src/Solution2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+        <state relative-caret-position="-286">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[0014][Longest Common Prefix]/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-288">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[0015][3 Sum]/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-100">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[0015][3 Sum]/src/Solution3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-205">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[0015][3 Sum]/src/Solution2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1063">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[0015][3 Sum]/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="610">
+          <caret line="72" column="36" selection-start-line="72" selection-start-column="36" selection-end-line="72" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[0016][3 Sum Closest]/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[0016][3 Sum Closest]/src/Solution2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-764">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[0017][Letter Combinations Of A Phone Number/src/Solution2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-849">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[0017][Letter Combinations Of A Phone Number/src/phone-number.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[0017][Letter Combinations Of A Phone Number/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-484">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[0016][3 Sum Closest]/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="477">
+          <caret line="90" column="11" selection-start-line="90" selection-start-column="11" selection-end-line="92" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[0018][4 Sum]/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="477">
+          <caret line="97" column="24" selection-start-line="97" selection-start-column="24" selection-end-line="97" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -1625,7 +1681,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>[0139][Word Break]</last-edited>
+          <last-edited>[0013][Romar To Integer]</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
