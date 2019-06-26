@@ -40,6 +40,7 @@ public class Solution {
         }
 
 
+        // 说明要删除第一个节点
         if (pa == null) {
             head = head.next;
             return head;
