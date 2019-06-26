@@ -1,25 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ce385e91-de99-4e13-9d76-ab57b6a23494" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/[0091][Decode Ways]/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[0091][Decode Ways]/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[0091][Decode Ways]/src/Solution2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0009][Palindrome Number]/[0009][PalindromeNumber].iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0030][Substring With Concatenation Of All Words]/[0030][SubstringWithConcatenationOfAllWords].iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0030][Substring With Concatenation Of All Words]/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/[0030][Substring With Concatenation Of All Words]/src/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0043][Multiply Strings]/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/[0043][Multiply Strings]/src/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0056][Merge Intervals]/[0056][MergeIntervals].iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0057][Insert Interval]/[0057][InsertInterval].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0091][Decode Ways]/[0091][Decode Ways].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0132][Palindrome Partitioning II]/[0132][Palindrome Partitioning II].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0132][Palindrome Partitioning II]/[0132][Palindrome Partitioning II].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0132][Palindrome Partitioning II]/src/Solution2.java" beforeDir="false" afterPath="$PROJECT_DIR$/[0132][Palindrome Partitioning II]/src/Solution2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0139][Word Break]/[0139][Word Break].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0139][Word Break]/[0139][Word Break].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0139][Word Break]/[0139][WordBreak].iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0139][Word Break]/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/[0139][Word Break]/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="ce385e91-de99-4e13-9d76-ab57b6a23494" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -108,7 +90,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/[0030][Substring With Concatenation Of All Words]/src/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="403">
+            <state relative-caret-position="493">
               <caret line="29" column="15" selection-start-line="29" selection-start-column="15" selection-end-line="29" selection-end-column="15" />
             </state>
           </provider>
@@ -526,14 +508,7 @@
       <workItem from="1561112879442" duration="2002000" />
       <workItem from="1561124571926" duration="11932000" />
       <workItem from="1561369053923" duration="4663000" />
-      <workItem from="1561460799551" duration="3447000" />
-    </task>
-    <task id="LOCAL-00007" summary="commit">
-      <created>1538119540961</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1538119540961</updated>
+      <workItem from="1561460799551" duration="3462000" />
     </task>
     <task id="LOCAL-00008" summary="commit">
       <created>1538119680847</created>
@@ -871,7 +846,14 @@
       <option name="project" value="LOCAL" />
       <updated>1561383166917</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="commit">
+      <created>1561501704159</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1561501704161</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -907,7 +889,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="169602000" />
+    <option name="totallyTimeSpent" value="169617000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="40" y="23" width="1329" height="877" extended-state="0" />
@@ -922,7 +904,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49889788" visible="true" weight="0.3027523" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.03452244" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4981631" visible="true" weight="0.21363041" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4981631" weight="0.21363041" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -1387,7 +1369,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/[0030][Substring With Concatenation Of All Words]/src/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="403">
+        <state relative-caret-position="493">
           <caret line="29" column="15" selection-start-line="29" selection-start-column="15" selection-end-line="29" selection-end-column="15" />
         </state>
       </provider>
