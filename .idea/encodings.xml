@@ -37,9 +37,14 @@
     <file url="file://$PROJECT_DIR$/[0021][Merge Two Sorted Lists]/src/Solution.java" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/[0022][Generate Parentheses]/src/Main.java" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/[0022][Generate Parentheses]/src/Solution.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/[0023][Merge K Sorted Lists]/src/ListNode.java" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/[0023][Merge K Sorted Lists]/src/Solution.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/[0023][Merge K Sorted Lists]/src/Solution2.java" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/[0024][Swap Nodes In Pairs]/src/Solution.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/[0025][Reverse Nodes In K-Group]/src/ListNode.java" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/[0025][Reverse Nodes In K-Group]/src/Solution.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/[0026][Remove Duplicates from Sorted Array]/src/Solution.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/[0026][Remove Duplicates from Sorted Array]/src/Solution2.java" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/[0027][Remove Element]/src/Solution.java" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/[0027][Remove Element]/src/Solution2.java" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/[0030][Substring With Concatenation Of All Words]/src/Solution.java" charset="GB2312" />
@@ -119,6 +124,8 @@
     <file url="file://$PROJECT_DIR$/[0147][Insertion Sort List]/src/ListNode.java" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/[0148][Sort List]/src/ListNode.java" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/[0150][Evaluate Reverse Polish Notation]/src/Solution.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/[0162][Find Peak Element]/src/Solution.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/[0173][Binary Search Tree Iterator]/src/TreeNode.java" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/[0206][Reverse Linked List]/src/ListNode.java" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/[0206][Reverse Linked List]/src/Main.java" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/[0206][Reverse Linked List]/src/Solution.java" charset="GB2312" />

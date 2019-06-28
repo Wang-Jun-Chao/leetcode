@@ -28,7 +28,8 @@ public class Solution {
      */
     public ListNode mergeTwoLists(ListNode l1, ListNode l2) {
 
-        ListNode head = new ListNode(0); // 创建一个头结点，最后还要删除掉
+        // 创建一个头结点，最后还要删除掉
+        ListNode head = new ListNode(0);
         ListNode tail = head;
 
         while (l1 != null && l2 != null) {
