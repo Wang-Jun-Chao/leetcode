@@ -1,5 +1,6 @@
 import java.util.Deque;
 import java.util.LinkedList;
+import java.util.NoSuchElementException;
 
 /**
  * @author: wangjunchao(王俊超)
@@ -7,11 +8,18 @@ import java.util.LinkedList;
  **/
 public class BSTIterator {
     private TreeNode        root;
-    private TreeNode        curr;
+    private TreeNode        prev = null;
+    // 最后一个元素表示next元素的值
     private Deque<TreeNode> deque = new LinkedList<>();
 
     public BSTIterator(TreeNode root) {
         this.root = root;
+        TreeNode temp = root;
+        // 找最左的子结点，并且将经过的路径都记录下来
+        while (temp != null) {
+            deque.addLast(temp);
+            temp = temp.left;
+        }
     }
 
     /**
@@ -19,42 +27,27 @@ public class BSTIterator {
      */
     public int next() {
 
-        if (curr == null) {
-            curr = root;
-            while (curr.left != null) {
-                deque.addLast(curr);
-                curr = curr.left;
-            }
+        if (deque.isEmpty()) {
+            throw new NoSuchElementException();
+        }
 
-            return curr.val;
-        } else {
-            if (curr.right != null) {
+        TreeNode temp = deque.removeLast();
 
-                deque.addLast(curr.right);
-                curr = curr.right;
-                while (curr.left != null) {
-                    deque.addLast(curr.left);
-                    curr = curr.left;
-                }
-
-
-                curr = deque.removeLast();
-                return curr.val;
-            } else {
-                curr = deque.removeLast();
-                if (curr.right != null) {
-                    deque.addLast(curr.right);
-                }
-                return curr.val;
+        if (temp.right!= null) {
+            TreeNode n = temp.right;
+            while (n!=null) {
+                deque.addLast(n);
+                n = n.left;
             }
         }
 
+        return temp.val;
     }
 
     /**
      * @return whether we have a next smallest number
      */
     public boolean hasNext() {
-        return curr == null || (curr.left != null || curr.right != null) || !deque.isEmpty();
+        return !deque.isEmpty();
     }
 }
