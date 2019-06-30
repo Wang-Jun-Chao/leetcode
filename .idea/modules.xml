@@ -189,6 +189,7 @@
       <module fileurl="file://$PROJECT_DIR$/[0367][Valid Perfect Square]/[0367][Valid Perfect Square].iml" filepath="$PROJECT_DIR$/[0367][Valid Perfect Square]/[0367][Valid Perfect Square].iml" />
       <module fileurl="file://$PROJECT_DIR$/[0374][Guess Number Higher or Lower]/[0374][Guess Number Higher or Lower].iml" filepath="$PROJECT_DIR$/[0374][Guess Number Higher or Lower]/[0374][Guess Number Higher or Lower].iml" />
       <module fileurl="file://$PROJECT_DIR$/[0383][Ransom Note]/[0383][Ransom Note].iml" filepath="$PROJECT_DIR$/[0383][Ransom Note]/[0383][Ransom Note].iml" />
+      <module fileurl="file://$PROJECT_DIR$/[0387][First Unique Character in a String]/[0387][First Unique Character in a String].iml" filepath="$PROJECT_DIR$/[0387][First Unique Character in a String]/[0387][First Unique Character in a String].iml" />
       <module fileurl="file://$PROJECT_DIR$/leetcode.iml" filepath="$PROJECT_DIR$/leetcode.iml" />
     </modules>
   </component>
