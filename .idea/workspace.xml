@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce385e91-de99-4e13-9d76-ab57b6a23494" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/[0387][First Unique Character in a String]/[0387][First Unique Character in a String].iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[0387][First Unique Character in a String]/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[0389][Find the Difference]/[0389][Find the Difference].iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[0389][Find the Difference]/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[0389][Find the Difference]/src/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -43,29 +44,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/[0162][Find Peak Element]/src/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="232">
-              <caret line="57" selection-end-line="68" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/[0144][Binary Tree Preorder Traversal]/src/TreeNode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/[0173][Binary Search Tree Iterator]/src/TreeNode.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/[0173][Binary Search Tree Iterator]/src/BSTIterator.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="252">
@@ -79,11 +57,44 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/[0387][First Unique Character in a String]/src/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="646">
-              <caret line="38" column="22" selection-start-line="38" selection-start-column="22" selection-end-line="38" selection-end-column="22" />
+            <state relative-caret-position="170">
+              <caret line="10" column="10" selection-end-line="58" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/[0389][Find the Difference]/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="81">
+              <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/[0389][Find the Difference]/src/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="37" column="36" selection-start-line="37" selection-start-column="36" selection-end-line="37" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/[0387][First Unique Character in a String]/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -185,9 +196,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/[0122][Best Time to Buy and Sell Stock II]/src/Test.java" />
-        <option value="$PROJECT_DIR$/[0122][Best Time to Buy and Sell Stock II]/src/Main.java" />
-        <option value="$PROJECT_DIR$/[0003][Longest Substring Without Repeating Characters]/src/Solution.java" />
         <option value="$PROJECT_DIR$/[0011][Container With Most Water]/src/Solution2.java" />
         <option value="$PROJECT_DIR$/[0120][Triangle]/src/Solution.java" />
         <option value="$PROJECT_DIR$/[0053][Maximum Subarray]/src/Solution.java" />
@@ -236,6 +244,9 @@
         <option value="$PROJECT_DIR$/[0173][Binary Search Tree Iterator]/src/Solution.java" />
         <option value="$PROJECT_DIR$/[0173][Binary Search Tree Iterator]/src/BSTIterator.java" />
         <option value="$PROJECT_DIR$/[0387][First Unique Character in a String]/src/Solution.java" />
+        <option value="$PROJECT_DIR$/[0387][First Unique Character in a String]/src/Main.java" />
+        <option value="$PROJECT_DIR$/[0389][Find the Difference]/src/Solution.java" />
+        <option value="$PROJECT_DIR$/[0389][Find the Difference]/src/Main.java" />
       </list>
     </option>
   </component>
@@ -247,8 +258,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="192" />
-    <option name="y" value="41" />
+    <option name="x" value="108" />
+    <option name="y" value="65" />
     <option name="width" value="1329" />
     <option name="height" value="877" />
   </component>
@@ -364,6 +375,17 @@
               <item name="[0387][First Unique Character in a String]" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="[0389][Find the Difference]" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="[0389][Find the Difference]" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -408,12 +430,31 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Main">
+  <component name="RunManager" selected="JUnit.Main.test2">
+    <configuration name="Main (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="[0389][Find the Difference]" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="[0387][First Unique Character in a String]" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="Main" />
       <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="[0389][Find the Difference]" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -437,40 +478,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="[0173][Binary Search Tree Iterator]" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Solution" />
-      <option name="METHOD_NAME" value="test2" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="[0173][Binary Search Tree Iterator]" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Solution" />
-      <option name="METHOD_NAME" value="test3" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="JUnit.Solution.test1" />
-      <item itemvalue="JUnit.Solution.test2" />
       <item itemvalue="JUnit.Solution" />
-      <item itemvalue="JUnit.Solution.test3" />
       <item itemvalue="JUnit.Main" />
+      <item itemvalue="JUnit.Main (1)" />
+      <item itemvalue="JUnit.Main.test2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Main.test2" />
+        <item itemvalue="JUnit.Main (1)" />
         <item itemvalue="JUnit.Main" />
         <item itemvalue="JUnit.Solution" />
         <item itemvalue="JUnit.Solution.test1" />
-        <item itemvalue="JUnit.Solution.test3" />
-        <item itemvalue="JUnit.Solution.test2" />
       </list>
     </recent_temporary>
   </component>
@@ -512,14 +533,7 @@
       <workItem from="1561599288349" duration="1000" />
       <workItem from="1561599351344" duration="276000" />
       <workItem from="1561631303138" duration="3384000" />
-      <workItem from="1561703772713" duration="15439000" />
-    </task>
-    <task id="LOCAL-00016" summary="commit">
-      <created>1538121073398</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1538121073398</updated>
+      <workItem from="1561703772713" duration="16610000" />
     </task>
     <task id="LOCAL-00017" summary="commit">
       <created>1538121487647</created>
@@ -857,47 +871,53 @@
       <option name="project" value="LOCAL" />
       <updated>1561813424767</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="commit">
+      <created>1561874014119</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1561874014119</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Solution_test1 - 2019.06.28 at 18h 59m 43s.xml">
-      <configuration name="Solution.test1" configurationId="JUnit" />
+    <history-entry file="Main_(1) - 2019.06.30 at 14h 01m 16s.xml">
+      <configuration name="Main (1)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solution - 2019.06.28 at 18h 59m 49s.xml">
-      <configuration name="Solution" configurationId="JUnit" />
+    <history-entry file="Main_(1) - 2019.06.30 at 14h 01m 45s.xml">
+      <configuration name="Main (1)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solution - 2019.06.28 at 22h 11m 34s.xml">
-      <configuration name="Solution" configurationId="JUnit" />
+    <history-entry file="Main_(1) - 2019.06.30 at 14h 02m 03s.xml">
+      <configuration name="Main (1)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solution - 2019.06.28 at 22h 12m 44s.xml">
-      <configuration name="Solution" configurationId="JUnit" />
+    <history-entry file="Main_(1) - 2019.06.30 at 14h 02m 40s.xml">
+      <configuration name="Main (1)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solution - 2019.06.28 at 22h 16m 17s.xml">
-      <configuration name="Solution" configurationId="JUnit" />
+    <history-entry file="Main_(1) - 2019.06.30 at 14h 03m 28s.xml">
+      <configuration name="Main (1)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solution - 2019.06.28 at 22h 16m 21s.xml">
-      <configuration name="Solution" configurationId="JUnit" />
+    <history-entry file="Main_(1) - 2019.06.30 at 14h 03m 58s.xml">
+      <configuration name="Main (1)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solution - 2019.06.28 at 22h 24m 47s.xml">
-      <configuration name="Solution" configurationId="JUnit" />
+    <history-entry file="Main_test2 - 2019.06.30 at 14h 06m 11s.xml">
+      <configuration name="Main.test2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solution - 2019.06.28 at 22h 24m 54s.xml">
-      <configuration name="Solution" configurationId="JUnit" />
+    <history-entry file="Main_test2 - 2019.06.30 at 14h 06m 17s.xml">
+      <configuration name="Main.test2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solution - 2019.06.28 at 22h 27m 02s.xml">
-      <configuration name="Solution" configurationId="JUnit" />
+    <history-entry file="Main_test2 - 2019.06.30 at 14h 06m 30s.xml">
+      <configuration name="Main.test2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solution - 2019.06.28 at 22h 40m 01s.xml">
-      <configuration name="Solution" configurationId="JUnit" />
+    <history-entry file="Main_test2 - 2019.06.30 at 14h 06m 41s.xml">
+      <configuration name="Main.test2" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="193847000" />
+    <option name="totallyTimeSpent" value="195018000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="202" y="109" width="1329" height="877" extended-state="0" />
-    <editor active="true" />
+    <frame x="108" y="65" width="1329" height="877" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4973262" visible="true" weight="0.26842514" />
       <window_info id="JRebel" order="1" side_tool="true" />
@@ -908,7 +928,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49889788" visible="true" weight="0.3027523" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.03931848" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4981631" visible="true" weight="0.44954127" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4981631" visible="true" weight="0.5976409" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -1087,6 +1107,24 @@
           <properties />
           <option name="timeStamp" value="67" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/[0389][Find the Difference]/src/Solution.java</url>
+          <line>50</line>
+          <properties />
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/[0389][Find the Difference]/src/Solution.java</url>
+          <line>44</line>
+          <properties />
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/[0389][Find the Difference]/src/Solution.java</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/[081][Search In Rotated Sorted Array II]/src/Solution2.java</url>
           <line>17</line>
@@ -1153,27 +1191,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/[0018][4 Sum]/src/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="477">
-          <caret line="97" column="24" selection-start-line="97" selection-start-column="24" selection-end-line="97" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/[0019][Remove Nth Node From End Of List]/src/ListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/[0019][Remove Nth Node From End Of List]/src/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="42" column="21" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/[0020][Valid Parentheses]/src/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="714">
@@ -1546,13 +1563,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/[0387][First Unique Character in a String]/src/Solution.java">
+    <entry file="file://$PROJECT_DIR$/[0387][First Unique Character in a String]/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="38" column="22" selection-start-line="38" selection-start-column="22" selection-end-line="38" selection-end-column="22" />
+        <state relative-caret-position="289">
+          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[0387][First Unique Character in a String]/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="10" selection-end-line="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[0389][Find the Difference]/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[0389][Find the Difference]/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="37" column="36" selection-start-line="37" selection-start-column="36" selection-end-line="37" selection-end-column="36" />
         </state>
       </provider>
     </entry>
