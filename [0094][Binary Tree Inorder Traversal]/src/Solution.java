@@ -12,8 +12,9 @@ public class Solution {
 
         List<Integer> result = new LinkedList<>();
         LinkedList<TreeNode> stack = new LinkedList<>();
-        TreeNode node = root;
 
+        // 用于记录当前需要处理的元素
+        TreeNode node = root;
 
         // node的两种情况：1、root结点，2、父结点的右孩子
         while (node != null || !stack.isEmpty()) {
