@@ -176,10 +176,12 @@
       <module fileurl="file://$PROJECT_DIR$/[0242][Valid Anagram]/[0242][Valid Anagram].iml" filepath="$PROJECT_DIR$/[0242][Valid Anagram]/[0242][Valid Anagram].iml" />
       <module fileurl="file://$PROJECT_DIR$/[0257][Binary Tree Paths]/[0257][Binary Tree Paths].iml" filepath="$PROJECT_DIR$/[0257][Binary Tree Paths]/[0257][Binary Tree Paths].iml" />
       <module fileurl="file://$PROJECT_DIR$/[0258][Add Digits]/[0258][Add Digits].iml" filepath="$PROJECT_DIR$/[0258][Add Digits]/[0258][Add Digits].iml" />
+      <module fileurl="file://$PROJECT_DIR$/[0260][Single Number III]/[0260][Single Number III].iml" filepath="$PROJECT_DIR$/[0260][Single Number III]/[0260][Single Number III].iml" />
       <module fileurl="file://$PROJECT_DIR$/[0263][Ugly Number]/[0263][Ugly Number].iml" filepath="$PROJECT_DIR$/[0263][Ugly Number]/[0263][Ugly Number].iml" />
       <module fileurl="file://$PROJECT_DIR$/[0268][Missing Number]/[0268][Missing Number].iml" filepath="$PROJECT_DIR$/[0268][Missing Number]/[0268][Missing Number].iml" />
       <module fileurl="file://$PROJECT_DIR$/[0278][First Bad Version]/[0278][First Bad Version].iml" filepath="$PROJECT_DIR$/[0278][First Bad Version]/[0278][First Bad Version].iml" />
       <module fileurl="file://$PROJECT_DIR$/[0283][Move Zeroes]/[0283][Move Zeroes].iml" filepath="$PROJECT_DIR$/[0283][Move Zeroes]/[0283][Move Zeroes].iml" />
+      <module fileurl="file://$PROJECT_DIR$/[0287][Find the Duplicate Number]/[0287][Find the Duplicate Number].iml" filepath="$PROJECT_DIR$/[0287][Find the Duplicate Number]/[0287][Find the Duplicate Number].iml" />
       <module fileurl="file://$PROJECT_DIR$/[0290][Word Pattern]/[0290][Word Pattern].iml" filepath="$PROJECT_DIR$/[0290][Word Pattern]/[0290][Word Pattern].iml" />
       <module fileurl="file://$PROJECT_DIR$/[0303][Range Sum Query - Immutable]/[0303][Range Sum Query - Immutable].iml" filepath="$PROJECT_DIR$/[0303][Range Sum Query - Immutable]/[0303][Range Sum Query - Immutable].iml" />
       <module fileurl="file://$PROJECT_DIR$/[0326][Power of Three]/[0326][Power of Three].iml" filepath="$PROJECT_DIR$/[0326][Power of Three]/[0326][Power of Three].iml" />
@@ -199,11 +201,16 @@
       <module fileurl="file://$PROJECT_DIR$/[0405][Convert a Number to Hexadecimal]/[0405][Convert a Number to Hexadecimal].iml" filepath="$PROJECT_DIR$/[0405][Convert a Number to Hexadecimal]/[0405][Convert a Number to Hexadecimal].iml" />
       <module fileurl="file://$PROJECT_DIR$/[0409][Longest Palindrome]/[0409][Longest Palindrome].iml" filepath="$PROJECT_DIR$/[0409][Longest Palindrome]/[0409][Longest Palindrome].iml" />
       <module fileurl="file://$PROJECT_DIR$/[0414][Third Maximum Number]/[0414][Third Maximum Number].iml" filepath="$PROJECT_DIR$/[0414][Third Maximum Number]/[0414][Third Maximum Number].iml" />
+      <module fileurl="file://$PROJECT_DIR$/[0415][Add Strings]/[0415][Add Strings].iml" filepath="$PROJECT_DIR$/[0415][Add Strings]/[0415][Add Strings].iml" />
       <module fileurl="file://$PROJECT_DIR$/[0429][N-ary Tree Level Order Traversal]/[0429][N-ary Tree Level Order Traversal].iml" filepath="$PROJECT_DIR$/[0429][N-ary Tree Level Order Traversal]/[0429][N-ary Tree Level Order Traversal].iml" />
+      <module fileurl="file://$PROJECT_DIR$/[0437][Path Sum III]/[0437][Path Sum III].iml" filepath="$PROJECT_DIR$/[0437][Path Sum III]/[0437][Path Sum III].iml" />
       <module fileurl="file://$PROJECT_DIR$/[0448][Find All Numbers Disappeared in an Array]/[0448][Find All Numbers Disappeared in an Array].iml" filepath="$PROJECT_DIR$/[0448][Find All Numbers Disappeared in an Array]/[0448][Find All Numbers Disappeared in an Array].iml" />
+      <module fileurl="file://$PROJECT_DIR$/[0459][Repeated Substring Pattern]/[0459][Repeated Substring Pattern].iml" filepath="$PROJECT_DIR$/[0459][Repeated Substring Pattern]/[0459][Repeated Substring Pattern].iml" />
       <module fileurl="file://$PROJECT_DIR$/[0461][Hamming Distance]/[0461][Hamming Distance].iml" filepath="$PROJECT_DIR$/[0461][Hamming Distance]/[0461][Hamming Distance].iml" />
       <module fileurl="file://$PROJECT_DIR$/[0463][Island Perimeter]/[0463][Island Perimeter].iml" filepath="$PROJECT_DIR$/[0463][Island Perimeter]/[0463][Island Perimeter].iml" />
+      <module fileurl="file://$PROJECT_DIR$/[0476][Number Complement]/[0476][Number Complement].iml" filepath="$PROJECT_DIR$/[0476][Number Complement]/[0476][Number Complement].iml" />
       <module fileurl="file://$PROJECT_DIR$/[0542][01 Matrix]/[0542][01 Matrix].iml" filepath="$PROJECT_DIR$/[0542][01 Matrix]/[0542][01 Matrix].iml" />
+      <module fileurl="file://$PROJECT_DIR$/[0557][Reverse Words in a String III]/[0557][Reverse Words in a String III].iml" filepath="$PROJECT_DIR$/[0557][Reverse Words in a String III]/[0557][Reverse Words in a String III].iml" />
       <module fileurl="file://$PROJECT_DIR$/leetcode.iml" filepath="$PROJECT_DIR$/leetcode.iml" />
     </modules>
   </component>

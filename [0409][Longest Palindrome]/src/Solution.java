@@ -45,7 +45,6 @@ public class Solution {
         int result = 0;
         int left = 0;
         for (int value : counter) {
-
             result += 0xFFFFFFFE & value;
             left |= 0b1 & value;
         }
