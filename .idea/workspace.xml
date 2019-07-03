@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce385e91-de99-4e13-9d76-ab57b6a23494" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/[0338][Counting Bits ]/[0338][Counting Bits ].iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[0338][Counting Bits ]/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[0338][Counting Bits ]/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[0347][Top K Frequent Elements]/[0347][Top K Frequent Elements].iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[0347][Top K Frequent Elements]/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[0347][Top K Frequent Elements]/src/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -21,37 +21,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/[0476][Number Complement]/src/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="22" column="7" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/[0459][Repeated Substring Pattern]/src/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="32" column="21" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
-              <folding>
-                <element signature="e#863#864#0" expanded="true" />
-                <element signature="e#890#891#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/[0557][Reverse Words in a String III]/src/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/[0260][Single Number III]/src/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -70,11 +39,48 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/[0338][Counting Bits ]/src/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="193">
-              <caret line="41" column="30" lean-forward="true" selection-end-line="59" />
+            <state relative-caret-position="57">
+              <caret line="33" column="17" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/[0347][Top K Frequent Elements]/src/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="904">
+              <caret line="64" column="16" selection-start-line="64" selection-start-column="16" selection-end-line="64" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1112#1113#0" expanded="true" />
+                <element signature="e#1152#1153#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/[0347][Top K Frequent Elements]/[0347][Top K Frequent Elements].iml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/[0347][Top K Frequent Elements]/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/Map.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="122">
+              <caret line="1168" column="14" selection-start-line="1168" selection-start-column="14" selection-end-line="1168" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -83,7 +89,7 @@
         <entry file="file://$PROJECT_DIR$/[0338][Counting Bits ]/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
-              <caret line="11" column="65" lean-forward="true" selection-start-line="11" selection-start-column="65" selection-end-line="11" selection-end-column="65" />
+              <caret line="11" column="65" selection-start-line="11" selection-start-column="65" selection-end-line="11" selection-end-column="65" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -108,18 +114,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="191">
               <caret line="13" column="38" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/[0557][Reverse Words in a String III]/src/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="310">
-              <caret line="21" column="44" selection-start-line="21" selection-start-column="44" selection-end-line="21" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -173,8 +167,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/[0389][Find the Difference]/src/Main.java" />
-        <option value="$PROJECT_DIR$/[0404][Sum of Left Leaves]/src/Solution.java" />
         <option value="$PROJECT_DIR$/[0404][Sum of Left Leaves]/src/Main.java" />
         <option value="$PROJECT_DIR$/[0238][Product of Array Except Self]/src/Solution.java" />
         <option value="$PROJECT_DIR$/[0238][Product of Array Except Self]/src/Main.java" />
@@ -224,6 +216,8 @@
         <option value="$PROJECT_DIR$/[0287][Find the Duplicate Number]/src/Solution.java" />
         <option value="$PROJECT_DIR$/[0338][Counting Bits ]/src/Solution.java" />
         <option value="$PROJECT_DIR$/[0338][Counting Bits ]/src/Main.java" />
+        <option value="$PROJECT_DIR$/[0347][Top K Frequent Elements]/src/Main.java" />
+        <option value="$PROJECT_DIR$/[0347][Top K Frequent Elements]/src/Solution.java" />
       </list>
     </option>
   </component>
@@ -235,8 +229,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="108" />
-    <option name="y" value="57" />
+    <option name="x" value="138" />
+    <option name="y" value="32" />
     <option name="width" value="1329" />
     <option name="height" value="877" />
   </component>
@@ -276,6 +270,17 @@
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="[0338][Counting Bits ]" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="[0347][Top K Frequent Elements]" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="[0347][Top K Frequent Elements]" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -327,9 +332,18 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Main (1)">
+  <component name="RunManager" selected="JUnit.Main (2)">
     <configuration name="Main (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="[0338][Counting Bits ]" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="[0347][Top K Frequent Elements]" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="Main" />
       <option name="TEST_OBJECT" value="class" />
@@ -346,16 +360,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main.test1 (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="[0260][Single Number III]" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <option name="METHOD_NAME" value="test1" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Main.test1 (3)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="[0287][Find the Duplicate Number]" />
       <option name="PACKAGE_NAME" value="" />
@@ -366,30 +370,30 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="[0557][Reverse Words in a String III]" />
+    <configuration name="Main.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="[0347][Top K Frequent Elements]" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <option name="METHOD_NAME" value="test2" />
+      <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.Main.test2" />
-      <item itemvalue="JUnit.Main.test1 (2)" />
       <item itemvalue="JUnit.Main.test1 (3)" />
       <item itemvalue="JUnit.Main" />
       <item itemvalue="JUnit.Main (1)" />
+      <item itemvalue="JUnit.Main.test1" />
+      <item itemvalue="JUnit.Main (2)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Main (2)" />
+        <item itemvalue="JUnit.Main.test1" />
         <item itemvalue="JUnit.Main (1)" />
         <item itemvalue="JUnit.Main" />
         <item itemvalue="JUnit.Main.test1 (3)" />
-        <item itemvalue="JUnit.Main.test1 (2)" />
-        <item itemvalue="JUnit.Main.test2" />
       </list>
     </recent_temporary>
   </component>
@@ -435,14 +439,7 @@
       <workItem from="1561879881864" duration="12267000" />
       <workItem from="1562030690114" duration="10765000" />
       <workItem from="1562096602663" duration="12221000" />
-      <workItem from="1562135688639" duration="7100000" />
-    </task>
-    <task id="LOCAL-00024" summary="commit">
-      <created>1539139092234</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1539139092234</updated>
+      <workItem from="1562135688639" duration="8676000" />
     </task>
     <task id="LOCAL-00025" summary="commit">
       <created>1539149548535</created>
@@ -780,49 +777,56 @@
       <option name="project" value="LOCAL" />
       <updated>1562156421698</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="commit">
+      <created>1562158877596</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1562158877596</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Main_test1 - 2019.07.03 at 17h 53m 38s.xml">
-      <configuration name="Main.test1" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Main_test2 - 2019.07.03 at 17h 54m 05s.xml">
-      <configuration name="Main.test2" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Main_test1_(2) - 2019.07.03 at 19h 00m 37s.xml">
-      <configuration name="Main.test1 (2)" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Main_test1_(3) - 2019.07.03 at 19h 09m 37s.xml">
-      <configuration name="Main.test1 (3)" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Main_test1_(3) - 2019.07.03 at 19h 09m 56s.xml">
-      <configuration name="Main.test1 (3)" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Main_test1_(3) - 2019.07.03 at 19h 10m 52s.xml">
-      <configuration name="Main.test1 (3)" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Main_test1_(3) - 2019.07.03 at 19h 11m 14s.xml">
-      <configuration name="Main.test1 (3)" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Main - 2019.07.03 at 19h 11m 42s.xml">
-      <configuration name="Main" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Main - 2019.07.03 at 19h 11m 46s.xml">
-      <configuration name="Main" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="Main_(1) - 2019.07.03 at 20h 56m 37s.xml">
       <configuration name="Main (1)" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="Main_test1 - 2019.07.03 at 21h 14m 29s.xml">
+      <configuration name="Main.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Main_test1 - 2019.07.03 at 21h 15m 00s.xml">
+      <configuration name="Main.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Main_test1 - 2019.07.03 at 21h 17m 22s.xml">
+      <configuration name="Main.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Main_test1 - 2019.07.03 at 21h 18m 21s.xml">
+      <configuration name="Main.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Main_test1 - 2019.07.03 at 21h 18m 30s.xml">
+      <configuration name="Main.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Main_test1 - 2019.07.03 at 21h 18m 40s.xml">
+      <configuration name="Main.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Main_test1 - 2019.07.03 at 21h 23m 39s.xml">
+      <configuration name="Main.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Main_test1 - 2019.07.03 at 21h 24m 25s.xml">
+      <configuration name="Main.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Main_(2) - 2019.07.03 at 21h 24m 57s.xml">
+      <configuration name="Main (2)" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="240445000" />
+    <option name="totallyTimeSpent" value="242021000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="108" y="57" width="1329" height="877" extended-state="0" />
+    <frame x="138" y="32" width="1329" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4973262" visible="true" weight="0.3079907" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4973262" visible="true" weight="0.3079907" />
       <window_info id="JRebel" order="1" side_tool="true" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -831,7 +835,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49889788" visible="true" weight="0.3027523" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.03931848" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.4981631" visible="true" weight="0.46395805" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4981631" visible="true" weight="0.33027524" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -1134,29 +1138,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/[0144][Binary Tree Preorder Traversal]/src/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/[0144][Binary Tree Preorder Traversal]/[0144][Binary Tree Preorder Traversal].iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/[0230][Kth Smallest Element in a BST]/src/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="29" column="30" selection-end-line="36" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/[0145][Binary Tree Postorder Traversal]/src/TreeNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -1518,7 +1499,7 @@
     <entry file="file://$PROJECT_DIR$/[0338][Counting Bits ]/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
-          <caret line="11" column="65" lean-forward="true" selection-start-line="11" selection-start-column="65" selection-end-line="11" selection-end-column="65" />
+          <caret line="11" column="65" selection-start-line="11" selection-start-column="65" selection-end-line="11" selection-end-column="65" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1527,8 +1508,37 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/[0338][Counting Bits ]/src/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="41" column="30" lean-forward="true" selection-end-line="59" />
+        <state relative-caret-position="57">
+          <caret line="33" column="17" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="1168" column="14" selection-start-line="1168" selection-start-column="14" selection-end-line="1168" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[0347][Top K Frequent Elements]/[0347][Top K Frequent Elements].iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[0347][Top K Frequent Elements]/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[0347][Top K Frequent Elements]/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="904">
+          <caret line="64" column="16" selection-start-line="64" selection-start-column="16" selection-end-line="64" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1112#1113#0" expanded="true" />
+            <element signature="e#1152#1153#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
