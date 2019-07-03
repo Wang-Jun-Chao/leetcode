@@ -2,32 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce385e91-de99-4e13-9d76-ab57b6a23494" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/[0260][Single Number III]/[0260][Single Number III].iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[0260][Single Number III]/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[0260][Single Number III]/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[0287][Find the Duplicate Number]/[0287][Find the Duplicate Number].iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[0287][Find the Duplicate Number]/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[0287][Find the Duplicate Number]/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[0415][Add Strings]/[0415][Add Strings].iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[0415][Add Strings]/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[0415][Add Strings]/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[0437][Path Sum III]/[0437][Path Sum III].iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[0437][Path Sum III]/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[0437][Path Sum III]/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[0437][Path Sum III]/src/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[0459][Repeated Substring Pattern]/[0459][Repeated Substring Pattern].iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[0459][Repeated Substring Pattern]/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[0476][Number Complement]/[0476][Number Complement].iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[0476][Number Complement]/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[0476][Number Complement]/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[0557][Reverse Words in a String III]/[0557][Reverse Words in a String III].iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[0557][Reverse Words in a String III]/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[0557][Reverse Words in a String III]/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[0338][Counting Bits ]/[0338][Counting Bits ].iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[0338][Counting Bits ]/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[0338][Counting Bits ]/src/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0405][Convert a Number to Hexadecimal]/[0405][Convert a Number to Hexadecimal].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0405][Convert a Number to Hexadecimal]/[0405][Convert a Number to Hexadecimal].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0409][Longest Palindrome]/[0409][Longest Palindrome].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0409][Longest Palindrome]/[0409][Longest Palindrome].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0409][Longest Palindrome]/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/[0409][Longest Palindrome]/src/Solution.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -82,11 +61,32 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/[0287][Find the Duplicate Number]/src/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
+            <state relative-caret-position="276">
               <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/[0338][Counting Bits ]/src/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="193">
+              <caret line="41" column="30" lean-forward="true" selection-end-line="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/[0338][Counting Bits ]/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="65" lean-forward="true" selection-start-line="11" selection-start-column="65" selection-end-line="11" selection-end-column="65" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -120,27 +120,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="310">
               <caret line="21" column="44" selection-start-line="21" selection-start-column="44" selection-end-line="21" selection-end-column="44" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/jre/lib/rt.jar!/sun/reflect/NativeMethodAccessorImpl.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="169">
-              <caret line="26" selection-start-line="26" selection-end-line="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/[0476][Number Complement]/src/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -194,8 +173,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/[0387][First Unique Character in a String]/src/Main.java" />
-        <option value="$PROJECT_DIR$/[0389][Find the Difference]/src/Solution.java" />
         <option value="$PROJECT_DIR$/[0389][Find the Difference]/src/Main.java" />
         <option value="$PROJECT_DIR$/[0404][Sum of Left Leaves]/src/Solution.java" />
         <option value="$PROJECT_DIR$/[0404][Sum of Left Leaves]/src/Main.java" />
@@ -245,6 +222,8 @@
         <option value="$PROJECT_DIR$/[0260][Single Number III]/src/Main.java" />
         <option value="$PROJECT_DIR$/[0287][Find the Duplicate Number]/src/Main.java" />
         <option value="$PROJECT_DIR$/[0287][Find the Duplicate Number]/src/Solution.java" />
+        <option value="$PROJECT_DIR$/[0338][Counting Bits ]/src/Solution.java" />
+        <option value="$PROJECT_DIR$/[0338][Counting Bits ]/src/Main.java" />
       </list>
     </option>
   </component>
@@ -256,8 +235,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="97" />
-    <option name="y" value="74" />
+    <option name="x" value="108" />
+    <option name="y" value="57" />
     <option name="width" value="1329" />
     <option name="height" value="877" />
   </component>
@@ -286,6 +265,17 @@
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="[0287][Find the Duplicate Number]" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="[0338][Counting Bits ]" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="[0338][Counting Bits ]" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -337,7 +327,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Main">
+  <component name="RunManager" selected="JUnit.Main (1)">
+    <configuration name="Main (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="[0338][Counting Bits ]" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="[0287][Find the Duplicate Number]" />
       <option name="PACKAGE_NAME" value="" />
@@ -367,16 +366,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="[0557][Reverse Words in a String III]" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <option name="METHOD_NAME" value="test1" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Main.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="[0557][Reverse Words in a String III]" />
       <option name="PACKAGE_NAME" value="" />
@@ -388,19 +377,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.Main.test1" />
       <item itemvalue="JUnit.Main.test2" />
       <item itemvalue="JUnit.Main.test1 (2)" />
       <item itemvalue="JUnit.Main.test1 (3)" />
       <item itemvalue="JUnit.Main" />
+      <item itemvalue="JUnit.Main (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Main (1)" />
         <item itemvalue="JUnit.Main" />
         <item itemvalue="JUnit.Main.test1 (3)" />
         <item itemvalue="JUnit.Main.test1 (2)" />
         <item itemvalue="JUnit.Main.test2" />
-        <item itemvalue="JUnit.Main.test1" />
       </list>
     </recent_temporary>
   </component>
@@ -446,14 +435,7 @@
       <workItem from="1561879881864" duration="12267000" />
       <workItem from="1562030690114" duration="10765000" />
       <workItem from="1562096602663" duration="12221000" />
-      <workItem from="1562135688639" duration="5439000" />
-    </task>
-    <task id="LOCAL-00023" summary="commit">
-      <created>1539138473362</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1539138473362</updated>
+      <workItem from="1562135688639" duration="7100000" />
     </task>
     <task id="LOCAL-00024" summary="commit">
       <created>1539139092234</created>
@@ -791,13 +773,17 @@
       <option name="project" value="LOCAL" />
       <updated>1562099083958</updated>
     </task>
-    <option name="localTasksCounter" value="72" />
+    <task id="LOCAL-00072" summary="commit">
+      <created>1562156421698</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1562156421698</updated>
+    </task>
+    <option name="localTasksCounter" value="73" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Main_test1 - 2019.07.03 at 17h 53m 12s.xml">
-      <configuration name="Main.test1" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="Main_test1 - 2019.07.03 at 17h 53m 38s.xml">
       <configuration name="Main.test1" configurationId="JUnit" />
     </history-entry>
@@ -825,12 +811,15 @@
     <history-entry file="Main - 2019.07.03 at 19h 11m 46s.xml">
       <configuration name="Main" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="Main_(1) - 2019.07.03 at 20h 56m 37s.xml">
+      <configuration name="Main (1)" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="238784000" />
+    <option name="totallyTimeSpent" value="240445000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="97" y="74" width="1329" height="877" extended-state="0" />
+    <frame x="108" y="57" width="1329" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4973262" visible="true" weight="0.3079907" />
@@ -1145,27 +1134,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/[0000][common]/src/WithException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" selection-start-line="11" selection-end-line="12" />
-          <folding>
-            <element signature="e#752#753#0" expanded="true" />
-            <element signature="e#782#783#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/[0230][Kth Smallest Element in a BST]/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/[0144][Binary Tree Preorder Traversal]/src/TreeNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -1542,8 +1510,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/[0287][Find the Duplicate Number]/src/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
+        <state relative-caret-position="276">
           <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[0338][Counting Bits ]/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="65" lean-forward="true" selection-start-line="11" selection-start-column="65" selection-end-line="11" selection-end-column="65" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[0338][Counting Bits ]/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="41" column="30" lean-forward="true" selection-end-line="59" />
         </state>
       </provider>
     </entry>
