@@ -213,6 +213,8 @@
       <module fileurl="file://$PROJECT_DIR$/[0476][Number Complement]/[0476][Number Complement].iml" filepath="$PROJECT_DIR$/[0476][Number Complement]/[0476][Number Complement].iml" />
       <module fileurl="file://$PROJECT_DIR$/[0542][01 Matrix]/[0542][01 Matrix].iml" filepath="$PROJECT_DIR$/[0542][01 Matrix]/[0542][01 Matrix].iml" />
       <module fileurl="file://$PROJECT_DIR$/[0557][Reverse Words in a String III]/[0557][Reverse Words in a String III].iml" filepath="$PROJECT_DIR$/[0557][Reverse Words in a String III]/[0557][Reverse Words in a String III].iml" />
+      <module fileurl="file://$PROJECT_DIR$/[0561][Array Partition I]/[0561][Array Partition I].iml" filepath="$PROJECT_DIR$/[0561][Array Partition I]/[0561][Array Partition I].iml" />
+      <module fileurl="file://$PROJECT_DIR$/[0617][Merge Two Binary Trees]/[0617][Merge Two Binary Trees].iml" filepath="$PROJECT_DIR$/[0617][Merge Two Binary Trees]/[0617][Merge Two Binary Trees].iml" />
       <module fileurl="file://$PROJECT_DIR$/leetcode.iml" filepath="$PROJECT_DIR$/leetcode.iml" />
     </modules>
   </component>
