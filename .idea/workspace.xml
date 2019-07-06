@@ -2,9 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce385e91-de99-4e13-9d76-ab57b6a23494" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/[0496][Next Greater Element I]/[0496][Next Greater Element I].iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[0496][Next Greater Element I]/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[0496][Next Greater Element I]/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[0240][Search a 2D Matrix II]/[0240][Search a 2D Matrix II].iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[0240][Search a 2D Matrix II]/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[0240][Search a 2D Matrix II]/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[0241][Different Ways to Add Parentheses]/[0241][Different Ways to Add Parentheses].iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[0241][Different Ways to Add Parentheses]/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[0241][Different Ways to Add Parentheses]/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[0504][Base 7]/[0504][Base 7].iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[0504][Base 7]/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[0504][Base 7]/src/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -22,37 +28,40 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/[0145][Binary Tree Postorder Traversal]/src/Solution.java">
+        <entry file="file://$PROJECT_DIR$/[0496][Next Greater Element I]/src/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            <state relative-caret-position="201">
+              <caret line="45" column="9" selection-end-line="65" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/[0617][Merge Two Binary Trees]/src/Solution.java">
+        <entry file="file://$PROJECT_DIR$/[0504][Base 7]/src/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="30" column="7" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="7" />
+            <state relative-caret-position="161">
+              <caret line="25" column="12" selection-end-line="33" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/[0485][Max Consecutive Ones]/src/Solution.java">
+        <entry file="file://$PROJECT_DIR$/[0240][Search a 2D Matrix II]/src/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="41" column="16" selection-start-line="41" selection-start-column="16" selection-end-line="41" selection-end-column="16" />
+            <state relative-caret-position="191">
+              <caret line="41" column="18" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/[0496][Next Greater Element I]/src/Solution.java">
+        <entry file="file://$PROJECT_DIR$/[0241][Different Ways to Add Parentheses]/src/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="201">
-              <caret line="45" column="9" lean-forward="true" selection-end-line="65" />
+            <state relative-caret-position="165">
+              <caret line="53" column="36" selection-start-line="53" selection-start-column="36" selection-end-line="53" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -61,10 +70,37 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/[0496][Next Greater Element I]/src/Main.java">
+        <entry file="file://$PROJECT_DIR$/[0241][Different Ways to Add Parentheses]/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="73" selection-start-line="13" selection-start-column="73" selection-end-line="13" selection-end-column="73" />
+            <state relative-caret-position="153">
+              <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/List.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="596">
+              <caret line="707" column="12" selection-start-line="707" selection-start-column="12" selection-end-line="707" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/String.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-84">
+              <caret line="1957" column="18" selection-start-line="1957" selection-start-column="18" selection-end-line="1957" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/[0240][Search a 2D Matrix II]/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="178">
+              <caret line="19" column="51" selection-start-line="19" selection-start-column="51" selection-end-line="19" selection-end-column="51" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -73,10 +109,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/[0485][Max Consecutive Ones]/src/Main.java">
+        <entry file="file://$PROJECT_DIR$/[0504][Base 7]/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="319">
-              <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+            <state relative-caret-position="283">
+              <caret line="17" column="61" selection-start-line="17" selection-start-column="61" selection-end-line="17" selection-end-column="61" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -85,29 +121,8 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/[0561][Array Partition I]/src/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="12" column="56" selection-start-line="12" selection-start-column="56" selection-end-line="12" selection-end-column="56" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/[0347][Top K Frequent Elements]/[0347][Top K Frequent Elements].iml">
+        <entry file="file://$PROJECT_DIR$/[0504][Base 7]/[0504][Base 7].iml">
           <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/[0347][Top K Frequent Elements]/src/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
-            </state>
-          </provider>
         </entry>
       </file>
     </leaf>
@@ -156,12 +171,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/[0230][Kth Smallest Element in a BST]/src/Main.java" />
-        <option value="$PROJECT_DIR$/[0230][Kth Smallest Element in a BST]/src/Solution.java" />
-        <option value="$PROJECT_DIR$/[0144][Binary Tree Preorder Traversal]/src/Solution.java" />
-        <option value="$PROJECT_DIR$/[0094][Binary Tree Inorder Traversal]/src/Solution.java" />
-        <option value="$PROJECT_DIR$/[0414][Third Maximum Number]/src/Main.java" />
-        <option value="$PROJECT_DIR$/[0414][Third Maximum Number]/src/Solution.java" />
         <option value="$PROJECT_DIR$/[0448][Find All Numbers Disappeared in an Array]/src/Mian.java" />
         <option value="$PROJECT_DIR$/[0448][Find All Numbers Disappeared in an Array]/src/Main.java" />
         <option value="$PROJECT_DIR$/[0448][Find All Numbers Disappeared in an Array]/src/Solution.java" />
@@ -207,6 +216,12 @@
         <option value="$PROJECT_DIR$/[0485][Max Consecutive Ones]/src/Main.java" />
         <option value="$PROJECT_DIR$/[0496][Next Greater Element I]/src/Solution.java" />
         <option value="$PROJECT_DIR$/[0496][Next Greater Element I]/src/Main.java" />
+        <option value="$PROJECT_DIR$/[0504][Base 7]/src/Solution.java" />
+        <option value="$PROJECT_DIR$/[0504][Base 7]/src/Main.java" />
+        <option value="$PROJECT_DIR$/[0240][Search a 2D Matrix II]/src/Main.java" />
+        <option value="$PROJECT_DIR$/[0240][Search a 2D Matrix II]/src/Solution.java" />
+        <option value="$PROJECT_DIR$/[0241][Different Ways to Add Parentheses]/src/Main.java" />
+        <option value="$PROJECT_DIR$/[0241][Different Ways to Add Parentheses]/src/Solution.java" />
       </list>
     </option>
   </component>
@@ -218,8 +233,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="290" />
-    <option name="y" value="27" />
+    <option name="x" value="275" />
+    <option name="y" value="23" />
     <option name="width" value="1282" />
     <option name="height" value="877" />
   </component>
@@ -242,45 +257,34 @@
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="[0145][Binary Tree Postorder Traversal]" type="462c0819:PsiDirectoryNode" />
+              <item name="[0240][Search a 2D Matrix II]" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="[0145][Binary Tree Postorder Traversal]" type="462c0819:PsiDirectoryNode" />
+              <item name="[0240][Search a 2D Matrix II]" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="[0287][Find the Duplicate Number]" type="462c0819:PsiDirectoryNode" />
+              <item name="[0241][Different Ways to Add Parentheses]" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="[0287][Find the Duplicate Number]" type="462c0819:PsiDirectoryNode" />
+              <item name="[0241][Different Ways to Add Parentheses]" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="[0338][Counting Bits ]" type="462c0819:PsiDirectoryNode" />
+              <item name="[0504][Base 7]" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="[0338][Counting Bits ]" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="[0347][Top K Frequent Elements]" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="[0347][Top K Frequent Elements]" type="462c0819:PsiDirectoryNode" />
+              <item name="[0504][Base 7]" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -332,9 +336,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Main (1)">
-    <configuration name="Main (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="[0496][Next Greater Element I]" />
+  <component name="RunManager" selected="JUnit.Main.test3">
+    <configuration name="Main (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="[0504][Base 7]" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="Main" />
       <option name="TEST_OBJECT" value="class" />
@@ -342,8 +346,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="[0485][Max Consecutive Ones]" />
+    <configuration name="Main (3)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="[0240][Search a 2D Matrix II]" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="Main" />
       <option name="TEST_OBJECT" value="class" />
@@ -351,18 +355,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main.test1 (3)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="[0485][Max Consecutive Ones]" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <option name="METHOD_NAME" value="test1" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="[0496][Next Greater Element I]" />
+    <configuration name="Main.test1 (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="[0241][Different Ways to Add Parentheses]" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="Main" />
       <option name="METHOD_NAME" value="test1" />
@@ -372,7 +366,7 @@
       </method>
     </configuration>
     <configuration name="Main.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="[0485][Max Consecutive Ones]" />
+      <module name="[0241][Different Ways to Add Parentheses]" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="Main" />
       <option name="METHOD_NAME" value="test2" />
@@ -381,20 +375,30 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="[0241][Different Ways to Add Parentheses]" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <option name="METHOD_NAME" value="test3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="JUnit.Main.test1 (3)" />
+      <item itemvalue="JUnit.Main (2)" />
+      <item itemvalue="JUnit.Main (3)" />
+      <item itemvalue="JUnit.Main.test1 (2)" />
       <item itemvalue="JUnit.Main.test2" />
-      <item itemvalue="JUnit.Main" />
-      <item itemvalue="JUnit.Main.test1" />
-      <item itemvalue="JUnit.Main (1)" />
+      <item itemvalue="JUnit.Main.test3" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Main (1)" />
-        <item itemvalue="JUnit.Main.test1" />
-        <item itemvalue="JUnit.Main" />
+        <item itemvalue="JUnit.Main.test3" />
         <item itemvalue="JUnit.Main.test2" />
-        <item itemvalue="JUnit.Main.test1 (3)" />
+        <item itemvalue="JUnit.Main.test1 (2)" />
+        <item itemvalue="JUnit.Main (3)" />
+        <item itemvalue="JUnit.Main (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -442,14 +446,7 @@
       <workItem from="1562096602663" duration="12221000" />
       <workItem from="1562135688639" duration="10303000" />
       <workItem from="1562202444518" duration="120000" />
-      <workItem from="1562411442857" duration="2504000" />
-    </task>
-    <task id="LOCAL-00028" summary="commit">
-      <created>1539152708528</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1539152708528</updated>
+      <workItem from="1562411442857" duration="6697000" />
     </task>
     <task id="LOCAL-00029" summary="commit">
       <created>1539162245204</created>
@@ -787,48 +784,56 @@
       <option name="project" value="LOCAL" />
       <updated>1562412581819</updated>
     </task>
-    <option name="localTasksCounter" value="77" />
+    <task id="LOCAL-00077" summary="commit">
+      <created>1562414319581</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1562414319581</updated>
+    </task>
+    <option name="localTasksCounter" value="78" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Main_(1) - 2019.07.06 at 19h 48m 37s.xml">
-      <configuration name="Main (1)" configurationId="JUnit" />
+    <history-entry file="Main_(3) - 2019.07.06 at 20h 19m 20s.xml">
+      <configuration name="Main (3)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Main_(1) - 2019.07.06 at 19h 50m 42s.xml">
-      <configuration name="Main (1)" configurationId="JUnit" />
+    <history-entry file="Main_(3) - 2019.07.06 at 20h 19m 32s.xml">
+      <configuration name="Main (3)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Main_(1) - 2019.07.06 at 19h 50m 58s.xml">
-      <configuration name="Main (1)" configurationId="JUnit" />
+    <history-entry file="Main_test1_(2) - 2019.07.06 at 21h 00m 27s.xml">
+      <configuration name="Main.test1 (2)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Main_(1) - 2019.07.06 at 19h 51m 26s.xml">
-      <configuration name="Main (1)" configurationId="JUnit" />
+    <history-entry file="Main_test1_(2) - 2019.07.06 at 21h 00m 48s.xml">
+      <configuration name="Main.test1 (2)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Main_(1) - 2019.07.06 at 19h 51m 42s.xml">
-      <configuration name="Main (1)" configurationId="JUnit" />
+    <history-entry file="Main_test1_(2) - 2019.07.06 at 21h 02m 03s.xml">
+      <configuration name="Main.test1 (2)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Main_(1) - 2019.07.06 at 19h 52m 50s.xml">
-      <configuration name="Main (1)" configurationId="JUnit" />
+    <history-entry file="Main_test1_(2) - 2019.07.06 at 21h 02m 27s.xml">
+      <configuration name="Main.test1 (2)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Main_(1) - 2019.07.06 at 19h 53m 26s.xml">
-      <configuration name="Main (1)" configurationId="JUnit" />
+    <history-entry file="Main_test1_(2) - 2019.07.06 at 21h 05m 25s.xml">
+      <configuration name="Main.test1 (2)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Main_(1) - 2019.07.06 at 19h 53m 57s.xml">
-      <configuration name="Main (1)" configurationId="JUnit" />
+    <history-entry file="Main_test1_(2) - 2019.07.06 at 21h 05m 28s.xml">
+      <configuration name="Main.test1 (2)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Main_(1) - 2019.07.06 at 19h 54m 01s.xml">
-      <configuration name="Main (1)" configurationId="JUnit" />
+    <history-entry file="Main_test1_(2) - 2019.07.06 at 21h 08m 18s.xml">
+      <configuration name="Main.test1 (2)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Main_(1) - 2019.07.06 at 19h 54m 10s.xml">
-      <configuration name="Main (1)" configurationId="JUnit" />
+    <history-entry file="Main_test1_(2) - 2019.07.06 at 21h 10m 19s.xml">
+      <configuration name="Main.test1 (2)" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="246272000" />
+    <option name="totallyTimeSpent" value="250465000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="290" y="27" width="1282" height="877" extended-state="0" />
+    <frame x="275" y="23" width="1282" height="877" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4973262" visible="true" weight="0.32930756" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4973262" visible="true" weight="0.17149758" />
       <window_info id="JRebel" order="1" side_tool="true" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -837,7 +842,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49889788" visible="true" weight="0.3027523" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.03931848" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4981631" visible="true" weight="0.48099607" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.4981631" visible="true" weight="0.43512452" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -1076,6 +1081,18 @@
           <properties />
           <option name="timeStamp" value="88" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/[0241][Different Ways to Add Parentheses]/src/Solution.java</url>
+          <line>49</line>
+          <properties />
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/[0241][Different Ways to Add Parentheses]/src/Solution.java</url>
+          <line>43</line>
+          <properties />
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/[081][Search In Rotated Sorted Array II]/src/Solution2.java</url>
           <line>17</line>
@@ -1125,6 +1142,26 @@
     </expressions>
     <expressions id="evaluateExpression">
       <expression>
+        <expression-string>operator.subList(i + 1, operator.size())</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>operand.subList(i + 1, operand.size())</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>new ArrayList&lt;&gt;(operator.subList(0, i))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>operand.subList(0, i + 1)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
         <expression-string>nums[i - 1] - 1</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
@@ -1152,80 +1189,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/[0461][Hamming Distance]/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="11" column="45" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/[0463][Island Perimeter]/src/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1122">
-          <caret line="66" selection-start-line="66" selection-end-line="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/[0542][01 Matrix]/src/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1751">
-          <caret line="104" column="39" selection-start-line="104" selection-start-column="39" selection-end-line="104" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/[0384][Shuffle an Array]/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="27" column="35" selection-start-line="27" selection-start-column="35" selection-end-line="27" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/Random.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5882">
-          <caret line="385" column="15" selection-start-line="385" selection-start-column="15" selection-end-line="385" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54587">
-          <caret line="3282" column="24" selection-start-line="3282" selection-start-column="24" selection-end-line="3282" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/[0542][01 Matrix]/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/[0463][Island Perimeter]/src/Solution2.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/[0463][Island Perimeter]/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="22" column="29" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/[0384][Shuffle an Array]/src/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="392">
@@ -1554,7 +1517,75 @@
     <entry file="file://$PROJECT_DIR$/[0496][Next Greater Element I]/src/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="201">
-          <caret line="45" column="9" lean-forward="true" selection-end-line="65" />
+          <caret line="45" column="9" selection-end-line="65" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[0504][Base 7]/[0504][Base 7].iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[0504][Base 7]/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="17" column="61" selection-start-line="17" selection-start-column="61" selection-end-line="17" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[0504][Base 7]/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="25" column="12" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[0240][Search a 2D Matrix II]/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="19" column="51" selection-start-line="19" selection-start-column="51" selection-end-line="19" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[0240][Search a 2D Matrix II]/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="41" column="18" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-84">
+          <caret line="1957" column="18" selection-start-line="1957" selection-start-column="18" selection-end-line="1957" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="596">
+          <caret line="707" column="12" selection-start-line="707" selection-start-column="12" selection-end-line="707" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[0241][Different Ways to Add Parentheses]/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[0241][Different Ways to Add Parentheses]/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="53" column="36" selection-start-line="53" selection-start-column="36" selection-end-line="53" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
