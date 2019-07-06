@@ -2,11 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce385e91-de99-4e13-9d76-ab57b6a23494" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/[0561][Array Partition I]/[0561][Array Partition I].iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[0561][Array Partition I]/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[0561][Array Partition I]/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[0485][Max Consecutive Ones]/[0485][Max Consecutive Ones].iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[0485][Max Consecutive Ones]/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[0485][Max Consecutive Ones]/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[0617][Merge Two Binary Trees]/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[0617][Merge Two Binary Trees]/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[0617][Merge Two Binary Trees]/src/TreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[0260][Single Number III]/[0260][Single Number III].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0260][Single Number III]/[0260][Single Number III].iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[0287][Find the Duplicate Number]/[0287][Find the Duplicate Number].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0287][Find the Duplicate Number]/[0287][Find the Duplicate Number].iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[0338][Counting Bits ]/[0338][Counting Bits ].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0338][Counting Bits ]/[0338][Counting Bits ].iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[0347][Top K Frequent Elements]/[0347][Top K Frequent Elements].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0347][Top K Frequent Elements]/[0347][Top K Frequent Elements].iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[0459][Repeated Substring Pattern]/[0459][Repeated Substring Pattern].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0459][Repeated Substring Pattern]/[0459][Repeated Substring Pattern].iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[0476][Number Complement]/[0476][Number Complement].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0476][Number Complement]/[0476][Number Complement].iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[0557][Reverse Words in a String III]/[0557][Reverse Words in a String III].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0557][Reverse Words in a String III]/[0557][Reverse Words in a String III].iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[0561][Array Partition I]/[0561][Array Partition I].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0561][Array Partition I]/[0561][Array Partition I].iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[0617][Merge Two Binary Trees]/[0617][Merge Two Binary Trees].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0617][Merge Two Binary Trees]/[0617][Merge Two Binary Trees].iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -22,59 +35,71 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/[0287][Find the Duplicate Number]/src/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/[0338][Counting Bits ]/src/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="33" column="17" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/[0347][Top K Frequent Elements]/src/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="904">
-              <caret line="64" column="16" selection-start-line="64" selection-start-column="16" selection-end-line="64" selection-end-column="16" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1112#1113#0" expanded="true" />
-                <element signature="e#1152#1153#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/[0561][Array Partition I]/src/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="34" column="23" selection-end-line="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/[0145][Binary Tree Postorder Traversal]/src/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-867">
+            <state relative-caret-position="136">
               <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/[0617][Merge Two Binary Trees]/src/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="322">
+              <caret line="30" column="7" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/[0485][Max Consecutive Ones]/src/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="186">
+              <caret line="33" column="11" lean-forward="true" selection-end-line="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/[0485][Max Consecutive Ones]/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="319">
+              <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/[0617][Merge Two Binary Trees]/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="544">
+              <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/[0102][Binary Tree Level Order Traversal]/src/TreeNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/[0617][Merge Two Binary Trees]/src/TreeNode.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/[0561][Array Partition I]/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
+            <state relative-caret-position="187">
               <caret line="12" column="56" selection-start-line="12" selection-start-column="56" selection-end-line="12" selection-end-column="56" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -93,27 +118,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
               <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/Map.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="122">
-              <caret line="1168" column="14" selection-start-line="1168" selection-start-column="14" selection-end-line="1168" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/[0338][Counting Bits ]/src/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="65" selection-start-line="11" selection-start-column="65" selection-end-line="11" selection-end-column="65" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -164,11 +168,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/[0238][Product of Array Except Self]/src/Main.java" />
-        <option value="$PROJECT_DIR$/[0401][Binary Watch]/src/Main.java" />
-        <option value="$PROJECT_DIR$/[0401][Binary Watch]/src/Solution.java" />
-        <option value="$PROJECT_DIR$/[0429][N-ary Tree Level Order Traversal]/src/Node.java" />
-        <option value="$PROJECT_DIR$/[0429][N-ary Tree Level Order Traversal]/src/Solution.java" />
         <option value="$PROJECT_DIR$/[0429][N-ary Tree Level Order Traversal]/src/Main.java" />
         <option value="$PROJECT_DIR$/[0000][common]/src/WithException.java" />
         <option value="$PROJECT_DIR$/[0230][Kth Smallest Element in a BST]/src/Main.java" />
@@ -215,6 +214,11 @@
         <option value="$PROJECT_DIR$/[0347][Top K Frequent Elements]/src/Solution.java" />
         <option value="$PROJECT_DIR$/[0561][Array Partition I]/src/Main.java" />
         <option value="$PROJECT_DIR$/[0561][Array Partition I]/src/Solution.java" />
+        <option value="$PROJECT_DIR$/[0617][Merge Two Binary Trees]/src/TreeNode.java" />
+        <option value="$PROJECT_DIR$/[0617][Merge Two Binary Trees]/src/Main.java" />
+        <option value="$PROJECT_DIR$/[0617][Merge Two Binary Trees]/src/Solution.java" />
+        <option value="$PROJECT_DIR$/[0485][Max Consecutive Ones]/src/Solution.java" />
+        <option value="$PROJECT_DIR$/[0485][Max Consecutive Ones]/src/Main.java" />
       </list>
     </option>
   </component>
@@ -226,9 +230,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="156" />
-    <option name="y" value="45" />
-    <option name="width" value="1329" />
+    <option name="x" value="226" />
+    <option name="y" value="23" />
+    <option name="width" value="1282" />
     <option name="height" value="877" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -239,7 +243,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -291,22 +295,11 @@
               <item name="[0347][Top K Frequent Elements]" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="[0561][Array Partition I]" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="[0561][Array Partition I]" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -351,27 +344,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Main.test1 (1)">
-    <configuration name="Main (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="[0338][Counting Bits ]" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="[0347][Top K Frequent Elements]" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.Main">
     <configuration name="Main" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="[0287][Find the Duplicate Number]" />
+      <module name="[0485][Max Consecutive Ones]" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="Main" />
       <option name="TEST_OBJECT" value="class" />
@@ -389,8 +364,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="[0347][Top K Frequent Elements]" />
+    <configuration name="Main.test1 (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="[0617][Merge Two Binary Trees]" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="Main" />
       <option name="METHOD_NAME" value="test1" />
@@ -399,20 +374,40 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main.test1 (3)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="[0485][Max Consecutive Ones]" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="[0485][Max Consecutive Ones]" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="JUnit.Main" />
-      <item itemvalue="JUnit.Main (1)" />
-      <item itemvalue="JUnit.Main.test1" />
-      <item itemvalue="JUnit.Main (2)" />
       <item itemvalue="JUnit.Main.test1 (1)" />
+      <item itemvalue="JUnit.Main.test1 (2)" />
+      <item itemvalue="JUnit.Main.test1 (3)" />
+      <item itemvalue="JUnit.Main.test2" />
+      <item itemvalue="JUnit.Main" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Main.test1 (1)" />
-        <item itemvalue="JUnit.Main (2)" />
-        <item itemvalue="JUnit.Main.test1" />
-        <item itemvalue="JUnit.Main (1)" />
         <item itemvalue="JUnit.Main" />
+        <item itemvalue="JUnit.Main.test2" />
+        <item itemvalue="JUnit.Main.test1 (3)" />
+        <item itemvalue="JUnit.Main.test1 (2)" />
+        <item itemvalue="JUnit.Main.test1 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -458,14 +453,9 @@
       <workItem from="1561879881864" duration="12267000" />
       <workItem from="1562030690114" duration="10765000" />
       <workItem from="1562096602663" duration="12221000" />
-      <workItem from="1562135688639" duration="9620000" />
-    </task>
-    <task id="LOCAL-00026" summary="commit">
-      <created>1539150595863</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1539150595863</updated>
+      <workItem from="1562135688639" duration="10303000" />
+      <workItem from="1562202444518" duration="120000" />
+      <workItem from="1562411442857" duration="927000" />
     </task>
     <task id="LOCAL-00027" summary="commit">
       <created>1539150747456</created>
@@ -803,48 +793,55 @@
       <option name="project" value="LOCAL" />
       <updated>1562160452469</updated>
     </task>
-    <option name="localTasksCounter" value="75" />
+    <task id="LOCAL-00075" summary="commit">
+      <created>1562201817392</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1562201817392</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Main_test1 - 2019.07.03 at 21h 14m 29s.xml">
-      <configuration name="Main.test1" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Main_test1 - 2019.07.03 at 21h 15m 00s.xml">
-      <configuration name="Main.test1" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Main_test1 - 2019.07.03 at 21h 17m 22s.xml">
-      <configuration name="Main.test1" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Main_test1 - 2019.07.03 at 21h 18m 21s.xml">
-      <configuration name="Main.test1" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Main_test1 - 2019.07.03 at 21h 18m 30s.xml">
-      <configuration name="Main.test1" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Main_test1 - 2019.07.03 at 21h 18m 40s.xml">
-      <configuration name="Main.test1" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Main_test1 - 2019.07.03 at 21h 23m 39s.xml">
-      <configuration name="Main.test1" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Main_test1 - 2019.07.03 at 21h 24m 25s.xml">
-      <configuration name="Main.test1" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Main_(2) - 2019.07.03 at 21h 24m 57s.xml">
-      <configuration name="Main (2)" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="Main_test1_(1) - 2019.07.04 at 08h 51m 01s.xml">
       <configuration name="Main.test1 (1)" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="Main_test1_(2) - 2019.07.04 at 09h 05m 27s.xml">
+      <configuration name="Main.test1 (2)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Main_test1_(2) - 2019.07.04 at 09h 05m 56s.xml">
+      <configuration name="Main.test1 (2)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Main_test1_(2) - 2019.07.04 at 09h 06m 53s.xml">
+      <configuration name="Main.test1 (2)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Main_test1_(3) - 2019.07.06 at 19h 21m 44s.xml">
+      <configuration name="Main.test1 (3)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Main_test1_(3) - 2019.07.06 at 19h 22m 13s.xml">
+      <configuration name="Main.test1 (3)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Main_test1_(3) - 2019.07.06 at 19h 22m 38s.xml">
+      <configuration name="Main.test1 (3)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Main_test1_(3) - 2019.07.06 at 19h 22m 51s.xml">
+      <configuration name="Main.test1 (3)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Main_test2 - 2019.07.06 at 19h 24m 31s.xml">
+      <configuration name="Main.test2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Main - 2019.07.06 at 19h 24m 36s.xml">
+      <configuration name="Main" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="242965000" />
+    <option name="totallyTimeSpent" value="244695000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="156" y="45" width="1329" height="877" extended-state="0" />
+    <frame x="226" y="23" width="1282" height="877" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4973262" visible="true" weight="0.3079907" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4973262" visible="true" weight="0.32930756" />
       <window_info id="JRebel" order="1" side_tool="true" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -853,7 +850,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49889788" visible="true" weight="0.3027523" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.03931848" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4981631" visible="true" weight="0.33027524" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4981631" visible="true" weight="0.4521625" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -1156,53 +1153,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/[0094][Binary Tree Inorder Traversal]/src/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="26" column="7" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/[0414][Third Maximum Number]/src/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/[0448][Find All Numbers Disappeared in an Array]/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/[0414][Third Maximum Number]/[0414][Third Maximum Number].iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/[0414][Third Maximum Number]/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/[0448][Find All Numbers Disappeared in an Array]/src/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="28" column="6" selection-start-line="28" selection-start-column="6" selection-end-line="28" selection-end-column="6" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/[0461][Hamming Distance]/src/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -1517,6 +1467,50 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/[0347][Top K Frequent Elements]/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="952">
+          <caret line="64" column="16" selection-start-line="64" selection-start-column="16" selection-end-line="64" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[0561][Array Partition I]/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="23" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[0617][Merge Two Binary Trees]/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[0102][Binary Tree Level Order Traversal]/src/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[0617][Merge Two Binary Trees]/src/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[0561][Array Partition I]/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="12" column="56" selection-start-line="12" selection-start-column="56" selection-end-line="12" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/[0347][Top K Frequent Elements]/[0347][Top K Frequent Elements].iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1527,39 +1521,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/[0347][Top K Frequent Elements]/src/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="904">
-          <caret line="64" column="16" selection-start-line="64" selection-start-column="16" selection-end-line="64" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1112#1113#0" expanded="true" />
-            <element signature="e#1152#1153#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/[0561][Array Partition I]/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="56" selection-start-line="12" selection-start-column="56" selection-end-line="12" selection-end-column="56" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/[0561][Array Partition I]/src/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="34" column="23" selection-end-line="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/[0145][Binary Tree Postorder Traversal]/src/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-867">
+        <state relative-caret-position="136">
           <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[0617][Merge Two Binary Trees]/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="30" column="7" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[0485][Max Consecutive Ones]/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[0485][Max Consecutive Ones]/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="33" column="11" lean-forward="true" selection-end-line="47" />
         </state>
       </provider>
     </entry>
