@@ -2,15 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce385e91-de99-4e13-9d76-ab57b6a23494" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/[0240][Search a 2D Matrix II]/[0240][Search a 2D Matrix II].iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[0240][Search a 2D Matrix II]/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[0240][Search a 2D Matrix II]/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[0241][Different Ways to Add Parentheses]/[0241][Different Ways to Add Parentheses].iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[0241][Different Ways to Add Parentheses]/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[0241][Different Ways to Add Parentheses]/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[0504][Base 7]/[0504][Base 7].iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[0504][Base 7]/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[0504][Base 7]/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[0427][Construct Quad Tree]/[0427][Construct Quad Tree].iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[0427][Construct Quad Tree]/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[0427][Construct Quad Tree]/src/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[0427][Construct Quad Tree]/src/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -28,27 +23,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/[0496][Next Greater Element I]/src/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="201">
-              <caret line="45" column="9" selection-end-line="65" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/[0504][Base 7]/src/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="25" column="12" selection-end-line="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/[0240][Search a 2D Matrix II]/src/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="191">
@@ -58,10 +32,50 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/[0427][Construct Quad Tree]/src/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="30" selection-end-line="62" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/[0427][Construct Quad Tree]/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="159">
+              <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/jre/lib/ext/nashorn.jar!/jdk/nashorn/internal/objects/Global.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="129">
+              <caret line="815" column="25" selection-start-line="815" selection-start-column="25" selection-end-line="815" selection-end-column="25" />
+              <folding>
+                <element signature="e#27715#27716#0" expanded="true" />
+                <element signature="e#27782#27783#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/[0427][Construct Quad Tree]/src/Node.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="159">
+              <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/[0241][Different Ways to Add Parentheses]/src/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="53" column="36" selection-start-line="53" selection-start-column="36" selection-end-line="53" selection-end-column="36" />
+            <state relative-caret-position="-27">
+              <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -72,8 +86,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/[0241][Different Ways to Add Parentheses]/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+            <state relative-caret-position="332">
+              <caret line="22" column="46" selection-start-line="22" selection-start-column="46" selection-end-line="22" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -106,23 +120,6 @@
               </folding>
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/[0504][Base 7]/src/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="283">
-              <caret line="17" column="61" selection-start-line="17" selection-start-column="61" selection-end-line="17" selection-end-column="61" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/[0504][Base 7]/[0504][Base 7].iml">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -171,10 +168,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/[0448][Find All Numbers Disappeared in an Array]/src/Mian.java" />
-        <option value="$PROJECT_DIR$/[0448][Find All Numbers Disappeared in an Array]/src/Main.java" />
-        <option value="$PROJECT_DIR$/[0448][Find All Numbers Disappeared in an Array]/src/Solution.java" />
-        <option value="$PROJECT_DIR$/[0461][Hamming Distance]/src/Main.java" />
         <option value="$PROJECT_DIR$/[0461][Hamming Distance]/src/Solution.java" />
         <option value="$PROJECT_DIR$/[0463][Island Perimeter]/src/Main.java" />
         <option value="$PROJECT_DIR$/[0463][Island Perimeter]/src/Solution2.java" />
@@ -222,6 +215,10 @@
         <option value="$PROJECT_DIR$/[0240][Search a 2D Matrix II]/src/Solution.java" />
         <option value="$PROJECT_DIR$/[0241][Different Ways to Add Parentheses]/src/Main.java" />
         <option value="$PROJECT_DIR$/[0241][Different Ways to Add Parentheses]/src/Solution.java" />
+        <option value="$PROJECT_DIR$/[0427][Construct Quad Tree]/src/Soultion.java" />
+        <option value="$PROJECT_DIR$/[0427][Construct Quad Tree]/src/Node.java" />
+        <option value="$PROJECT_DIR$/[0427][Construct Quad Tree]/src/Main.java" />
+        <option value="$PROJECT_DIR$/[0427][Construct Quad Tree]/src/Solution.java" />
       </list>
     </option>
   </component>
@@ -233,7 +230,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="275" />
+    <option name="x" value="273" />
     <option name="y" value="23" />
     <option name="width" value="1282" />
     <option name="height" value="877" />
@@ -279,12 +276,12 @@
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="[0504][Base 7]" type="462c0819:PsiDirectoryNode" />
+              <item name="[0427][Construct Quad Tree]" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="[0504][Base 7]" type="462c0819:PsiDirectoryNode" />
+              <item name="[0427][Construct Quad Tree]" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -336,16 +333,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Main.test3">
-    <configuration name="Main (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="[0504][Base 7]" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.Main.test1">
     <configuration name="Main (3)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="[0240][Search a 2D Matrix II]" />
       <option name="PACKAGE_NAME" value="" />
@@ -357,6 +345,16 @@
     </configuration>
     <configuration name="Main.test1 (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="[0241][Different Ways to Add Parentheses]" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="[0427][Construct Quad Tree]" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="Main" />
       <option name="METHOD_NAME" value="test1" />
@@ -386,19 +384,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.Main (2)" />
       <item itemvalue="JUnit.Main (3)" />
       <item itemvalue="JUnit.Main.test1 (2)" />
       <item itemvalue="JUnit.Main.test2" />
       <item itemvalue="JUnit.Main.test3" />
+      <item itemvalue="JUnit.Main.test1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Main.test1" />
         <item itemvalue="JUnit.Main.test3" />
         <item itemvalue="JUnit.Main.test2" />
         <item itemvalue="JUnit.Main.test1 (2)" />
         <item itemvalue="JUnit.Main (3)" />
-        <item itemvalue="JUnit.Main (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -446,14 +444,7 @@
       <workItem from="1562096602663" duration="12221000" />
       <workItem from="1562135688639" duration="10303000" />
       <workItem from="1562202444518" duration="120000" />
-      <workItem from="1562411442857" duration="6697000" />
-    </task>
-    <task id="LOCAL-00029" summary="commit">
-      <created>1539162245204</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1539162245204</updated>
+      <workItem from="1562411442857" duration="8888000" />
     </task>
     <task id="LOCAL-00030" summary="commit">
       <created>1539163245441</created>
@@ -791,49 +782,55 @@
       <option name="project" value="LOCAL" />
       <updated>1562414319581</updated>
     </task>
-    <option name="localTasksCounter" value="78" />
+    <task id="LOCAL-00078" summary="commit">
+      <created>1562418777061</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1562418777062</updated>
+    </task>
+    <option name="localTasksCounter" value="79" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Main_(3) - 2019.07.06 at 20h 19m 20s.xml">
-      <configuration name="Main (3)" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Main_(3) - 2019.07.06 at 20h 19m 32s.xml">
-      <configuration name="Main (3)" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Main_test1_(2) - 2019.07.06 at 21h 00m 27s.xml">
-      <configuration name="Main.test1 (2)" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Main_test1_(2) - 2019.07.06 at 21h 00m 48s.xml">
-      <configuration name="Main.test1 (2)" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Main_test1_(2) - 2019.07.06 at 21h 02m 03s.xml">
-      <configuration name="Main.test1 (2)" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Main_test1_(2) - 2019.07.06 at 21h 02m 27s.xml">
-      <configuration name="Main.test1 (2)" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Main_test1_(2) - 2019.07.06 at 21h 05m 25s.xml">
-      <configuration name="Main.test1 (2)" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Main_test1_(2) - 2019.07.06 at 21h 05m 28s.xml">
-      <configuration name="Main.test1 (2)" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Main_test1_(2) - 2019.07.06 at 21h 08m 18s.xml">
-      <configuration name="Main.test1 (2)" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="Main_test1_(2) - 2019.07.06 at 21h 10m 19s.xml">
       <configuration name="Main.test1 (2)" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="Main_test1_(2) - 2019.07.06 at 21h 10m 23s.xml">
+      <configuration name="Main.test1 (2)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Main_test2 - 2019.07.06 at 21h 10m 53s.xml">
+      <configuration name="Main.test2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Main_test3 - 2019.07.06 at 21h 11m 39s.xml">
+      <configuration name="Main.test3" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Main_test1 - 2019.07.06 at 21h 43m 52s.xml">
+      <configuration name="Main.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Main_test1 - 2019.07.06 at 21h 45m 11s.xml">
+      <configuration name="Main.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Main_test1 - 2019.07.06 at 21h 45m 25s.xml">
+      <configuration name="Main.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Main_test1 - 2019.07.06 at 21h 46m 15s.xml">
+      <configuration name="Main.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Main_test1 - 2019.07.06 at 21h 46m 55s.xml">
+      <configuration name="Main.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Main_test1 - 2019.07.06 at 21h 47m 35s.xml">
+      <configuration name="Main.test1" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="250465000" />
+    <option name="totallyTimeSpent" value="252656000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="275" y="23" width="1282" height="877" extended-state="0" />
-    <editor active="true" />
+    <frame x="273" y="23" width="1282" height="877" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4973262" visible="true" weight="0.17149758" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4973262" visible="true" weight="0.2673108" />
       <window_info id="JRebel" order="1" side_tool="true" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -842,7 +839,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49889788" visible="true" weight="0.3027523" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.03931848" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.4981631" visible="true" weight="0.43512452" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4981631" visible="true" weight="0.39842725" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -1083,15 +1080,21 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/[0241][Different Ways to Add Parentheses]/src/Solution.java</url>
-          <line>49</line>
+          <line>75</line>
           <properties />
           <option name="timeStamp" value="94" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/[0241][Different Ways to Add Parentheses]/src/Solution.java</url>
-          <line>43</line>
+          <line>69</line>
           <properties />
           <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/[0427][Construct Quad Tree]/src/Solution.java</url>
+          <line>44</line>
+          <properties />
+          <option name="timeStamp" value="100" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/[081][Search In Rotated Sorted Array II]/src/Solution2.java</url>
@@ -1189,36 +1192,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/[0384][Shuffle an Array]/src/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="392">
-          <caret line="48" column="8" selection-start-line="48" selection-start-column="8" selection-end-line="48" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/[0405][Convert a Number to Hexadecimal]/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="23" column="51" selection-start-line="23" selection-start-column="51" selection-end-line="23" selection-end-column="51" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/[0405][Convert a Number to Hexadecimal]/src/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="47" column="26" selection-start-line="47" selection-start-column="26" selection-end-line="47" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/[0409][Longest Palindrome]/src/Solution2.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/[0409][Longest Palindrome]/src/Solution1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
@@ -1554,13 +1527,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/[0240][Search a 2D Matrix II]/src/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="41" column="18" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-84">
@@ -1577,18 +1543,57 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/[0241][Different Ways to Add Parentheses]/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+        <state relative-caret-position="332">
+          <caret line="22" column="46" selection-start-line="22" selection-start-column="46" selection-end-line="22" selection-end-column="46" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/[0241][Different Ways to Add Parentheses]/src/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="53" column="36" selection-start-line="53" selection-start-column="36" selection-end-line="53" selection-end-column="36" />
+        <state relative-caret-position="-27">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/jre/lib/ext/nashorn.jar!/jdk/nashorn/internal/objects/Global.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="815" column="25" selection-start-line="815" selection-start-column="25" selection-end-line="815" selection-end-column="25" />
+          <folding>
+            <element signature="e#27715#27716#0" expanded="true" />
+            <element signature="e#27782#27783#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[0240][Search a 2D Matrix II]/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="41" column="18" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[0427][Construct Quad Tree]/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[0427][Construct Quad Tree]/src/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[0427][Construct Quad Tree]/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="30" selection-end-line="62" />
         </state>
       </provider>
     </entry>
@@ -1645,11 +1650,12 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>[0263][Ugly Number]</last-edited>
+          <last-edited>[0427][Construct Quad Tree]</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.29248658" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
