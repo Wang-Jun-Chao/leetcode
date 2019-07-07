@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce385e91-de99-4e13-9d76-ab57b6a23494" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/[0427][Construct Quad Tree]/[0427][Construct Quad Tree].iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[0427][Construct Quad Tree]/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[0427][Construct Quad Tree]/src/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[0427][Construct Quad Tree]/src/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[0207][Course Schedule]/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[0207][Course Schedule]/src/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[0207][Course Schedule]/[0207][Course Schedule].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0207][Course Schedule]/[0207][Course Schedule].iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -31,11 +29,44 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/[0427][Construct Quad Tree]/src/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="221">
               <caret line="13" column="30" selection-end-line="62" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/[0207][Course Schedule]/src/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="164">
+              <caret line="64" column="53" selection-start-line="64" selection-start-column="53" selection-end-line="64" selection-end-column="53" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/Map.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="173">
+              <caret line="950" column="14" selection-start-line="950" selection-start-column="14" selection-end-line="950" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/[0207][Course Schedule]/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="364">
+              <caret line="42" column="45" selection-start-line="42" selection-start-column="45" selection-end-line="42" selection-end-column="45" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -92,36 +123,6 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/List.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="596">
-              <caret line="707" column="12" selection-start-line="707" selection-start-column="12" selection-end-line="707" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/String.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-84">
-              <caret line="1957" column="18" selection-start-line="1957" selection-start-column="18" selection-end-line="1957" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/[0240][Search a 2D Matrix II]/src/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="178">
-              <caret line="19" column="51" selection-start-line="19" selection-start-column="51" selection-end-line="19" selection-end-column="51" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -168,8 +169,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/[0461][Hamming Distance]/src/Solution.java" />
-        <option value="$PROJECT_DIR$/[0463][Island Perimeter]/src/Main.java" />
         <option value="$PROJECT_DIR$/[0463][Island Perimeter]/src/Solution2.java" />
         <option value="$PROJECT_DIR$/[0463][Island Perimeter]/src/Solution.java" />
         <option value="$PROJECT_DIR$/[0542][01 Matrix]/src/Solution.java" />
@@ -219,6 +218,8 @@
         <option value="$PROJECT_DIR$/[0427][Construct Quad Tree]/src/Node.java" />
         <option value="$PROJECT_DIR$/[0427][Construct Quad Tree]/src/Main.java" />
         <option value="$PROJECT_DIR$/[0427][Construct Quad Tree]/src/Solution.java" />
+        <option value="$PROJECT_DIR$/[0207][Course Schedule]/src/Main.java" />
+        <option value="$PROJECT_DIR$/[0207][Course Schedule]/src/Solution.java" />
       </list>
     </option>
   </component>
@@ -230,9 +231,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="273" />
+    <option name="x" value="158" />
     <option name="y" value="23" />
-    <option name="width" value="1282" />
+    <option name="width" value="1583" />
     <option name="height" value="877" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -250,6 +251,17 @@
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="[0207][Course Schedule]" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="[0207][Course Schedule]" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
@@ -333,9 +345,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Main.test1">
-    <configuration name="Main (3)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="[0240][Search a 2D Matrix II]" />
+  <component name="RunManager" selected="JUnit.Main">
+    <configuration name="Main" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="[0207][Course Schedule]" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="Main" />
       <option name="TEST_OBJECT" value="class" />
@@ -343,8 +355,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main.test1 (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="[0241][Different Ways to Add Parentheses]" />
+    <configuration name="Main.test1 (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="[0207][Course Schedule]" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="Main" />
       <option name="METHOD_NAME" value="test1" />
@@ -353,18 +365,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="[0427][Construct Quad Tree]" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <option name="METHOD_NAME" value="test1" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="[0241][Different Ways to Add Parentheses]" />
+    <configuration name="Main.test2 (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="[0207][Course Schedule]" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="Main" />
       <option name="METHOD_NAME" value="test2" />
@@ -373,30 +375,40 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="[0241][Different Ways to Add Parentheses]" />
+    <configuration name="Main.test4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="[0207][Course Schedule]" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <option name="METHOD_NAME" value="test3" />
+      <option name="METHOD_NAME" value="test4" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main.test5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="[0207][Course Schedule]" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <option name="METHOD_NAME" value="test5" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.Main (3)" />
-      <item itemvalue="JUnit.Main.test1 (2)" />
-      <item itemvalue="JUnit.Main.test2" />
-      <item itemvalue="JUnit.Main.test3" />
-      <item itemvalue="JUnit.Main.test1" />
+      <item itemvalue="JUnit.Main.test1 (1)" />
+      <item itemvalue="JUnit.Main.test2 (1)" />
+      <item itemvalue="JUnit.Main" />
+      <item itemvalue="JUnit.Main.test4" />
+      <item itemvalue="JUnit.Main.test5" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Main.test1" />
-        <item itemvalue="JUnit.Main.test3" />
-        <item itemvalue="JUnit.Main.test2" />
-        <item itemvalue="JUnit.Main.test1 (2)" />
-        <item itemvalue="JUnit.Main (3)" />
+        <item itemvalue="JUnit.Main" />
+        <item itemvalue="JUnit.Main.test5" />
+        <item itemvalue="JUnit.Main.test4" />
+        <item itemvalue="JUnit.Main.test2 (1)" />
+        <item itemvalue="JUnit.Main.test1 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -444,14 +456,7 @@
       <workItem from="1562096602663" duration="12221000" />
       <workItem from="1562135688639" duration="10303000" />
       <workItem from="1562202444518" duration="120000" />
-      <workItem from="1562411442857" duration="8888000" />
-    </task>
-    <task id="LOCAL-00030" summary="commit">
-      <created>1539163245441</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1539163245441</updated>
+      <workItem from="1562411442857" duration="13248000" />
     </task>
     <task id="LOCAL-00031" summary="commit">
       <created>1539166307183</created>
@@ -789,48 +794,56 @@
       <option name="project" value="LOCAL" />
       <updated>1562418777062</updated>
     </task>
-    <option name="localTasksCounter" value="79" />
+    <task id="LOCAL-00079" summary="commit">
+      <created>1562469798363</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1562469798363</updated>
+    </task>
+    <option name="localTasksCounter" value="80" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Main_test1_(2) - 2019.07.06 at 21h 10m 19s.xml">
-      <configuration name="Main.test1 (2)" configurationId="JUnit" />
+    <history-entry file="Main_test2_(1) - 2019.07.07 at 11h 37m 58s.xml">
+      <configuration name="Main.test2 (1)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Main_test1_(2) - 2019.07.06 at 21h 10m 23s.xml">
-      <configuration name="Main.test1 (2)" configurationId="JUnit" />
+    <history-entry file="Main - 2019.07.07 at 11h 38m 03s.xml">
+      <configuration name="Main" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Main_test2 - 2019.07.06 at 21h 10m 53s.xml">
-      <configuration name="Main.test2" configurationId="JUnit" />
+    <history-entry file="Main - 2019.07.07 at 11h 54m 19s.xml">
+      <configuration name="Main" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Main_test3 - 2019.07.06 at 21h 11m 39s.xml">
-      <configuration name="Main.test3" configurationId="JUnit" />
+    <history-entry file="Main_test4 - 2019.07.07 at 11h 57m 20s.xml">
+      <configuration name="Main.test4" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Main_test1 - 2019.07.06 at 21h 43m 52s.xml">
-      <configuration name="Main.test1" configurationId="JUnit" />
+    <history-entry file="Main_test4 - 2019.07.07 at 12h 00m 02s.xml">
+      <configuration name="Main.test4" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Main_test1 - 2019.07.06 at 21h 45m 11s.xml">
-      <configuration name="Main.test1" configurationId="JUnit" />
+    <history-entry file="Main_test4 - 2019.07.07 at 12h 14m 54s.xml">
+      <configuration name="Main.test4" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Main_test1 - 2019.07.06 at 21h 45m 25s.xml">
-      <configuration name="Main.test1" configurationId="JUnit" />
+    <history-entry file="Main - 2019.07.07 at 12h 16m 47s.xml">
+      <configuration name="Main" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Main_test1 - 2019.07.06 at 21h 46m 15s.xml">
-      <configuration name="Main.test1" configurationId="JUnit" />
+    <history-entry file="Main_test5 - 2019.07.07 at 12h 21m 21s.xml">
+      <configuration name="Main.test5" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Main_test1 - 2019.07.06 at 21h 46m 55s.xml">
-      <configuration name="Main.test1" configurationId="JUnit" />
+    <history-entry file="Main_test5 - 2019.07.07 at 12h 26m 28s.xml">
+      <configuration name="Main.test5" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Main_test1 - 2019.07.06 at 21h 47m 35s.xml">
-      <configuration name="Main.test1" configurationId="JUnit" />
+    <history-entry file="Main_test5 - 2019.07.07 at 12h 36m 02s.xml">
+      <configuration name="Main.test5" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="252656000" />
+    <option name="totallyTimeSpent" value="257016000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="273" y="23" width="1282" height="877" extended-state="0" />
+    <frame x="158" y="23" width="1583" height="877" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4973262" visible="true" weight="0.2673108" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4973262" visible="true" weight="0.10434219" />
       <window_info id="JRebel" order="1" side_tool="true" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -838,8 +851,8 @@
       <window_info id="Structure" order="5" sideWeight="0.5026738" weight="0.34600466" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49889788" visible="true" weight="0.3027523" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.03931848" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4981631" visible="true" weight="0.39842725" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3355177" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.4981631" visible="true" weight="0.3931848" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -1096,6 +1109,13 @@
           <properties />
           <option name="timeStamp" value="100" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <condition expression="i == 3" language="JAVA" />
+          <url>file://$PROJECT_DIR$/[0207][Course Schedule]/src/Solution.java</url>
+          <line>64</line>
+          <properties />
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/[081][Search In Rotated Sorted Array II]/src/Solution2.java</url>
           <line>17</line>
@@ -1117,6 +1137,16 @@
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="breakpointCondition">
+      <expression>
+        <expression-string>course == 1</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>i == 3</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>index &gt;= s.length()</expression-string>
         <language-id>JAVA</language-id>
@@ -1144,6 +1174,11 @@
       </expression>
     </expressions>
     <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>dependency[1]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>operator.subList(i + 1, operator.size())</expression-string>
         <language-id>JAVA</language-id>
@@ -1184,28 +1219,9 @@
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
-      <expression>
-        <expression-string>map.get(7)</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/[0409][Longest Palindrome]/src/Solution1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="48" column="17" selection-start-line="48" selection-start-column="17" selection-end-line="48" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/[0409][Longest Palindrome]/src/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="782">
-          <caret line="46" column="35" selection-start-line="46" selection-start-column="35" selection-end-line="46" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/[0415][Add Strings]/src/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="799">
@@ -1378,13 +1394,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/Map.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="1168" column="14" selection-start-line="1168" selection-start-column="14" selection-end-line="1168" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/[0347][Top K Frequent Elements]/src/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="952">
@@ -1467,13 +1476,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
           <caret line="41" column="16" selection-start-line="41" selection-start-column="16" selection-end-line="41" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/Assert.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="166" column="23" selection-start-line="166" selection-start-column="23" selection-end-line="166" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -1594,6 +1596,40 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" column="30" selection-end-line="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/Assert.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="71" column="23" selection-start-line="71" selection-start-column="23" selection-end-line="71" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="950" column="14" selection-start-line="950" selection-start-column="14" selection-end-line="950" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[0207][Course Schedule]/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="42" column="45" selection-start-line="42" selection-start-column="45" selection-end-line="42" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[0207][Course Schedule]/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="64" column="53" selection-start-line="64" selection-start-column="53" selection-end-line="64" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
