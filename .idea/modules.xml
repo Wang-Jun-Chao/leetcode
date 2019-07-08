@@ -164,6 +164,7 @@
       <module fileurl="file://$PROJECT_DIR$/[0216][Combination Sum III]/[0216][Combination Sum III].iml" filepath="$PROJECT_DIR$/[0216][Combination Sum III]/[0216][Combination Sum III].iml" />
       <module fileurl="file://$PROJECT_DIR$/[0217][Contains Duplicate ]/[0217][Contains Duplicate ].iml" filepath="$PROJECT_DIR$/[0217][Contains Duplicate ]/[0217][Contains Duplicate ].iml" />
       <module fileurl="file://$PROJECT_DIR$/[0219][Contains Duplicate II]/[0219][Contains Duplicate II].iml" filepath="$PROJECT_DIR$/[0219][Contains Duplicate II]/[0219][Contains Duplicate II].iml" />
+      <module fileurl="file://$PROJECT_DIR$/[0222][Count Complete Tree Nodes]/[0222][Count Complete Tree Nodes].iml" filepath="$PROJECT_DIR$/[0222][Count Complete Tree Nodes]/[0222][Count Complete Tree Nodes].iml" />
       <module fileurl="file://$PROJECT_DIR$/[0223][Rectangle Area]/[0223][Rectangle Area].iml" filepath="$PROJECT_DIR$/[0223][Rectangle Area]/[0223][Rectangle Area].iml" />
       <module fileurl="file://$PROJECT_DIR$/[0225][Implement Stack Using Queues]/[0225][Implement Stack Using Queues].iml" filepath="$PROJECT_DIR$/[0225][Implement Stack Using Queues]/[0225][Implement Stack Using Queues].iml" />
       <module fileurl="file://$PROJECT_DIR$/[0226][Invert Binary Tree]/[0226][Invert Binary Tree].iml" filepath="$PROJECT_DIR$/[0226][Invert Binary Tree]/[0226][Invert Binary Tree].iml" />
@@ -186,6 +187,7 @@
       <module fileurl="file://$PROJECT_DIR$/[0283][Move Zeroes]/[0283][Move Zeroes].iml" filepath="$PROJECT_DIR$/[0283][Move Zeroes]/[0283][Move Zeroes].iml" />
       <module fileurl="file://$PROJECT_DIR$/[0287][Find the Duplicate Number]/[0287][Find the Duplicate Number].iml" filepath="$PROJECT_DIR$/[0287][Find the Duplicate Number]/[0287][Find the Duplicate Number].iml" />
       <module fileurl="file://$PROJECT_DIR$/[0290][Word Pattern]/[0290][Word Pattern].iml" filepath="$PROJECT_DIR$/[0290][Word Pattern]/[0290][Word Pattern].iml" />
+      <module fileurl="file://$PROJECT_DIR$/[0292][Nim Game]/[0292][Nim Game].iml" filepath="$PROJECT_DIR$/[0292][Nim Game]/[0292][Nim Game].iml" />
       <module fileurl="file://$PROJECT_DIR$/[0303][Range Sum Query - Immutable]/[0303][Range Sum Query - Immutable].iml" filepath="$PROJECT_DIR$/[0303][Range Sum Query - Immutable]/[0303][Range Sum Query - Immutable].iml" />
       <module fileurl="file://$PROJECT_DIR$/[0326][Power of Three]/[0326][Power of Three].iml" filepath="$PROJECT_DIR$/[0326][Power of Three]/[0326][Power of Three].iml" />
       <module fileurl="file://$PROJECT_DIR$/[0338][Counting Bits ]/[0338][Counting Bits ].iml" filepath="$PROJECT_DIR$/[0338][Counting Bits ]/[0338][Counting Bits ].iml" />
@@ -210,6 +212,7 @@
       <module fileurl="file://$PROJECT_DIR$/[0427][Construct Quad Tree]/[0427][Construct Quad Tree].iml" filepath="$PROJECT_DIR$/[0427][Construct Quad Tree]/[0427][Construct Quad Tree].iml" />
       <module fileurl="file://$PROJECT_DIR$/[0429][N-ary Tree Level Order Traversal]/[0429][N-ary Tree Level Order Traversal].iml" filepath="$PROJECT_DIR$/[0429][N-ary Tree Level Order Traversal]/[0429][N-ary Tree Level Order Traversal].iml" />
       <module fileurl="file://$PROJECT_DIR$/[0437][Path Sum III]/[0437][Path Sum III].iml" filepath="$PROJECT_DIR$/[0437][Path Sum III]/[0437][Path Sum III].iml" />
+      <module fileurl="file://$PROJECT_DIR$/[0438][Find All Anagrams in a String]/[0438][Find All Anagrams in a String].iml" filepath="$PROJECT_DIR$/[0438][Find All Anagrams in a String]/[0438][Find All Anagrams in a String].iml" />
       <module fileurl="file://$PROJECT_DIR$/[0448][Find All Numbers Disappeared in an Array]/[0448][Find All Numbers Disappeared in an Array].iml" filepath="$PROJECT_DIR$/[0448][Find All Numbers Disappeared in an Array]/[0448][Find All Numbers Disappeared in an Array].iml" />
       <module fileurl="file://$PROJECT_DIR$/[0459][Repeated Substring Pattern]/[0459][Repeated Substring Pattern].iml" filepath="$PROJECT_DIR$/[0459][Repeated Substring Pattern]/[0459][Repeated Substring Pattern].iml" />
       <module fileurl="file://$PROJECT_DIR$/[0461][Hamming Distance]/[0461][Hamming Distance].iml" filepath="$PROJECT_DIR$/[0461][Hamming Distance]/[0461][Hamming Distance].iml" />
