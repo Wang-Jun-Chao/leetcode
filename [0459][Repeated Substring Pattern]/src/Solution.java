@@ -1,3 +1,5 @@
+import java.util.Objects;
+
 /**
  * @author: wangjunchao(王俊超)
  * @time: 2019-07-03 17:37
@@ -25,11 +27,42 @@ public class Solution {
      * Input: "abcabcabcabc"
      * Output: True
      * Explanation: It's the substring "abc" four times. (And the substring "abcabc" twice.)
+     * 思路：
+     * 从[half, 1]到时如某个数可以被整除，假定其是s.substring(0, k)的子串的重复，进行验证
      * </pre>
+     *
      * @param s
      * @return
      */
     public boolean repeatedSubstringPattern(String s) {
+
+        if (s == null || s.length() < 2) {
+            return false;
+        }
+
+        int i = s.length() / 2;
+        while (i > 0) {
+            if (s.length() % i == 0) {
+                boolean repeated = true;
+                for (int j = i; j < s.length(); j += i) {
+                    // 如果不相等于，退出for循环
+                    if (!equals(s.substring(0, i), s.substring(j, j + i))) {
+                        repeated = false;
+                        break;
+                    }
+                }
+                if (repeated) {
+                    return true;
+                }
+            }
+
+            i--;
+        }
+
         return false;
+    }
+
+    private boolean equals(String s, String t) {
+        return Objects.equals(s, t);
     }
 }
