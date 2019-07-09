@@ -2,30 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce385e91-de99-4e13-9d76-ab57b6a23494" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/[0400][Nth Digit]/[0400][Nth Digit].iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[0400][Nth Digit]/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[0400][Nth Digit]/src/Solution2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[0412][Fizz Buzz]/[0412][Fizz Buzz].iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[0412][Fizz Buzz]/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[0412][Fizz Buzz]/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[0434][Number of Segments in a String]/[0434][Number of Segments in a String].iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[0434][Number of Segments in a String]/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[0434][Number of Segments in a String]/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[0459][Repeated Substring Pattern]/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[0969][Pancake Sorting]/[0969][Pancake Sorting].iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[0969][Pancake Sorting]/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[0969][Pancake Sorting]/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[0979][Distribute Coins in Binary Tree]/[0979][Distribute Coins in Binary Tree].iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[0979][Distribute Coins in Binary Tree]/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[0979][Distribute Coins in Binary Tree]/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[0979][Distribute Coins in Binary Tree]/src/TreeNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0222][Count Complete Tree Nodes]/[0222][Count Complete Tree Nodes].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0222][Count Complete Tree Nodes]/[0222][Count Complete Tree Nodes].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0292][Nim Game]/[0292][Nim Game].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0292][Nim Game]/[0292][Nim Game].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0438][Find All Anagrams in a String]/[0438][Find All Anagrams in a String].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0438][Find All Anagrams in a String]/[0438][Find All Anagrams in a String].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0459][Repeated Substring Pattern]/[0459][Repeated Substring Pattern].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0459][Repeated Substring Pattern]/[0459][Repeated Substring Pattern].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0459][Repeated Substring Pattern]/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/[0459][Repeated Substring Pattern]/src/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[0979][Distribute Coins in Binary Tree]/[0979][Distribute Coins in Binary Tree].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0979][Distribute Coins in Binary Tree]/[0979][Distribute Coins in Binary Tree].iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[0979][Distribute Coins in Binary Tree]/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/[0979][Distribute Coins in Binary Tree]/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[0979][Distribute Coins in Binary Tree]/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/[0979][Distribute Coins in Binary Tree]/src/Solution.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -86,20 +66,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/[0979][Distribute Coins in Binary Tree]/src/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="149">
-              <caret line="39" column="19" lean-forward="true" selection-start-line="39" selection-start-column="19" selection-end-line="39" selection-end-column="19" />
+            <state relative-caret-position="306">
+              <caret line="18" column="13" lean-forward="true" selection-end-line="59" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/[0979][Distribute Coins in Binary Tree]/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+            <state relative-caret-position="255">
+              <caret line="15" column="43" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -199,7 +182,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/[0476][Number Complement]/src/Main.java" />
         <option value="$PROJECT_DIR$/[0476][Number Complement]/src/Solution.java" />
         <option value="$PROJECT_DIR$/[0557][Reverse Words in a String III]/src/Main.java" />
         <option value="$PROJECT_DIR$/[0557][Reverse Words in a String III]/src/Solution.java" />
@@ -249,6 +231,7 @@
         <option value="$PROJECT_DIR$/[0969][Pancake Sorting]/src/Main.java" />
         <option value="$PROJECT_DIR$/[0969][Pancake Sorting]/src/Solution.java" />
         <option value="$PROJECT_DIR$/[0979][Distribute Coins in Binary Tree]/src/TreeNode.java" />
+        <option value="$PROJECT_DIR$/[0979][Distribute Coins in Binary Tree]/src/Main.java" />
         <option value="$PROJECT_DIR$/[0979][Distribute Coins in Binary Tree]/src/Solution.java" />
       </list>
     </option>
@@ -261,8 +244,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="362" />
-    <option name="y" value="41" />
+    <option name="x" value="145" />
+    <option name="y" value="27" />
     <option name="width" value="1270" />
     <option name="height" value="877" />
   </component>
@@ -297,19 +280,6 @@
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="[0979][Distribute Coins in Binary Tree]" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="[0979][Distribute Coins in Binary Tree]" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="[0979][Distribute Coins in Binary Tree]" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Main" type="1a9f42e2:ClassTreeNode" />
             </path>
           </expand>
           <select />
@@ -360,7 +330,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Main (1)">
+  <component name="RunManager" selected="JUnit.Main.test1 (1)">
     <configuration name="Main (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="[0969][Pancake Sorting]" />
       <option name="PACKAGE_NAME" value="" />
@@ -379,8 +349,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main.test1 (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="[0412][Fizz Buzz]" />
+    <configuration name="Main.test1 (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="[0979][Distribute Coins in Binary Tree]" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="Main" />
       <option name="METHOD_NAME" value="test1" />
@@ -410,19 +380,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.Main.test1 (2)" />
       <item itemvalue="JUnit.Main.test1 (3)" />
       <item itemvalue="JUnit.Main.test1" />
       <item itemvalue="JUnit.Main" />
       <item itemvalue="JUnit.Main (1)" />
+      <item itemvalue="JUnit.Main.test1 (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Main.test1 (1)" />
         <item itemvalue="JUnit.Main (1)" />
         <item itemvalue="JUnit.Main" />
         <item itemvalue="JUnit.Main.test1" />
         <item itemvalue="JUnit.Main.test1 (3)" />
-        <item itemvalue="JUnit.Main.test1 (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -473,14 +443,7 @@
       <workItem from="1562411442857" duration="15108000" />
       <workItem from="1562582123812" duration="5644000" />
       <workItem from="1562641658772" duration="535000" />
-      <workItem from="1562658774825" duration="10246000" />
-    </task>
-    <task id="LOCAL-00034" summary="commit">
-      <created>1542355292660</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1542355292660</updated>
+      <workItem from="1562658774825" duration="11187000" />
     </task>
     <task id="LOCAL-00035" summary="commit">
       <created>1542355731301</created>
@@ -818,16 +781,17 @@
       <option name="project" value="LOCAL" />
       <updated>1562591647675</updated>
     </task>
-    <option name="localTasksCounter" value="83" />
+    <task id="LOCAL-00083" summary="commit">
+      <created>1562677843655</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1562677843657</updated>
+    </task>
+    <option name="localTasksCounter" value="84" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Main_test1 - 2019.07.09 at 17h 11m 16s.xml">
-      <configuration name="Main.test1" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Main - 2019.07.09 at 17h 11m 33s.xml">
-      <configuration name="Main" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="Main - 2019.07.09 at 17h 11m 38s.xml">
       <configuration name="Main" configurationId="JUnit" />
     </history-entry>
@@ -852,15 +816,21 @@
     <history-entry file="Main_(1) - 2019.07.09 at 18h 41m 49s.xml">
       <configuration name="Main (1)" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="Main_test1_(1) - 2019.07.09 at 21h 12m 00s.xml">
+      <configuration name="Main.test1 (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Main_test1_(1) - 2019.07.09 at 21h 12m 40s.xml">
+      <configuration name="Main.test1 (1)" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="275301000" />
+    <option name="totallyTimeSpent" value="276242000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="362" y="41" width="1270" height="877" extended-state="0" />
+    <frame x="-74" y="23" width="1270" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4973262" visible="true" weight="0.33577237" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4973262" visible="true" weight="0.33577237" />
       <window_info id="JRebel" order="1" side_tool="true" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -868,8 +838,8 @@
       <window_info id="Structure" order="5" sideWeight="0.5026738" weight="0.25934958" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49889788" weight="0.3027523" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.25163826" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4981631" weight="0.44692007" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.25163826" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.4981631" visible="true" weight="0.310616" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -1653,17 +1623,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/[0979][Distribute Coins in Binary Tree]/src/Solution.java">
+    <entry file="file://$PROJECT_DIR$/[0979][Distribute Coins in Binary Tree]/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="39" column="19" lean-forward="true" selection-start-line="39" selection-start-column="19" selection-end-line="39" selection-end-column="19" />
+        <state relative-caret-position="255">
+          <caret line="15" column="43" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/[0979][Distribute Coins in Binary Tree]/src/Main.java">
+    <entry file="file://$PROJECT_DIR$/[0979][Distribute Coins in Binary Tree]/src/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        <state relative-caret-position="306">
+          <caret line="18" column="13" lean-forward="true" selection-end-line="59" />
         </state>
       </provider>
     </entry>
