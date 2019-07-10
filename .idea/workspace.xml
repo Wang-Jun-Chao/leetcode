@@ -1,32 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/[0227][Basic Calculator II]/src/Solution.java" line="57" mnemonic="8" />
+    <bookmark url="file://$PROJECT_DIR$/[0227][Basic Calculator II]/src/Solution.java" line="96" mnemonic="8" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ce385e91-de99-4e13-9d76-ab57b6a23494" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/[0227][Basic Calculator II]/[0227][Basic Calculator II].iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[0227][Basic Calculator II]/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[0227][Basic Calculator II]/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[0455][Assign Cookies]/[0455][Assign Cookies].iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[0455][Assign Cookies]/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[0455][Assign Cookies]/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[0475][Heaters]/[0475][Heaters].iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[0475][Heaters]/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[0475][Heaters]/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[0482][License Key Formatting]/[0482][License Key Formatting].iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[0482][License Key Formatting]/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[0482][License Key Formatting]/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[0492][Construct the Rectangle]/[0492][Construct the Rectangle].iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[0492][Construct the Rectangle]/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[0492][Construct the Rectangle]/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[0228][Summary Ranges]/[0228][Summary Ranges].iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[0228][Summary Ranges]/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[0228][Summary Ranges]/src/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0400][Nth Digit]/[0400][Nth Digit].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0400][Nth Digit]/[0400][Nth Digit].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0412][Fizz Buzz]/[0412][Fizz Buzz].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0412][Fizz Buzz]/[0412][Fizz Buzz].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0434][Number of Segments in a String]/[0434][Number of Segments in a String].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0434][Number of Segments in a String]/[0434][Number of Segments in a String].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0969][Pancake Sorting]/[0969][Pancake Sorting].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0969][Pancake Sorting]/[0969][Pancake Sorting].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0979][Distribute Coins in Binary Tree]/[0979][Distribute Coins in Binary Tree].iml" beforeDir="false" afterPath="$PROJECT_DIR$/[0979][Distribute Coins in Binary Tree]/[0979][Distribute Coins in Binary Tree].iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -59,11 +42,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/[0227][Basic Calculator II]/src/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="332">
-              <caret line="72" column="59" selection-start-line="72" selection-start-column="59" selection-end-line="72" selection-end-column="59" />
+            <state relative-caret-position="384">
+              <caret line="45" selection-start-line="45" selection-end-line="45" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/[0228][Summary Ranges]/src/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="218">
+              <caret line="22" column="32" lean-forward="true" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -72,10 +67,35 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/[0228][Summary Ranges]/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="313">
+              <caret line="21" column="88" lean-forward="true" selection-start-line="21" selection-start-column="88" selection-end-line="21" selection-end-column="88" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="157">
+              <caret line="3798" column="30" selection-start-line="3798" selection-start-column="30" selection-end-line="3798" selection-end-column="30" />
+              <folding>
+                <element signature="e#177013#177014#0" expanded="true" />
+                <element signature="e#177054#177055#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/[0227][Basic Calculator II]/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="44" selection-start-line="23" selection-start-column="44" selection-end-line="23" selection-end-column="44" />
+            <state relative-caret-position="415">
+              <caret line="29" column="55" selection-start-line="29" selection-start-column="55" selection-end-line="29" selection-end-column="55" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -95,37 +115,6 @@
               <caret line="11" column="64" selection-start-line="11" selection-start-column="64" selection-end-line="11" selection-end-column="64" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/StringBuilder.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="406" column="38" selection-start-line="406" selection-start-column="38" selection-end-line="406" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/AbstractStringBuilder.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="55" column="8" selection-start-line="55" selection-start-column="8" selection-end-line="55" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/String.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="633" column="19" selection-start-line="633" selection-start-column="19" selection-end-line="633" selection-end-column="19" />
-              <folding>
-                <element signature="e#23072#23073#0" expanded="true" />
-                <element signature="e#23112#23113#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -189,8 +178,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/[0347][Top K Frequent Elements]/src/Solution.java" />
-        <option value="$PROJECT_DIR$/[0561][Array Partition I]/src/Main.java" />
         <option value="$PROJECT_DIR$/[0561][Array Partition I]/src/Solution.java" />
         <option value="$PROJECT_DIR$/[0617][Merge Two Binary Trees]/src/TreeNode.java" />
         <option value="$PROJECT_DIR$/[0617][Merge Two Binary Trees]/src/Main.java" />
@@ -240,6 +227,8 @@
         <option value="$PROJECT_DIR$/[0492][Construct the Rectangle]/src/Solution.java" />
         <option value="$PROJECT_DIR$/[0227][Basic Calculator II]/src/Main.java" />
         <option value="$PROJECT_DIR$/[0227][Basic Calculator II]/src/Solution.java" />
+        <option value="$PROJECT_DIR$/[0228][Summary Ranges]/src/Main.java" />
+        <option value="$PROJECT_DIR$/[0228][Summary Ranges]/src/Solution.java" />
       </list>
     </option>
   </component>
@@ -276,12 +265,12 @@
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="[0227][Basic Calculator II]" type="462c0819:PsiDirectoryNode" />
+              <item name="[0228][Summary Ranges]" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="[0227][Basic Calculator II]" type="462c0819:PsiDirectoryNode" />
+              <item name="[0228][Summary Ranges]" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -337,16 +326,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Main (2)">
-    <configuration name="Main (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="[0492][Construct the Rectangle]" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.Main">
     <configuration name="Main (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="[0227][Basic Calculator II]" />
       <option name="PACKAGE_NAME" value="" />
@@ -357,7 +337,7 @@
       </method>
     </configuration>
     <configuration name="Main" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="[0482][License Key Formatting]" />
+      <module name="[0228][Summary Ranges]" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="Main" />
       <option name="TEST_OBJECT" value="class" />
@@ -367,6 +347,16 @@
     </configuration>
     <configuration name="Main.test1 (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="[0227][Basic Calculator II]" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="[0228][Summary Ranges]" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="Main" />
       <option name="METHOD_NAME" value="test1" />
@@ -386,19 +376,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.Main" />
-      <item itemvalue="JUnit.Main (1)" />
       <item itemvalue="JUnit.Main.test1 (1)" />
       <item itemvalue="JUnit.Main (2)" />
       <item itemvalue="JUnit.Main.test3" />
+      <item itemvalue="JUnit.Main.test1" />
+      <item itemvalue="JUnit.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Main" />
+        <item itemvalue="JUnit.Main.test1" />
         <item itemvalue="JUnit.Main (2)" />
         <item itemvalue="JUnit.Main.test3" />
         <item itemvalue="JUnit.Main.test1 (1)" />
-        <item itemvalue="JUnit.Main (1)" />
-        <item itemvalue="JUnit.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -450,21 +440,7 @@
       <workItem from="1562582123812" duration="5644000" />
       <workItem from="1562641658772" duration="535000" />
       <workItem from="1562658774825" duration="11207000" />
-      <workItem from="1562718103934" duration="8980000" />
-    </task>
-    <task id="LOCAL-00036" summary="commit">
-      <created>1560377678105</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1560377678105</updated>
-    </task>
-    <task id="LOCAL-00037" summary="commit">
-      <created>1560480680256</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1560480680256</updated>
+      <workItem from="1562718103934" duration="10905000" />
     </task>
     <task id="LOCAL-00038" summary="commit">
       <created>1560516767443</created>
@@ -795,28 +771,24 @@
       <option name="project" value="LOCAL" />
       <updated>1562681707711</updated>
     </task>
-    <option name="localTasksCounter" value="85" />
+    <task id="LOCAL-00085" summary="commit">
+      <created>1562736646315</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1562736646315</updated>
+    </task>
+    <task id="LOCAL-00086" summary="commit">
+      <created>1562737206620</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1562737206620</updated>
+    </task>
+    <option name="localTasksCounter" value="87" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Main_test1_(3) - 2019.07.10 at 09h 52m 01s.xml">
-      <configuration name="Main.test1 (3)" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Main - 2019.07.10 at 09h 52m 35s.xml">
-      <configuration name="Main" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Main_test1_(3) - 2019.07.10 at 09h 52m 57s.xml">
-      <configuration name="Main.test1 (3)" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Main - 2019.07.10 at 09h 53m 02s.xml">
-      <configuration name="Main" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Main - 2019.07.10 at 09h 53m 20s.xml">
-      <configuration name="Main" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Main - 2019.07.10 at 09h 56m 32s.xml">
-      <configuration name="Main" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="Main_(1) - 2019.07.10 at 10h 03m 27s.xml">
       <configuration name="Main (1)" configurationId="JUnit" />
     </history-entry>
@@ -829,9 +801,27 @@
     <history-entry file="Main_test3 - 2019.07.10 at 13h 27m 11s.xml">
       <configuration name="Main.test3" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="Main_test3 - 2019.07.10 at 13h 27m 37s.xml">
+      <configuration name="Main.test3" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Main_(2) - 2019.07.10 at 13h 27m 54s.xml">
+      <configuration name="Main (2)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Main_(2) - 2019.07.10 at 13h 28m 52s.xml">
+      <configuration name="Main (2)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Main_test1 - 2019.07.10 at 13h 48m 51s.xml">
+      <configuration name="Main.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Main_test1 - 2019.07.10 at 13h 50m 31s.xml">
+      <configuration name="Main.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Main - 2019.07.10 at 13h 51m 10s.xml">
+      <configuration name="Main" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="285242000" />
+    <option name="totallyTimeSpent" value="287167000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1630" y="48" width="1289" height="935" extended-state="0" />
@@ -1124,7 +1114,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/[0227][Basic Calculator II]/src/Solution.java</url>
-          <line>13</line>
+          <line>52</line>
           <properties />
           <option name="timeStamp" value="105" />
         </line-breakpoint>
@@ -1234,23 +1224,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/[0427][Construct Quad Tree]/src/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="30" selection-end-line="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/[0207][Course Schedule]/src/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/concurrent/Executors.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1190">
@@ -1385,13 +1358,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/[0222][Count Complete Tree Nodes]/src/TreeNode.java">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42959">
-          <caret line="2598" column="26" selection-start-line="2598" selection-start-column="26" selection-end-line="2598" selection-end-column="26" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/[0438][Find All Anagrams in a String]/src/Solution2.java">
       <provider selected="true" editor-type-id="text-editor" />
@@ -1645,8 +1611,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/[0227][Basic Calculator II]/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="44" selection-start-line="23" selection-start-column="44" selection-end-line="23" selection-end-column="44" />
+        <state relative-caret-position="415">
+          <caret line="29" column="55" selection-start-line="29" selection-start-column="55" selection-end-line="29" selection-end-column="55" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1655,8 +1621,39 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/[0227][Basic Calculator II]/src/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="332">
-          <caret line="72" column="59" selection-start-line="72" selection-start-column="59" selection-end-line="72" selection-end-column="59" />
+        <state relative-caret-position="384">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="3798" column="30" selection-start-line="3798" selection-start-column="30" selection-end-line="3798" selection-end-column="30" />
+          <folding>
+            <element signature="e#177013#177014#0" expanded="true" />
+            <element signature="e#177054#177055#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[0228][Summary Ranges]/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="21" column="88" lean-forward="true" selection-start-line="21" selection-start-column="88" selection-end-line="21" selection-end-column="88" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[0228][Summary Ranges]/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="22" column="32" lean-forward="true" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
