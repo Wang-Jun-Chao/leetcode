@@ -213,11 +213,13 @@
       <module fileurl="file://$PROJECT_DIR$/[0412][Fizz Buzz]/[0412][Fizz Buzz].iml" filepath="$PROJECT_DIR$/[0412][Fizz Buzz]/[0412][Fizz Buzz].iml" />
       <module fileurl="file://$PROJECT_DIR$/[0414][Third Maximum Number]/[0414][Third Maximum Number].iml" filepath="$PROJECT_DIR$/[0414][Third Maximum Number]/[0414][Third Maximum Number].iml" />
       <module fileurl="file://$PROJECT_DIR$/[0415][Add Strings]/[0415][Add Strings].iml" filepath="$PROJECT_DIR$/[0415][Add Strings]/[0415][Add Strings].iml" />
+      <module fileurl="file://$PROJECT_DIR$/[0419][Battleships in a Board]/[0419][Battleships in a Board].iml" filepath="$PROJECT_DIR$/[0419][Battleships in a Board]/[0419][Battleships in a Board].iml" />
       <module fileurl="file://$PROJECT_DIR$/[0427][Construct Quad Tree]/[0427][Construct Quad Tree].iml" filepath="$PROJECT_DIR$/[0427][Construct Quad Tree]/[0427][Construct Quad Tree].iml" />
       <module fileurl="file://$PROJECT_DIR$/[0429][N-ary Tree Level Order Traversal]/[0429][N-ary Tree Level Order Traversal].iml" filepath="$PROJECT_DIR$/[0429][N-ary Tree Level Order Traversal]/[0429][N-ary Tree Level Order Traversal].iml" />
       <module fileurl="file://$PROJECT_DIR$/[0434][Number of Segments in a String]/[0434][Number of Segments in a String].iml" filepath="$PROJECT_DIR$/[0434][Number of Segments in a String]/[0434][Number of Segments in a String].iml" />
       <module fileurl="file://$PROJECT_DIR$/[0437][Path Sum III]/[0437][Path Sum III].iml" filepath="$PROJECT_DIR$/[0437][Path Sum III]/[0437][Path Sum III].iml" />
       <module fileurl="file://$PROJECT_DIR$/[0438][Find All Anagrams in a String]/[0438][Find All Anagrams in a String].iml" filepath="$PROJECT_DIR$/[0438][Find All Anagrams in a String]/[0438][Find All Anagrams in a String].iml" />
+      <module fileurl="file://$PROJECT_DIR$/[0442][Find All Duplicates in an Array]/[0442][Find All Duplicates in an Array].iml" filepath="$PROJECT_DIR$/[0442][Find All Duplicates in an Array]/[0442][Find All Duplicates in an Array].iml" />
       <module fileurl="file://$PROJECT_DIR$/[0448][Find All Numbers Disappeared in an Array]/[0448][Find All Numbers Disappeared in an Array].iml" filepath="$PROJECT_DIR$/[0448][Find All Numbers Disappeared in an Array]/[0448][Find All Numbers Disappeared in an Array].iml" />
       <module fileurl="file://$PROJECT_DIR$/[0455][Assign Cookies]/[0455][Assign Cookies].iml" filepath="$PROJECT_DIR$/[0455][Assign Cookies]/[0455][Assign Cookies].iml" />
       <module fileurl="file://$PROJECT_DIR$/[0459][Repeated Substring Pattern]/[0459][Repeated Substring Pattern].iml" filepath="$PROJECT_DIR$/[0459][Repeated Substring Pattern]/[0459][Repeated Substring Pattern].iml" />
@@ -229,6 +231,8 @@
       <module fileurl="file://$PROJECT_DIR$/[0485][Max Consecutive Ones]/[0485][Max Consecutive Ones].iml" filepath="$PROJECT_DIR$/[0485][Max Consecutive Ones]/[0485][Max Consecutive Ones].iml" />
       <module fileurl="file://$PROJECT_DIR$/[0492][Construct the Rectangle]/[0492][Construct the Rectangle].iml" filepath="$PROJECT_DIR$/[0492][Construct the Rectangle]/[0492][Construct the Rectangle].iml" />
       <module fileurl="file://$PROJECT_DIR$/[0496][Next Greater Element I]/[0496][Next Greater Element I].iml" filepath="$PROJECT_DIR$/[0496][Next Greater Element I]/[0496][Next Greater Element I].iml" />
+      <module fileurl="file://$PROJECT_DIR$/[0500][Keyboard Row]/[0500][Keyboard Row].iml" filepath="$PROJECT_DIR$/[0500][Keyboard Row]/[0500][Keyboard Row].iml" />
+      <module fileurl="file://$PROJECT_DIR$/[0501][Find Mode in Binary Search Tree]/[0501][Find Mode in Binary Search Tree].iml" filepath="$PROJECT_DIR$/[0501][Find Mode in Binary Search Tree]/[0501][Find Mode in Binary Search Tree].iml" />
       <module fileurl="file://$PROJECT_DIR$/[0504][Base 7]/[0504][Base 7].iml" filepath="$PROJECT_DIR$/[0504][Base 7]/[0504][Base 7].iml" />
       <module fileurl="file://$PROJECT_DIR$/[0542][01 Matrix]/[0542][01 Matrix].iml" filepath="$PROJECT_DIR$/[0542][01 Matrix]/[0542][01 Matrix].iml" />
       <module fileurl="file://$PROJECT_DIR$/[0557][Reverse Words in a String III]/[0557][Reverse Words in a String III].iml" filepath="$PROJECT_DIR$/[0557][Reverse Words in a String III]/[0557][Reverse Words in a String III].iml" />
