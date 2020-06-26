@@ -146,6 +146,7 @@
       <module fileurl="file://$PROJECT_DIR$/[0153][Find Minimum In Rotated Sorted Array]/[0153][Find Minimum In Rotated Sorted Array].iml" filepath="$PROJECT_DIR$/[0153][Find Minimum In Rotated Sorted Array]/[0153][Find Minimum In Rotated Sorted Array].iml" />
       <module fileurl="file://$PROJECT_DIR$/[0154][Find Minimum In Rotated Sorted Array II]/[0154][Find Minimum In Rotated Sorted Array II].iml" filepath="$PROJECT_DIR$/[0154][Find Minimum In Rotated Sorted Array II]/[0154][Find Minimum In Rotated Sorted Array II].iml" />
       <module fileurl="file://$PROJECT_DIR$/[0155][Min Stack]/[0155][Min Stack].iml" filepath="$PROJECT_DIR$/[0155][Min Stack]/[0155][Min Stack].iml" />
+      <module fileurl="file://$PROJECT_DIR$/[0160][Intersection of Two Linked Lists]/[0160][Intersection of Two Linked Lists].iml" filepath="$PROJECT_DIR$/[0160][Intersection of Two Linked Lists]/[0160][Intersection of Two Linked Lists].iml" />
       <module fileurl="file://$PROJECT_DIR$/[0162][Find Peak Element]/[0162][Find Peak Element].iml" filepath="$PROJECT_DIR$/[0162][Find Peak Element]/[0162][Find Peak Element].iml" />
       <module fileurl="file://$PROJECT_DIR$/[0167][Two Sum II - Input array is sorted]/[0167][Two Sum II - Input array is sorted].iml" filepath="$PROJECT_DIR$/[0167][Two Sum II - Input array is sorted]/[0167][Two Sum II - Input array is sorted].iml" />
       <module fileurl="file://$PROJECT_DIR$/[0173][Binary Search Tree Iterator]/[0173][Binary Search Tree Iterator].iml" filepath="$PROJECT_DIR$/[0173][Binary Search Tree Iterator]/[0173][Binary Search Tree Iterator].iml" />
@@ -190,6 +191,7 @@
       <module fileurl="file://$PROJECT_DIR$/[0287][Find the Duplicate Number]/[0287][Find the Duplicate Number].iml" filepath="$PROJECT_DIR$/[0287][Find the Duplicate Number]/[0287][Find the Duplicate Number].iml" />
       <module fileurl="file://$PROJECT_DIR$/[0290][Word Pattern]/[0290][Word Pattern].iml" filepath="$PROJECT_DIR$/[0290][Word Pattern]/[0290][Word Pattern].iml" />
       <module fileurl="file://$PROJECT_DIR$/[0292][Nim Game]/[0292][Nim Game].iml" filepath="$PROJECT_DIR$/[0292][Nim Game]/[0292][Nim Game].iml" />
+      <module fileurl="file://$PROJECT_DIR$/[0299][Bulls and Cows]/[0299][Bulls and Cows].iml" filepath="$PROJECT_DIR$/[0299][Bulls and Cows]/[0299][Bulls and Cows].iml" />
       <module fileurl="file://$PROJECT_DIR$/[0303][Range Sum Query - Immutable]/[0303][Range Sum Query - Immutable].iml" filepath="$PROJECT_DIR$/[0303][Range Sum Query - Immutable]/[0303][Range Sum Query - Immutable].iml" />
       <module fileurl="file://$PROJECT_DIR$/[0326][Power of Three]/[0326][Power of Three].iml" filepath="$PROJECT_DIR$/[0326][Power of Three]/[0326][Power of Three].iml" />
       <module fileurl="file://$PROJECT_DIR$/[0338][Counting Bits ]/[0338][Counting Bits ].iml" filepath="$PROJECT_DIR$/[0338][Counting Bits ]/[0338][Counting Bits ].iml" />
@@ -200,11 +202,13 @@
       <module fileurl="file://$PROJECT_DIR$/[0349][Intersection of Two Arrays]/[0349][Intersection of Two Arrays].iml" filepath="$PROJECT_DIR$/[0349][Intersection of Two Arrays]/[0349][Intersection of Two Arrays].iml" />
       <module fileurl="file://$PROJECT_DIR$/[0350][Intersection of Two Arrays II]/[0350][Intersection of Two Arrays II].iml" filepath="$PROJECT_DIR$/[0350][Intersection of Two Arrays II]/[0350][Intersection of Two Arrays II].iml" />
       <module fileurl="file://$PROJECT_DIR$/[0367][Valid Perfect Square]/[0367][Valid Perfect Square].iml" filepath="$PROJECT_DIR$/[0367][Valid Perfect Square]/[0367][Valid Perfect Square].iml" />
+      <module fileurl="file://$PROJECT_DIR$/[0371][Sum of Two Integers]/[0371][Sum of Two Integers].iml" filepath="$PROJECT_DIR$/[0371][Sum of Two Integers]/[0371][Sum of Two Integers].iml" />
       <module fileurl="file://$PROJECT_DIR$/[0374][Guess Number Higher or Lower]/[0374][Guess Number Higher or Lower].iml" filepath="$PROJECT_DIR$/[0374][Guess Number Higher or Lower]/[0374][Guess Number Higher or Lower].iml" />
       <module fileurl="file://$PROJECT_DIR$/[0383][Ransom Note]/[0383][Ransom Note].iml" filepath="$PROJECT_DIR$/[0383][Ransom Note]/[0383][Ransom Note].iml" />
       <module fileurl="file://$PROJECT_DIR$/[0384][Shuffle an Array]/[0384][Shuffle an Array].iml" filepath="$PROJECT_DIR$/[0384][Shuffle an Array]/[0384][Shuffle an Array].iml" />
       <module fileurl="file://$PROJECT_DIR$/[0387][First Unique Character in a String]/[0387][First Unique Character in a String].iml" filepath="$PROJECT_DIR$/[0387][First Unique Character in a String]/[0387][First Unique Character in a String].iml" />
       <module fileurl="file://$PROJECT_DIR$/[0389][Find the Difference]/[0389][Find the Difference].iml" filepath="$PROJECT_DIR$/[0389][Find the Difference]/[0389][Find the Difference].iml" />
+      <module fileurl="file://$PROJECT_DIR$/[0392][Is Subsequence]/[0392][Is Subsequence].iml" filepath="$PROJECT_DIR$/[0392][Is Subsequence]/[0392][Is Subsequence].iml" />
       <module fileurl="file://$PROJECT_DIR$/[0400][Nth Digit]/[0400][Nth Digit].iml" filepath="$PROJECT_DIR$/[0400][Nth Digit]/[0400][Nth Digit].iml" />
       <module fileurl="file://$PROJECT_DIR$/[0401][Binary Watch]/[0401][Binary Watch].iml" filepath="$PROJECT_DIR$/[0401][Binary Watch]/[0401][Binary Watch].iml" />
       <module fileurl="file://$PROJECT_DIR$/[0404][Sum of Left Leaves]/[0404][Sum of Left Leaves].iml" filepath="$PROJECT_DIR$/[0404][Sum of Left Leaves]/[0404][Sum of Left Leaves].iml" />
@@ -219,7 +223,9 @@
       <module fileurl="file://$PROJECT_DIR$/[0434][Number of Segments in a String]/[0434][Number of Segments in a String].iml" filepath="$PROJECT_DIR$/[0434][Number of Segments in a String]/[0434][Number of Segments in a String].iml" />
       <module fileurl="file://$PROJECT_DIR$/[0437][Path Sum III]/[0437][Path Sum III].iml" filepath="$PROJECT_DIR$/[0437][Path Sum III]/[0437][Path Sum III].iml" />
       <module fileurl="file://$PROJECT_DIR$/[0438][Find All Anagrams in a String]/[0438][Find All Anagrams in a String].iml" filepath="$PROJECT_DIR$/[0438][Find All Anagrams in a String]/[0438][Find All Anagrams in a String].iml" />
+      <module fileurl="file://$PROJECT_DIR$/[0441][Arranging Coins]/[0441][Arranging Coins].iml" filepath="$PROJECT_DIR$/[0441][Arranging Coins]/[0441][Arranging Coins].iml" />
       <module fileurl="file://$PROJECT_DIR$/[0442][Find All Duplicates in an Array]/[0442][Find All Duplicates in an Array].iml" filepath="$PROJECT_DIR$/[0442][Find All Duplicates in an Array]/[0442][Find All Duplicates in an Array].iml" />
+      <module fileurl="file://$PROJECT_DIR$/[0443][String Compression]/[0443][String Compression].iml" filepath="$PROJECT_DIR$/[0443][String Compression]/[0443][String Compression].iml" />
       <module fileurl="file://$PROJECT_DIR$/[0448][Find All Numbers Disappeared in an Array]/[0448][Find All Numbers Disappeared in an Array].iml" filepath="$PROJECT_DIR$/[0448][Find All Numbers Disappeared in an Array]/[0448][Find All Numbers Disappeared in an Array].iml" />
       <module fileurl="file://$PROJECT_DIR$/[0455][Assign Cookies]/[0455][Assign Cookies].iml" filepath="$PROJECT_DIR$/[0455][Assign Cookies]/[0455][Assign Cookies].iml" />
       <module fileurl="file://$PROJECT_DIR$/[0459][Repeated Substring Pattern]/[0459][Repeated Substring Pattern].iml" filepath="$PROJECT_DIR$/[0459][Repeated Substring Pattern]/[0459][Repeated Substring Pattern].iml" />
