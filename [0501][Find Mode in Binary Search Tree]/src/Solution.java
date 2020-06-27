@@ -1,8 +1,4 @@
-import java.util.LinkedList;
-import java.util.List;
-import java.util.Map;
-import java.util.SortedMap;
-import java.util.TreeMap;
+import java.util.*;
 
 /**
  * @author: wangjunchao(王俊超)
@@ -15,14 +11,14 @@ public class Solution {
         findMode(root, map);
 
         int max = 0;
-        for (int v: map.values()) {
+        for (int v : map.values()) {
             if (max < v) {
                 max = v;
             }
         }
 
         List<Integer> list = new LinkedList<>();
-        for(Map.Entry<Integer, Integer> e: map.entrySet()) {
+        for (Map.Entry<Integer, Integer> e : map.entrySet()) {
             if (e.getValue() == max) {
                 list.add(e.getKey());
             }
@@ -30,7 +26,7 @@ public class Solution {
 
         int[] result = new int[list.size()];
         int i = 0;
-        for (int v: list) {
+        for (int v : list) {
             result[i] = v;
             i++;
         }

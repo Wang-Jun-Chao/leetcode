@@ -6,7 +6,7 @@ public class VersionControl {
 
     private boolean[] badVersion;
 
-    public boolean isBadVersion(int version){
+    public boolean isBadVersion(int version) {
         return badVersion[version - 1];
     }
 

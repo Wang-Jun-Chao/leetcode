@@ -21,11 +21,11 @@ public class Test {
 
         ListNode head = new ListNode(1);
         head.next = new ListNode(2);
-        head.next.next= new ListNode(2);
-        head.next.next.next= new ListNode(1);
-        head.next.next.next.next= new ListNode(2);
-        head.next.next.next.next.next= new ListNode(2);
-        head.next.next.next.next.next.next= new ListNode(1);
+        head.next.next = new ListNode(2);
+        head.next.next.next = new ListNode(1);
+        head.next.next.next.next = new ListNode(2);
+        head.next.next.next.next.next = new ListNode(2);
+        head.next.next.next.next.next.next = new ListNode(1);
         System.out.println(solution.isPalindrome(head));
     }
 
@@ -34,8 +34,8 @@ public class Test {
 
         ListNode head = new ListNode(1);
         head.next = new ListNode(2);
-        head.next.next= new ListNode(2);
-        head.next.next.next= new ListNode(1);
+        head.next.next = new ListNode(2);
+        head.next.next.next = new ListNode(1);
 
         System.out.println(solution.isPalindrome(head));
     }

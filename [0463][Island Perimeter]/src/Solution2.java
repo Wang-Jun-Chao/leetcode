@@ -29,6 +29,7 @@ public class Solution2 {
      *
      * Explanation: The perimeter is the 16 yellow stripes in the image below:
      * </pre>
+     *
      * @param grid
      * @return
      */

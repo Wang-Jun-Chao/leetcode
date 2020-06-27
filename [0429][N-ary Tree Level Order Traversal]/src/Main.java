@@ -1,4 +1,3 @@
-import com.sun.tools.corba.se.idl.constExpr.Not;
 import org.junit.Test;
 
 import java.util.LinkedList;

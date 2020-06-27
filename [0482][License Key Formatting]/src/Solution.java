@@ -38,6 +38,7 @@ public class Solution {
      * 思路：
      * 从后向前处理，每k个分成一个组
      * </pre>
+     *
      * @param s
      * @param k
      * @return
@@ -74,6 +75,6 @@ public class Solution {
             return "";
         }
 
-        return  result.charAt(0) == '-' ? result.substring(1) : result;
+        return result.charAt(0) == '-' ? result.substring(1) : result;
     }
 }

@@ -11,7 +11,7 @@ import java.util.Map;
 public class Solution {
     public int numberOfBoomerangs(int[][] points) {
         int count = 0;
-        if (points == null || points.length < 2){
+        if (points == null || points.length < 2) {
             return count;
         }
         Map<Integer, Integer> map = new HashMap<>();

@@ -24,6 +24,7 @@ public class Solution {
      * 2、如果链表有奇数个点，就将中间结点之后的链表进行拆分，否则就
      *
      * </pre>
+     *
      * @param head
      */
     public void reorderList(ListNode head) {

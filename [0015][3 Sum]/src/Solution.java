@@ -73,7 +73,7 @@ public class Solution {
             // nums[a-1]已经被选过了，不用再选了
             do {
                 ++a;
-            }while (a < nums.length - 2 && nums[a - 1] == nums[a]);
+            } while (a < nums.length - 2 && nums[a - 1] == nums[a]);
         }
         return result;
     }

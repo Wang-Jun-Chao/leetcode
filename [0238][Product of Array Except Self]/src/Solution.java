@@ -22,6 +22,7 @@ public class Solution {
      * Could you solve it with constant space complexity? (The output array does not count as
      * extra space for the purpose of space complexity analysis.)
      * </pre>
+     *
      * @param nums
      * @return
      */
@@ -33,7 +34,7 @@ public class Solution {
 
 
         long product = 1;
-        for (int i  = 0; i < nums.length; i++) {
+        for (int i = 0; i < nums.length; i++) {
             product *= nums[i];
             if (nums[i] == 0) {
                 zero.add(i);
@@ -43,13 +44,13 @@ public class Solution {
         // 0的个数大于1个
         if (zero.size() > 1) {
             return result;
-        } else if (zero.size() == 1){
+        } else if (zero.size() == 1) {
             int firstZeroIndex = 0;
-            for (Integer i: zero) {
+            for (Integer i : zero) {
                 firstZeroIndex = i;
             }
 
-            result[firstZeroIndex]  = 1;
+            result[firstZeroIndex] = 1;
             for (int i = 0; i < nums.length; i++) {
                 if (i != firstZeroIndex) {
                     result[firstZeroIndex] *= nums[i];

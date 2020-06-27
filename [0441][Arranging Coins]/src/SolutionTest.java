@@ -28,7 +28,7 @@ public class SolutionTest {
                 {15, 5},
         };
 
-        for(int[] d: data)  {
+        for (int[] d : data) {
             Assert.assertEquals(s.arrangeCoins(d[0]), d[1]);
         }
     }

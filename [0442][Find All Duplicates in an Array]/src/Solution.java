@@ -1,9 +1,4 @@
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.HashSet;
-import java.util.LinkedList;
-import java.util.List;
-import java.util.Set;
+import java.util.*;
 
 /**
  * @author: wangjunchao(王俊超)
@@ -19,7 +14,7 @@ public class Solution {
 
         Set<Integer> set = new HashSet<>();
 
-        for(int i: nums) {
+        for (int i : nums) {
             if (set.contains(i)) {
                 result.add(i);
             } else {

@@ -1,4 +1,3 @@
-
 /**
  * @author: wangjunchao(王俊超)
  * @time: 2019-06-30 14:11
@@ -30,6 +29,7 @@ public class Solution {
 
     /**
      * 计算所有左叶子的和
+     *
      * @param root
      * @param result
      */
@@ -39,7 +39,7 @@ public class Solution {
             return;
         }
 
-        if (root.left == null && root.right==null && isLeftLeaf) {
+        if (root.left == null && root.right == null && isLeftLeaf) {
             result[0] += root.val;
             return;
         }

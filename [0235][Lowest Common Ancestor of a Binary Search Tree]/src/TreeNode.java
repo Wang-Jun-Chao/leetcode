@@ -3,7 +3,7 @@
  * @time: 2018-10-09 11:33
  **/
 public class TreeNode {
-    int      val;
+    int val;
     TreeNode left;
     TreeNode right;
 

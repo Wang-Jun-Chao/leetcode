@@ -46,7 +46,7 @@ public class Solution {
             }
         }
 
-        for (String s: strs) {
+        for (String s : strs) {
             for (int i = 0; i < result.length(); i++) {
                 if (result.charAt(i) != s.charAt(i)) {
                     result = result.substring(0, i);

@@ -7,8 +7,8 @@ import java.util.NoSuchElementException;
  * @time: 2019-06-28 16:54
  **/
 public class BSTIterator {
-    private TreeNode        root;
-    private TreeNode        prev = null;
+    private TreeNode root;
+    private TreeNode prev = null;
     // 最后一个元素表示next元素的值
     private Deque<TreeNode> deque = new LinkedList<>();
 
@@ -33,9 +33,9 @@ public class BSTIterator {
 
         TreeNode temp = deque.removeLast();
 
-        if (temp.right!= null) {
+        if (temp.right != null) {
             TreeNode n = temp.right;
-            while (n!=null) {
+            while (n != null) {
                 deque.addLast(n);
                 n = n.left;
             }

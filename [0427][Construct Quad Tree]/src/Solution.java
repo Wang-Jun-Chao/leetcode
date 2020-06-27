@@ -38,7 +38,7 @@ public class Solution {
         construct(topLeft, grid, x, y, half);
         construct(topRight, grid, x, y + half, half);
         construct(bottomLeft, grid, x + half, y, half);
-        construct(bottomRight, grid, x+ half, y + half, half);
+        construct(bottomRight, grid, x + half, y + half, half);
 
         // 四个孩子都是叶子节点，并且值都相等
         if (topLeft.isLeaf && topRight.isLeaf && bottomLeft.isLeaf && bottomRight.isLeaf) {

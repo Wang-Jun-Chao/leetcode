@@ -39,7 +39,7 @@ public class Main {
     @Test
     public void test5() {
         Solution solution = new Solution();
-        int[][] arr = {{1,0},{2,6},{1,7},{6,4},{7,0},{0,5}};
+        int[][] arr = {{1, 0}, {2, 6}, {1, 7}, {6, 4}, {7, 0}, {0, 5}};
         Assert.assertEquals(true, solution.canFinish(8, arr));
     }
 }

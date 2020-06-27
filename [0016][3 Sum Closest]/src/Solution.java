@@ -1,6 +1,4 @@
-import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.List;
 
 /**
  * Author: 王俊超
@@ -47,7 +45,7 @@ public class Solution {
 
 
         // i表示假设取第i个数作为结果
-        for (int i = 0; i < nums.length - 2;) {
+        for (int i = 0; i < nums.length - 2; ) {
             // 第二个数可能的起始位置
             int j = i + 1;
             // 第三个数可能是结束位置
@@ -76,21 +74,21 @@ public class Solution {
 
                 // 和大于target
                 if (sum > target) {
-                   do {
-                       k--; // 找到不同的值
-                   }while (j < k && nums[k]==nums[k + 1]);
+                    do {
+                        k--; // 找到不同的值
+                    } while (j < k && nums[k] == nums[k + 1]);
                 }
                 // 和小于target
                 else {
                     do {
                         j++;
-                    }while (j < k && nums[j - 1] == nums[j]);
+                    } while (j < k && nums[j - 1] == nums[j]);
                 }
             }
 
             do {
                 i++;
-            }while (i < nums.length - 2 && nums[i - 1] == nums[i]);
+            } while (i < nums.length - 2 && nums[i - 1] == nums[i]);
         }
 
         return (int) result;

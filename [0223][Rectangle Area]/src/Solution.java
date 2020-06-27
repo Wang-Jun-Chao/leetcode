@@ -1,7 +1,5 @@
-import java.util.*;
-
 /**
- * Author: Íõ¿¡³¬
+ * Author: ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
  * Date: 2015-06-19
  * Time: 15:32
  * Declaration: All Rights Reserved !!!
@@ -28,7 +26,7 @@ public class Solution {
      * *****************************                   *
      * (A,B):(-3,0)*                                   *
      *             *                                   *
-     *             * (E,F):(0£¬-1)                     *
+     *             * (E,F):(0ï¿½ï¿½-1)                     *
      *             *************************************
      *
      *   ***************************        ***************************
@@ -43,11 +41,11 @@ public class Solution {
      *
      *
      * </pre>
-     * ÌâÄ¿´óÒâ£º
-     * ¼ÆËãÁ½¸ö¾ØÐÎ×Ü¹²¸²¸ÇµÄÃæ»ý
+     * ï¿½ï¿½Ä¿ï¿½ï¿½ï¿½â£º
+     * ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ü¹ï¿½ï¿½ï¿½ï¿½Çµï¿½ï¿½ï¿½ï¿½
      * <p>
-     * ½âÌâË¼Â·£º
-     * ¼ÆËã·½·¨Îª¾ØÐÎ1µÄÃæ»ý+¾ØÐÎ2µÄÃæ»ý-Á½¸ö¾ØÐÎ¹²Í¬µÄ¸²¸ÇÃæ»ý¡£
+     * ï¿½ï¿½ï¿½ï¿½Ë¼Â·ï¿½ï¿½
+     * ï¿½ï¿½ï¿½ã·½ï¿½ï¿½Îªï¿½ï¿½ï¿½ï¿½1ï¿½ï¿½ï¿½ï¿½ï¿½+ï¿½ï¿½ï¿½ï¿½2ï¿½ï¿½ï¿½ï¿½ï¿½-ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Î¹ï¿½Í¬ï¿½Ä¸ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
      *
      * @param A
      * @param B
@@ -60,18 +58,18 @@ public class Solution {
      * @return
      */
     public int computeArea(int A, int B, int C, int D, int E, int F, int G, int H) {
-        long area = (long) (C - A) * (D - B) + (long)(G - E) * (H - F);
-        // Math.min(C, G) ±íÊ¾ÓÒ±ß±ßµÄ×îÐ¡µÄ±ß
-        // Math.max(A, E) ±íÊ¾×ó±ß±ßµÄ×î´óµÄ±ß
-        // ÏÂÃæµÄ¼õ·¨»á²úÉúÊý×éÔ½½é£¬ÒªÀ©´óÊý¾Ý·¶Î§
-        long width = Math.max((long)Math.min(C, G) - (long)Math.max(A, E), 0);
-        // Math.min(D, H) ±íÊ¾¶¥±ß±ßµÄ×îÐ¡µÄ±ß
-        // Math.max(B, F) ±íÊ¾µ×±ß±ßµÄ×î´óµÄ±ß
-        long height = Math.max((long)Math.min(D, H) - (long)Math.max(B, F), 0);
+        long area = (long) (C - A) * (D - B) + (long) (G - E) * (H - F);
+        // Math.min(C, G) ï¿½ï¿½Ê¾ï¿½Ò±ß±ßµï¿½ï¿½ï¿½Ð¡ï¿½Ä±ï¿½
+        // Math.max(A, E) ï¿½ï¿½Ê¾ï¿½ï¿½ß±ßµï¿½ï¿½ï¿½ï¿½Ä±ï¿½
+        // ï¿½ï¿½ï¿½ï¿½Ä¼ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ô½ï¿½é£¬Òªï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ý·ï¿½Î§
+        long width = Math.max((long) Math.min(C, G) - (long) Math.max(A, E), 0);
+        // Math.min(D, H) ï¿½ï¿½Ê¾ï¿½ï¿½ï¿½ß±ßµï¿½ï¿½ï¿½Ð¡ï¿½Ä±ï¿½
+        // Math.max(B, F) ï¿½ï¿½Ê¾ï¿½×±ß±ßµï¿½ï¿½ï¿½ï¿½Ä±ï¿½
+        long height = Math.max((long) Math.min(D, H) - (long) Math.max(B, F), 0);
 
-        System.out.println(width +":" + height + "=" + width*height);
+        System.out.println(width + ":" + height + "=" + width * height);
 
-        return (int)(area - width * height);
+        return (int) (area - width * height);
     }
 
 

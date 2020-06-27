@@ -44,7 +44,7 @@ public class Solution {
         match[s.length()] = true;
         for (int i = p.length() - 1; i >= 0; i--) {
             if (p.charAt(i) == '*') {
-                for (int j = s.length() - 1; j >= 0; j--)  {
+                for (int j = s.length() - 1; j >= 0; j--) {
                     match[j] = match[j] || match[j + 1]
                             && (p.charAt(i - 1) == '.' || s.charAt(j) == p.charAt(i - 1));
                 }

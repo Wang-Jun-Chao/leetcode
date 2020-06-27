@@ -1,7 +1,7 @@
 import java.util.HashSet;
 
 /**
- * Author: Íõ¿¡³¬
+ * Author: ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
  * Date: 2015-06-17
  * Time: 21:36
  * Declaration: All Rights Reserved !!!
@@ -13,9 +13,9 @@ public class Solution {
      * replace the number by the sum of the squares of its digits, and repeat the process until the number
      * equals 1 (where it will stay), or it loops endlessly in a cycle which does not include 1. Those
      * numbers for which this process ends in 1 are happy numbers.
-     *
-     * ÌâÄ¿ÒªÇó¶ÔÈÎÒâÒ»¸öÕıÕûÊı£¬²»¶Ï¸÷¸öÊıÎ»ÉÏÊı×ÖµÄÆ½·½ºÍ£¬Èô×îÖÕÊÕÁ²Îª1£¬Ôò¸ÃÊı×ÖÎªhappy number£¬
-     * ·ñÔò³ÌĞò¿ÉÄÜ´ÓÄ³¸öÊı¿ªÊ¼ÏİÈëÑ­»·¡£
+     * <p>
+     * ï¿½ï¿½Ä¿Òªï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ò»ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ï¸ï¿½ï¿½ï¿½ï¿½ï¿½Î»ï¿½ï¿½ï¿½ï¿½ï¿½Öµï¿½Æ½ï¿½ï¿½ï¿½Í£ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Îª1ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Îªhappy numberï¿½ï¿½
+     * ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ü´ï¿½Ä³ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ê¼ï¿½ï¿½ï¿½ï¿½Ñ­ï¿½ï¿½ï¿½ï¿½
      *
      * @param n
      * @return
@@ -26,13 +26,13 @@ public class Solution {
             return false;
         }
 
-        // ÓÃÓÚ±£´æÖĞ¼ä³öÏÖµÄ½á¹û
+        // ï¿½ï¿½ï¿½Ú±ï¿½ï¿½ï¿½ï¿½Ğ¼ï¿½ï¿½ï¿½ÖµÄ½ï¿½ï¿½
         HashSet<Integer> set = new HashSet<>(32);
 
         int tmp;
         int newN;
 
-        // n²»Îª1£¬²¢ÇÒnµÄÖµ²»ÄÜÖØ¸´³öÏÖ£¬·ñÔò»áËÀÑ­»·
+        // nï¿½ï¿½Îª1ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½nï¿½ï¿½Öµï¿½ï¿½ï¿½ï¿½ï¿½Ø¸ï¿½ï¿½ï¿½ï¿½Ö£ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ñ­ï¿½ï¿½
         while (n != 1 && !set.contains(n)) {
             set.add(n);
             newN = 0;

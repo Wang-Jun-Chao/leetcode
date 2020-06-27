@@ -3,6 +3,7 @@ import java.util.List;
 
 /**
  * https://leetcode.com/problems/pancake-sorting/
+ *
  * @author: wangjunchao(王俊超)
  * @time: 2019-07-09 18:29
  **/
@@ -45,6 +46,7 @@ public class Solution {
      * 完成把当前最大值放到最后的操作，即完成选择排序的选择最大值到最后的操作。
      * 缩减未排序的序列，即可完成排序；
      * </pre>
+     *
      * @param nums nums元素的值是[1, 2, ..., nums.length]的一个排列
      * @return
      */

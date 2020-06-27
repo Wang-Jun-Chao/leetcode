@@ -7,7 +7,7 @@ import java.util.Arrays;
  * @time: 2019-06-16 11:16
  **/
 public class MaxSubArray {
-    public  int[] solve(int[] array) {
+    public int[] solve(int[] array) {
         if (array == null || array.length < 1) {
             return null;
         }

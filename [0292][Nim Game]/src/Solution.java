@@ -1,5 +1,6 @@
 /**
  * https://leetcode.com/problems/nim-game/
+ *
  * @author: wangjunchao(王俊超)
  * @time: 2019-07-08 18:39
  **/
@@ -26,6 +27,7 @@ public class Solution {
      * 轮完后都有4的倍数个石头被取走。这样，如果我们先走的话，先把n除4的余数个石头拿走，这样不管怎样，到最
      * 后都会留4个下来，对方取1个你就取3个，对方取2个你就取2个，就必赢了。
      * </pre>
+     *
      * @param n
      * @return
      */
@@ -34,6 +36,6 @@ public class Solution {
     }
 
     public boolean canWinNim2(int n) {
-        return n %4 != 0;
+        return n % 4 != 0;
     }
 }

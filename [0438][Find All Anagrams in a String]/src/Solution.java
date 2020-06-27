@@ -1,9 +1,6 @@
 import java.util.Arrays;
-import java.util.HashMap;
 import java.util.LinkedList;
 import java.util.List;
-import java.util.Map;
-import java.util.Objects;
 
 /**
  * @author: wangjunchao(王俊超)
@@ -71,7 +68,7 @@ public class Solution {
                 sArr[s.charAt(i + p.length() - 1) - 'a']++;
             }
 
-            if (Arrays.equals(sArr, pArr)  ) {
+            if (Arrays.equals(sArr, pArr)) {
                 result.add(i);
             }
         }

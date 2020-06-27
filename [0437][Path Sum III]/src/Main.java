@@ -13,8 +13,8 @@ public class Main {
         root.right = new TreeNode(-3);
         root.left.left = new TreeNode(3);
         root.left.right = new TreeNode(2);
-        root.left.left.left =new TreeNode(3);
-        root.left.left.right =new TreeNode(-2);
+        root.left.left.left = new TreeNode(3);
+        root.left.left.right = new TreeNode(-2);
         root.left.right.right = new TreeNode(1);
         root.right.right = new TreeNode(11);
 
@@ -29,8 +29,8 @@ public class Main {
         root.right = new TreeNode(-3);
         root.left.left = new TreeNode(3);
         root.left.right = new TreeNode(2);
-        root.left.left.left =new TreeNode(3);
-        root.left.left.right =new TreeNode(-2);
+        root.left.left.left = new TreeNode(3);
+        root.left.left.right = new TreeNode(-2);
         root.left.right.right = new TreeNode(1);
         root.right.right = new TreeNode(11);
 
@@ -45,8 +45,8 @@ public class Main {
         root.right = new TreeNode(-3);
         root.left.left = new TreeNode(3);
         root.left.right = new TreeNode(2);
-        root.left.left.left =new TreeNode(3);
-        root.left.left.right =new TreeNode(-2);
+        root.left.left.left = new TreeNode(3);
+        root.left.left.right = new TreeNode(-2);
         root.left.right.right = new TreeNode(1);
         root.right.right = new TreeNode(11);
 
@@ -61,8 +61,8 @@ public class Main {
         root.right = new TreeNode(-3);
         root.left.left = new TreeNode(3);
         root.left.right = new TreeNode(2);
-        root.left.left.left =new TreeNode(3);
-        root.left.left.right =new TreeNode(-2);
+        root.left.left.left = new TreeNode(3);
+        root.left.left.right = new TreeNode(-2);
         root.left.right.right = new TreeNode(1);
         root.right.right = new TreeNode(11);
 

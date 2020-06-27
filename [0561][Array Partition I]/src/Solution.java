@@ -2,6 +2,7 @@ import java.util.Arrays;
 
 /**
  * https://leetcode.com/problems/array-partition-i/
+ *
  * @author: wangjunchao(王俊超)
  * @time: 2019-07-04 08:46
  **/
@@ -25,6 +26,7 @@ public class Solution {
      * 先将数据组排序，取偶数位置的数相加，即为结果
      * 证明略
      * </pre>
+     *
      * @param nums
      * @return
      */
@@ -32,7 +34,7 @@ public class Solution {
         Arrays.sort(nums);
 
         int result = 0;
-        for (int i = 0; i < nums.length; i+=2) {
+        for (int i = 0; i < nums.length; i += 2) {
             result += nums[i];
         }
 

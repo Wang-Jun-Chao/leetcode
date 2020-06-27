@@ -1,4 +1,3 @@
-
 //Given a string s and a string t, check if s is subsequence of t.
 //
 // A subsequence of a string is a new string which is formed from the original s
@@ -50,11 +49,11 @@ public class Solution {
             return true;
         }
 
-        if (s == null || t == null ) {
+        if (s == null || t == null) {
             return false;
         }
 
-        if (s.length() == 0){
+        if (s.length() == 0) {
             return true;
         }
 

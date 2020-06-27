@@ -26,6 +26,7 @@ public class Solution {
      * Explanation:
      * 'e' is the letter that was added.
      * </pre>
+     *
      * @param s
      * @param t
      * @return

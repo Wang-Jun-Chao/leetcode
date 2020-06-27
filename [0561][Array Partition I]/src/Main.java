@@ -7,9 +7,9 @@ import org.junit.Test;
  **/
 public class Main {
     @Test
-    public void test1(){
+    public void test1() {
         Solution solution = new Solution();
-        int[] arr = {1,4,3,2};
+        int[] arr = {1, 4, 3, 2};
         Assert.assertEquals(4, solution.arrayPairSum(arr));
     }
 }

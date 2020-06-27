@@ -76,7 +76,7 @@ public class Solution {
             visited[row][col] = true;
             idx[0]++;
             // 对上，右，下，左四个方向进行搜索
-            hasPath = search(board, visited, row - 1, col, word, idx ) // 上
+            hasPath = search(board, visited, row - 1, col, word, idx) // 上
                     || search(board, visited, row, col + 1, word, idx) // 右
                     || search(board, visited, row + 1, col, word, idx) // 下
                     || search(board, visited, row, col - 1, word, idx); // 左

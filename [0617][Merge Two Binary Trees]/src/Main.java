@@ -7,7 +7,7 @@ import org.junit.Test;
 public class Main {
     @Test
     public void test1() {
-        TreeNode t1  = new TreeNode(1);
+        TreeNode t1 = new TreeNode(1);
         t1.left = new TreeNode(3);
         t1.left.left = new TreeNode(5);
         t1.right = new TreeNode(2);
@@ -24,6 +24,7 @@ public class Main {
 
         print(node);
     }
+
     private void print(TreeNode node) {
         if (node != null) {
             System.out.print(node.val + ", ");

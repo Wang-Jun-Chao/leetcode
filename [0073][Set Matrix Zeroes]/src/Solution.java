@@ -20,7 +20,7 @@ public class Solution {
                     }
 
                     // 标记第一列要被设置
-                    if (j == 0){
+                    if (j == 0) {
                         colFlag = true;
                     }
 

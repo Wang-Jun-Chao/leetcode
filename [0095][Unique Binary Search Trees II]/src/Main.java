@@ -15,7 +15,7 @@ public class Main {
     }
 
     private void print(List<TreeNode> generateTrees) {
-        for (TreeNode node:generateTrees) {
+        for (TreeNode node : generateTrees) {
             print(node);
             System.out.println();
         }
@@ -23,7 +23,7 @@ public class Main {
 
     private void print(TreeNode node) {
         if (node != null) {
-            System.out.print(node +", ");
+            System.out.print(node + ", ");
 
             if (node.left == null && node.right == null) {
                 return;

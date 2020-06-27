@@ -1,5 +1,6 @@
 /**
  * https://leetcode.com/problems/distribute-coins-in-binary-tree/
+ *
  * @author: wangjunchao(王俊超)
  * @time: 2019-07-09 18:52
  **/
@@ -17,6 +18,7 @@ public class Solution {
      *
      * https://www.cnblogs.com/seyjs/p/10369614.html
      * </pre>
+     *
      * @param root
      * @return
      */
@@ -32,6 +34,7 @@ public class Solution {
 
     /**
      * 自底向上，对每一个节点，只能从父结点借，或者向父节点上交coin
+     *
      * @param node
      * @param parent
      */

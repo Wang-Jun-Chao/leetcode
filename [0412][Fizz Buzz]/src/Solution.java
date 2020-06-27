@@ -39,6 +39,7 @@ public class Solution {
      *     "FizzBuzz"
      * ]
      * </pre>
+     *
      * @param n
      * @return
      */

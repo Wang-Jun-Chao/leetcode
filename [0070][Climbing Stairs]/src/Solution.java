@@ -12,6 +12,7 @@ public class Solution {
      * - 从第n - 1 阶前进2 步；
      * 因此，有f(n) = f(n - 1) + f(n - 2)。
      * </pre>
+     *
      * @param n
      * @return
      */

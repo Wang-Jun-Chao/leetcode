@@ -6,7 +6,7 @@ public class Solution {
 
     public boolean isPowerOfThree(int n) {
         double rst = (Math.log10(n) / Math.log10(3));
-        return  n > 0 &&Double.doubleToLongBits((int)rst) == Double.doubleToLongBits(rst);
+        return n > 0 && Double.doubleToLongBits((int) rst) == Double.doubleToLongBits(rst);
     }
 
     public boolean isPowerOfThree2(int n) {

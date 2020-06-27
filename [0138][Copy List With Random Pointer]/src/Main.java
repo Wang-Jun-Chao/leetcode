@@ -1,5 +1,5 @@
 /**
- * Author: Íõ¿¡³¬
+ * Author: ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
  * Date: 2015-06-24
  * Time: 09:18
  * Declaration: All Rights Reserved !!!
@@ -21,7 +21,7 @@ public class Main {
 
     }
 
-    public static  void print(RandomListNode head) {
+    public static void print(RandomListNode head) {
         while (head != null) {
             System.out.print(head.label + "->");
             head = head.next;

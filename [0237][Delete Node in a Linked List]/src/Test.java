@@ -19,7 +19,7 @@ public class Test {
         do {
             if (node == null) {
                 System.out.println("null");
-            } else if (node.next != null){
+            } else if (node.next != null) {
                 System.out.print(node.val + "->");
                 node = node.next;
             } else {
@@ -27,6 +27,6 @@ public class Test {
                 node = node.next;
             }
 
-        }while (node != null);
+        } while (node != null);
     }
 }

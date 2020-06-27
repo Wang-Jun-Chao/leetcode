@@ -1,8 +1,4 @@
-import java.util.Deque;
-import java.util.HashSet;
-import java.util.LinkedList;
-import java.util.List;
-import java.util.Set;
+import java.util.*;
 
 /**
  * @author: wangjunchao(王俊超)
@@ -58,7 +54,7 @@ public class Solution2 {
         List<List<String>> result = new LinkedList<>();
         Deque<String> current = new LinkedList<>();
         findLadders(beginWord, endWord, wordDict, current, result);
-        for(List<String> r: result) {
+        for (List<String> r : result) {
             r.add(0, beginWord);
         }
         return result;
@@ -95,7 +91,7 @@ public class Solution2 {
                 chars[i] = ch;
                 String s = new String(chars);
 
-                if (wordDict.contains(s) ) {
+                if (wordDict.contains(s)) {
                     wordDict.remove(s);
                     current.add(s);
 

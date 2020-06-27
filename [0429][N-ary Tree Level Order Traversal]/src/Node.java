@@ -5,7 +5,7 @@ import java.util.List;
  * @time: 2019-07-01 14:44
  **/
 public class Node {
-    public int        val;
+    public int val;
     public List<Node> children;
 
     public Node() {

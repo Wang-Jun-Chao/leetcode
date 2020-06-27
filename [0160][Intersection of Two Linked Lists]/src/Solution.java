@@ -63,15 +63,16 @@
 
 
 //leetcode submit region begin(Prohibit modification and deletion)
+
 /**
  * Definition for singly-linked list.
  * public class ListNode {
- *     int val;
- *     ListNode next;
- *     ListNode(int x) {
- *         val = x;
- *         next = null;
- *     }
+ * int val;
+ * ListNode next;
+ * ListNode(int x) {
+ * val = x;
+ * next = null;
+ * }
  * }
  */
 public class Solution {
@@ -96,7 +97,7 @@ public class Solution {
         tailA.next = headB;
 
         // 定义快慢指针
-        ListNode fast =  headA;
+        ListNode fast = headA;
         ListNode slow = headA;
 
         while (fast.next != null && fast.next.next != null) {

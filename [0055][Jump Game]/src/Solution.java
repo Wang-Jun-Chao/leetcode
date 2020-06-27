@@ -30,6 +30,7 @@ public class Solution {
     public boolean canJump(int[] nums) {
         return canJump2(nums);
     }
+
     public boolean canJump1(int[] nums) {
         if (nums == null || nums.length < 2) {
             return true;
@@ -42,7 +43,7 @@ public class Solution {
         for (int i = 0; i < nums.length; i++) {
             // i不能比lastPos大，否则说明不能走到i，走不到i也就不能走到最后
             // 如果在i位置可以移动的距离比已经记录到的最大距离还要大，那么更新最大的移动距离
-            if (i <= lastPos && i + nums[i] > lastPos ) {
+            if (i <= lastPos && i + nums[i] > lastPos) {
                 lastPos = i + nums[i];
             } else if (i > lastPos) {
                 return false;
@@ -55,6 +56,7 @@ public class Solution {
 
     /**
      * 逆向，从最高层下楼梯，一层一层下降，看最后能不能下降到第0 层。
+     *
      * @param nums
      * @return
      */

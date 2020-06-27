@@ -21,7 +21,7 @@ public class SolutionTest {
 //                {"abcdefg","abcdefg", 7},
 //                {"aaab","a3b", 3},
 //                {"aaabcccc","a3bc4", 5},
-                {"aaabbbccc","a3b3c3", 6},
+                {"aaabbbccc", "a3b3c3", 6},
         };
 
         for (Object[] d : data) {

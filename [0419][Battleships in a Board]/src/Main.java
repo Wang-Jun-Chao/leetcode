@@ -9,9 +9,9 @@ public class Main {
     @Test
     public void test1() {
         char[][] board = {
-                {'X','.', ',', 'X'},
-                {'.','.', ',', 'X'},
-                {'.','.', ',', 'X'}
+                {'X', '.', ',', 'X'},
+                {'.', '.', ',', 'X'},
+                {'.', '.', ',', 'X'}
         };
 
         Solution solution = new Solution();

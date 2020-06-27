@@ -1,5 +1,6 @@
 /**
  * https://leetcode.com/problems/defanging-an-ip-address/submissions/
+ *
  * @author: wangjunchao(王俊超)
  * @time: 2019-07-12 08:31
  **/
@@ -21,11 +22,12 @@ public class Solution {
      * Input: address = "255.100.50.0"
      * Output: "255[.]100[.]50[.]0"
      * </pre>
+     *
      * @param address
      * @return
      */
     public String defangIPaddr(String address) {
-        if (address ==null || address.length() < 1) {
+        if (address == null || address.length() < 1) {
             return address;
         }
 

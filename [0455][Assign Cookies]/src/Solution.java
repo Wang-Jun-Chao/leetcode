@@ -2,6 +2,7 @@ import java.util.Arrays;
 
 /**
  * https://leetcode.com/problems/assign-cookies/
+ *
  * @author: wangjunchao(王俊超)
  * @time: 2019-07-10 08:30
  **/
@@ -41,6 +42,7 @@ public class Solution {
      * 思路：
      * 先将饼干尺寸和小孩需求都排个序，然后从小到大去遍历地给。
      * </pre>
+     *
      * @param g
      * @param s
      * @return

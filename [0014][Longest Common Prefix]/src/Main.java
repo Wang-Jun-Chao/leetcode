@@ -15,6 +15,6 @@ public class Main {
     @Test
     public void test2() {
         Solution solution = new Solution();
-        Assert.assertEquals("", solution.longestCommonPrefix(new String[]{"dog","racecar","car"}));
+        Assert.assertEquals("", solution.longestCommonPrefix(new String[]{"dog", "racecar", "car"}));
     }
 }

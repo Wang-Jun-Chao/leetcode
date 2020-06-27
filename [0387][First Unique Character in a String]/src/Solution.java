@@ -20,6 +20,7 @@ public class Solution {
      * s = "loveleetcode",
      * return 2.
      * </pre>
+     *
      * @param s
      * @return
      */
@@ -43,7 +44,7 @@ public class Solution {
 
         Integer result = null;
 
-        for(Integer n: map.values()) {
+        for (Integer n : map.values()) {
             if (n >= 0) {
                 if (result == null) {
                     result = n;

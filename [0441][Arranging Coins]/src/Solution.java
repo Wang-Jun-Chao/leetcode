@@ -1,4 +1,3 @@
-
 //You have a total of n coins that you want to form in a staircase shape, where
 //every k-th row must have exactly k coins.
 //
@@ -65,8 +64,8 @@ public class Solution {
 
         long x = (long) Math.sqrt(t);
 
-        while ( true ) {
-            if (x * x + 3*x < t) {
+        while (true) {
+            if (x * x + 3 * x < t) {
                 x++;
                 continue;
             }

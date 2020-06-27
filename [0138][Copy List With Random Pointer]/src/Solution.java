@@ -87,7 +87,7 @@ public class Solution {
         // 当前复制的结点
         RandomListNode copy;
 
-        while (node != null){
+        while (node != null) {
             // 指向复制结点
             copy = node.next;
 

@@ -1,9 +1,9 @@
-
 import java.util.LinkedList;
 import java.util.List;
 
 /**
  * https://leetcode.com/problems/keyboard-row/
+ *
  * @author: wangjunchao(王俊超)
  * @time: 2019-07-11 10:25
  **/

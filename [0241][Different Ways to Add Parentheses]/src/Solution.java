@@ -30,6 +30,7 @@ public class Solution {
      * (2*((3-4)*5)) = -10
      * (((2*3)-4)*5) = 10
      * </pre>
+     *
      * @param input
      * @return
      */

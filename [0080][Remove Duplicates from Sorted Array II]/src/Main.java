@@ -9,7 +9,7 @@ public class Main {
         Solution solution = new Solution();
         int[] nums = {1, 1, 1, 2, 2, 3};
         int i = solution.removeDuplicates(nums);
-        System.out.println(i + ": "+ Arrays.toString(nums));
+        System.out.println(i + ": " + Arrays.toString(nums));
 
     }
 }

@@ -15,6 +15,7 @@ public class Solution {
      * Output: "-10"
      * Note: The input will be in range of [-1e7, 1e7].
      * </pre>
+     *
      * @param num
      * @return
      */

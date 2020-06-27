@@ -22,15 +22,15 @@ public class Solution {
     // nums:输入的数组
     // remain:剩下的值
     // start:可用的值在数组中的起始位置
-    private void backtrack(List<List<Integer>> list, List<Integer> tempList, int [] nums, int remain, int start){
+    private void backtrack(List<List<Integer>> list, List<Integer> tempList, int[] nums, int remain, int start) {
         // 不够减
-        if(remain < 0) {
+        if (remain < 0) {
             return;
-        } else if(remain == 0) { // 刚好够减
+        } else if (remain == 0) { // 刚好够减
             list.add(new LinkedList<>(tempList));
         } else {
             // 从剩下的数中一个一个尝试
-            for(int i = start; i < nums.length; i++){
+            for (int i = start; i < nums.length; i++) {
                 // 假设这个值是临时结果中的一个值
                 tempList.add(nums[i]);
                 // 处理下一步

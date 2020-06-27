@@ -31,6 +31,7 @@ public class Solution {
      * i为偶数 bit(i) = bit(i/2)
      * i为奇数 bit(i) = bit(i/2) + 1
      * </pre>
+     *
      * @param num
      * @return
      */

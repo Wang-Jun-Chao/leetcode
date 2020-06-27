@@ -12,11 +12,11 @@ public class NumArray {
     public int sumRange(int i, int j) {
 
         if (i > j) {
-            throw new IllegalArgumentException("i = " + i + ", j = " + j +", i must not greater than j");
+            throw new IllegalArgumentException("i = " + i + ", j = " + j + ", i must not greater than j");
         }
 
         if (j < 0) {
-            throw new IllegalArgumentException("i = " + i + ", j = " + j +", i must not less than 0");
+            throw new IllegalArgumentException("i = " + i + ", j = " + j + ", i must not less than 0");
         }
 
         i = i < 0 ? 0 : i;

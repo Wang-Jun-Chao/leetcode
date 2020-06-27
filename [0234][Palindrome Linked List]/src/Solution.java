@@ -27,7 +27,7 @@ public class Solution {
         // 找反向链的起始位置
         count = (count + 1) / 2;
         node = head;
-        while (count >0) {
+        while (count > 0) {
             count--;
             node = node.next;
         }

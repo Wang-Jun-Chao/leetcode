@@ -31,7 +31,7 @@ public class Solution2 {
                 result.add(nums[i - 1]);
             }
         }
-        
+
         Collections.sort(result);
         return result;
     }

@@ -11,7 +11,7 @@ public class Solution {
     public List<List<Integer>> permuteUnique(int[] nums) {
         List<List<Integer>> res = new ArrayList<>();
 
-        if (nums == null || nums.length == 0){
+        if (nums == null || nums.length == 0) {
             return res;
         }
 
@@ -26,6 +26,7 @@ public class Solution {
 
     /**
      * 时间复杂度：n!
+     *
      * @param nums
      * @param used
      * @param list

@@ -16,11 +16,11 @@ public class Solution {
                 if (board[i][j] == 'X') {
                     // 如果左边一个并且上面一个不是X，说明是战舰的起点
                     // 考虑边界情况
-                    if (i > 0 && j > 0 && board[i -1][j] != board[i][j] && board[i][j - 1] != board[i][j]) {
+                    if (i > 0 && j > 0 && board[i - 1][j] != board[i][j] && board[i][j - 1] != board[i][j]) {
                         result++;
-                    } else if (i > 0 && j == 0 && board[i -1][j] != board[i][j]) {
+                    } else if (i > 0 && j == 0 && board[i - 1][j] != board[i][j]) {
                         result++;
-                    } else if (i == 0 && j > 0 && board[i][j - 1] != board[i][j] ) {
+                    } else if (i == 0 && j > 0 && board[i][j - 1] != board[i][j]) {
                         result++;
                     } else if (i == 0 && j == 0) {
                         result++;

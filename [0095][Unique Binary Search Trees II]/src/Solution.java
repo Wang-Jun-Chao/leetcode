@@ -31,8 +31,8 @@ public class Solution {
             List<TreeNode> left = trees(start, i - 1);
             List<TreeNode> right = trees(i + 1, end);
 
-            for(TreeNode l : left) {
-                for (TreeNode r: right) {
+            for (TreeNode l : left) {
+                for (TreeNode r : right) {
                     TreeNode root = new TreeNode(i);
                     root.left = l;
                     root.right = r;

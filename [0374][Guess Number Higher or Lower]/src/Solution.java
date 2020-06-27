@@ -21,6 +21,7 @@ public class Solution extends GuessGame {
      * Input: n = 10, pick = 6
      * Output: 6
      * </pre>
+     *
      * @param n
      * @return
      */

@@ -22,6 +22,7 @@
 
 
 //leetcode submit region begin(Prohibit modification and deletion)
+
 /**
  * Author: 王俊超
  * Time: 2016-07-03 21-25 10:58

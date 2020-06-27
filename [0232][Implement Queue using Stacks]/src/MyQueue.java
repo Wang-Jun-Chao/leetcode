@@ -1,6 +1,5 @@
 import java.util.LinkedList;
 import java.util.List;
-import java.util.Queue;
 
 /**
  * @author: wangjunchao(王俊超)
@@ -8,7 +7,7 @@ import java.util.Queue;
  **/
 class MyQueue {
 
-    private List<Integer>  list;
+    private List<Integer> list;
 
     /**
      * Initialize your data structure here.

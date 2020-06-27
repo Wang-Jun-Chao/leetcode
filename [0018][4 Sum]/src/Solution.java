@@ -49,7 +49,7 @@ public class Solution {
         Arrays.sort(num);
 
         // 第一个加数
-        for (int i = 0; i < num.length - 3;) {
+        for (int i = 0; i < num.length - 3; ) {
             // 第四个加数
             for (int j = num.length - 1; j > i + 2; j--) {
                 // 第四个加数使用不重复
@@ -98,7 +98,7 @@ public class Solution {
             // 相同的数字作为处理只能使用一次
             do {
                 i++;
-            }while (i < num.length - 2 && num[i - 1] == num[i]);
+            } while (i < num.length - 2 && num[i - 1] == num[i]);
         }
         return result;
     }

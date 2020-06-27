@@ -62,7 +62,7 @@ public class Solution {
                     List<Integer> list = map.get(num);
                     result[0] = Math.min(list.get(0), list.get(1));
                     result[1] = Math.max(list.get(0), list.get(1));
-                } else if (gap != num){
+                } else if (gap != num) {
                     result[0] = Math.min(map.get(num).get(0), map.get(gap).get(0));
                     result[1] = Math.max(map.get(num).get(0), map.get(gap).get(0));
                 }

@@ -11,7 +11,7 @@ public class Main {
         Solution solution = new Solution();
         List<Integer> result = solution.grayCode(2);
 
-        for (Integer i: result) {
+        for (Integer i : result) {
             System.out.printf("%s\n", Integer.toBinaryString(i));
         }
     }

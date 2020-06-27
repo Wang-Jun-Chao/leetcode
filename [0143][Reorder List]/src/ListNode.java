@@ -5,7 +5,7 @@
  * Declaration: All Rights Reserved !!!
  */
 public class ListNode {
-    int      val;
+    int val;
     ListNode next;
 
     ListNode(int x) {

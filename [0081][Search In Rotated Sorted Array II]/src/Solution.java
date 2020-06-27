@@ -16,6 +16,7 @@ public class Solution {
      * "在旋转数组中搜索值"的后续，如果数组中的值允许重复
      * 写一个程序确定一个给定的值是否在数组中
      * </pre>
+     *
      * @param nums
      * @param target
      * @return
