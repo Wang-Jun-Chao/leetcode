@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce385e91-de99-4e13-9d76-ab57b6a23494" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/[0447][Number of Boomerangs]/[0447][Number of Boomerangs].iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[0447][Number of Boomerangs]/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[0447][Number of Boomerangs]/src/SolutionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[0453][Minimum Moves to Equal Array Elements]/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[0453][Minimum Moves to Equal Array Elements]/src/SolutionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -26,6 +26,7 @@
       </list>
     </option>
   </component>
+  <component name="GOROOT" path="" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -50,6 +51,9 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="add_unversioned_files" value="true" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="go.import.settings.migrated" value="true" />
@@ -58,7 +62,8 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.124843955" />
     <property name="project.structure.side.proportion" value="0.29248658" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="scala_project_settings_configurable.last_selected_tab_index" value="0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -72,7 +77,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.SolutionTest.test1 (3)">
+  <component name="RunManager" selected="JUnit.SolutionTest.test1 (4)">
     <configuration name="SolutionTest.test1 (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="[0441][Arranging Coins]" />
       <option name="PACKAGE_NAME" value="" />
@@ -106,6 +111,17 @@
         <option name="BSP.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SolutionTest.test1 (4)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="[0453][Minimum Moves to Equal Array Elements]" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SolutionTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SolutionTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="[0392][Is Subsequence]" />
       <option name="PACKAGE_NAME" value="" />
@@ -117,16 +133,6 @@
         <option name="BSP.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestSolution.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="[0299][Bulls and Cows]" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestSolution" />
-      <option name="METHOD_NAME" value="test1" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
@@ -135,19 +141,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.TestSolution.test1" />
       <item itemvalue="JUnit.SolutionTest.test1" />
       <item itemvalue="JUnit.SolutionTest.test1 (1)" />
       <item itemvalue="JUnit.SolutionTest.test1 (2)" />
       <item itemvalue="JUnit.SolutionTest.test1 (3)" />
+      <item itemvalue="JUnit.SolutionTest.test1 (4)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SolutionTest.test1 (4)" />
         <item itemvalue="JUnit.SolutionTest.test1 (3)" />
         <item itemvalue="JUnit.SolutionTest.test1 (2)" />
         <item itemvalue="JUnit.SolutionTest.test1 (1)" />
         <item itemvalue="JUnit.SolutionTest.test1" />
-        <item itemvalue="JUnit.TestSolution.test1" />
       </list>
     </recent_temporary>
   </component>
@@ -204,6 +210,9 @@
       <workItem from="1592905214169" duration="3698000" />
       <workItem from="1592917353315" duration="5231000" />
       <workItem from="1592990527553" duration="12346000" />
+      <workItem from="1593302168737" duration="873000" />
+      <workItem from="1593349299733" duration="565000" />
+      <workItem from="1593350828804" duration="1737000" />
     </task>
     <task id="LOCAL-00040" summary="commit">
       <created>1560552440693</created>
@@ -567,34 +576,34 @@
       <screen x="1440" y="0" width="1920" height="1080" />
     </state>
     <state x="1921" y="215" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/1440.0.1920.1080/0.0.1440.900@1440.0.1920.1080" timestamp="1592906253060" />
-    <state width="1400" height="192" key="GridCell.Tab.0.bottom" timestamp="1593262518088">
+    <state width="1400" height="242" key="GridCell.Tab.0.bottom" timestamp="1593353618522">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1400" height="192" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1593262518088" />
+    <state width="1400" height="242" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1593353618522" />
     <state width="1880" height="283" key="GridCell.Tab.0.bottom/1440.23.1920.1057/43.23.1397.877@1440.23.1920.1057" timestamp="1592967893816" />
     <state width="1359" height="229" key="GridCell.Tab.0.bottom/43.23.1397.877@43.23.1397.877" timestamp="1592951619608" />
     <state width="678" height="229" key="GridCell.Tab.0.bottom/44.23.1396.877@44.23.1396.877" timestamp="1592952531164" />
     <state width="1400" height="238" key="GridCell.Tab.0.bottom/52.23.1388.877@52.23.1388.877" timestamp="1593066870420" />
-    <state width="1400" height="192" key="GridCell.Tab.0.center" timestamp="1593262518087">
+    <state width="1400" height="242" key="GridCell.Tab.0.center" timestamp="1593353618521">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1400" height="192" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1593262518087" />
+    <state width="1400" height="242" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1593353618521" />
     <state width="1880" height="283" key="GridCell.Tab.0.center/1440.23.1920.1057/43.23.1397.877@1440.23.1920.1057" timestamp="1592967893816" />
     <state width="1359" height="229" key="GridCell.Tab.0.center/43.23.1397.877@43.23.1397.877" timestamp="1592951619608" />
     <state width="678" height="229" key="GridCell.Tab.0.center/44.23.1396.877@44.23.1396.877" timestamp="1592952531164" />
     <state width="1400" height="238" key="GridCell.Tab.0.center/52.23.1388.877@52.23.1388.877" timestamp="1593066870418" />
-    <state width="1400" height="192" key="GridCell.Tab.0.left" timestamp="1593262518087">
+    <state width="1400" height="242" key="GridCell.Tab.0.left" timestamp="1593353618520">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1400" height="192" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1593262518087" />
+    <state width="1400" height="242" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1593353618520" />
     <state width="1880" height="283" key="GridCell.Tab.0.left/1440.23.1920.1057/43.23.1397.877@1440.23.1920.1057" timestamp="1592967893816" />
     <state width="1359" height="229" key="GridCell.Tab.0.left/43.23.1397.877@43.23.1397.877" timestamp="1592951619607" />
     <state width="678" height="229" key="GridCell.Tab.0.left/44.23.1396.877@44.23.1396.877" timestamp="1592952531164" />
     <state width="1400" height="238" key="GridCell.Tab.0.left/52.23.1388.877@52.23.1388.877" timestamp="1593066870417" />
-    <state width="1400" height="192" key="GridCell.Tab.0.right" timestamp="1593262518088">
+    <state width="1400" height="242" key="GridCell.Tab.0.right" timestamp="1593353618522">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1400" height="192" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1593262518088" />
+    <state width="1400" height="242" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1593353618522" />
     <state width="1880" height="283" key="GridCell.Tab.0.right/1440.23.1920.1057/43.23.1397.877@1440.23.1920.1057" timestamp="1592967893816" />
     <state width="1359" height="229" key="GridCell.Tab.0.right/43.23.1397.877@43.23.1397.877" timestamp="1592951619608" />
     <state width="678" height="229" key="GridCell.Tab.0.right/44.23.1396.877@44.23.1396.877" timestamp="1592952531164" />
@@ -624,17 +633,19 @@
       <screen x="1440" y="0" width="1920" height="1080" />
     </state>
     <state x="1929" y="250" key="RollbackChangesDialog/1440.0.1920.1080/0.0.1440.900@1440.0.1920.1080" timestamp="1592905880584" />
-    <state x="1613" y="110" width="1062" height="722" key="SettingsEditor" timestamp="1592966837093">
-      <screen x="1440" y="23" width="1920" height="1057" />
+    <state x="129" y="74" width="900" height="722" key="SettingsEditor" timestamp="1593310819945">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state x="130" y="74" width="900" height="722" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1593306390484" />
+    <state x="129" y="74" key="SettingsEditor/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1593310819945" />
     <state x="1939" y="179" width="1089" height="722" key="SettingsEditor/1440.0.1920.1080/0.0.1440.900@1440.0.1920.1080" timestamp="1592907781087" />
     <state x="1613" y="110" key="SettingsEditor/1440.23.1920.1057/43.23.1397.877@1440.23.1920.1057" timestamp="1592966837093" />
     <state x="406" y="168" width="900" height="722" key="SettingsEditor/43.23.1397.877@43.23.1397.877" timestamp="1592950943054" />
     <state x="283" y="156" width="1062" height="722" key="SettingsEditor/44.23.1396.877@44.23.1396.877" timestamp="1592952550242" />
-    <state x="436" y="367" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1593161844244">
+    <state x="436" y="367" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1593353510457">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="436" y="367" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1440.900@0.0.1440.900" timestamp="1593161844244" />
+    <state x="436" y="367" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1440.900@0.0.1440.900" timestamp="1593353510457" />
     <state x="2021" y="441" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/1440.0.1920.1080/0.0.1440.900@1440.0.1920.1080" timestamp="1592905485465" />
     <state x="466" y="381" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/43.23.1397.877@43.23.1397.877" timestamp="1592951154917" />
     <state x="472" y="381" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/52.23.1388.877@52.23.1388.877" timestamp="1593065041874" />
@@ -642,17 +653,19 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="402" y="49" width="636" height="801" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1593262516580" />
-    <state x="0" y="127" key="new project wizard" timestamp="1593161264383">
+    <state x="108" y="124" width="1206" height="749" key="new project wizard" timestamp="1593349370421">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="0" y="127" key="new project wizard/0.0.1440.900@0.0.1440.900" timestamp="1593161264383" />
+    <state x="108" y="124" width="1206" height="749" key="new project wizard/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1593349370421" />
     <state x="1618" y="163" key="new project wizard/1440.0.1920.1080/0.0.1440.900@1440.0.1920.1080" timestamp="1592908078144" />
     <state x="1440" y="172" key="new project wizard/1440.23.1920.1057/43.23.1397.877@1440.23.1920.1057" timestamp="1592966881705" />
     <state x="44" y="147" key="new project wizard/44.23.1396.877@44.23.1396.877" timestamp="1592952740780" />
-    <state x="469" y="200" key="search.everywhere.popup" timestamp="1593162973634">
+    <state x="469" y="200" width="670" height="676" key="search.everywhere.popup" timestamp="1593351608990">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="469" y="200" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1593162973634" />
+    <state x="469" y="200" width="670" height="676" key="search.everywhere.popup/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1593351608990" />
     <state x="2065" y="258" key="search.everywhere.popup/1440.23.1920.1057/43.23.1397.877@1440.23.1920.1057" timestamp="1592965788430" />
     <state x="504" y="218" key="search.everywhere.popup/52.23.1388.877@52.23.1388.877" timestamp="1593065008140" />
   </component>
@@ -778,7 +791,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/[0429][N-ary Tree Level Order Traversal]/src/Main.java</url>
-          <line>38</line>
+          <line>37</line>
           <option name="timeStamp" value="70" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -828,12 +841,12 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/[0241][Different Ways to Add Parentheses]/src/Solution.java</url>
-          <line>75</line>
+          <line>76</line>
           <option name="timeStamp" value="94" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/[0241][Different Ways to Add Parentheses]/src/Solution.java</url>
-          <line>69</line>
+          <line>70</line>
           <option name="timeStamp" value="95" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -844,7 +857,7 @@
         <line-breakpoint enabled="true" type="java-line">
           <condition expression="i == 3" language="JAVA" />
           <url>file://$PROJECT_DIR$/[0207][Course Schedule]/src/Solution.java</url>
-          <line>64</line>
+          <line>60</line>
           <option name="timeStamp" value="102" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -854,7 +867,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/[0475][Heaters]/src/Solution.java</url>
-          <line>46</line>
+          <line>47</line>
           <option name="timeStamp" value="104" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -874,12 +887,12 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/[0392][Is Subsequence]/src/Solution.java</url>
-          <line>66</line>
+          <line>65</line>
           <option name="timeStamp" value="109" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/[0441][Arranging Coins]/src/Solution.java</url>
-          <line>67</line>
+          <line>66</line>
           <option name="timeStamp" value="111" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
