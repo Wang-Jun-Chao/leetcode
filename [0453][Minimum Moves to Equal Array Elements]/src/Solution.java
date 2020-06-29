@@ -21,6 +21,10 @@ public class Solution {
      */
     public int minMoves(int[] nums) {
 
+        if (nums == null) {
+            return 0;
+        }
+
         int sum = 0;
         int min = Integer.MAX_VALUE;
 
