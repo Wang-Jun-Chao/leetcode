@@ -2,13 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce385e91-de99-4e13-9d76-ab57b6a23494" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/[0507][Perfect Number]/[0507][Perfect Number].iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[0507][Perfect Number]/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[0507][Perfect Number]/src/SolutionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[0509][Fibonacci Number]/[0509][Fibonacci Number].iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[0509][Fibonacci Number]/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[0509][Fibonacci Number]/src/SolutionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[0520][Detect Capital]/[0520][Detect Capital].iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[0520][Detect Capital]/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[0521][Longest Uncommon Subsequence I]/[0521][Longest Uncommon Subsequence I].iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[0521][Longest Uncommon Subsequence I]/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[0523][K Diff Pairs In An Array]/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[0523][K Diff Pairs In An Array]/src/SolutionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[0530][Minimum Absolute Difference in BST]/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[0530][Minimum Absolute Difference in BST]/src/SolutionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[0530][Minimum Absolute Difference in BST]/src/TreeNode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0400][Nth Digit]/[0400][Nth Digit].iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0453][Minimum Moves to Equal Array Elements]/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/[0453][Minimum Moves to Equal Array Elements]/src/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0506][Relative Ranks]/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/[0506][Relative Ranks]/src/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[0506][Relative Ranks]/src/SolutionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/[0506][Relative Ranks]/src/SolutionTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +35,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
   </component>
@@ -53,9 +64,12 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="add_unversioned_files" value="true" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="configurable.Global.GOPATH.is.expanded" value="true" />
     <property name="configurable.Module.GOPATH.is.expanded" value="false" />
     <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="create.test.in.the.same.root" value="true" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="go.import.settings.migrated" value="true" />
@@ -68,10 +82,16 @@
     <property name="settings.editor.selected.configurable" value="leetcode.id" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -79,56 +99,56 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.SolutionTest.test1 (5)">
-    <configuration name="SolutionTest.test1 (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="[0441][Arranging Coins]" />
+  <component name="RunManager" selected="JUnit.SolutionTest.findPairs">
+    <configuration name="SolutionTest.checkPerfectNumber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="[0507][Perfect Number]" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="SolutionTest" />
-      <option name="METHOD_NAME" value="test1" />
+      <option name="METHOD_NAME" value="checkPerfectNumber" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
         <option name="BSP.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SolutionTest.test1 (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="[0443][String Compression]" />
+    <configuration name="SolutionTest.fib" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="[0509][Fibonacci Number]" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="SolutionTest" />
-      <option name="METHOD_NAME" value="test1" />
+      <option name="METHOD_NAME" value="fib" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
         <option name="BSP.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SolutionTest.test1 (3)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="[0447][Number of Boomerangs]" />
+    <configuration name="SolutionTest.findPairs" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="[0523][K Diff Pairs In An Array]" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="SolutionTest" />
-      <option name="METHOD_NAME" value="test1" />
+      <option name="METHOD_NAME" value="findPairs" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
         <option name="BSP.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SolutionTest.test1 (4)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="[0453][Minimum Moves to Equal Array Elements]" />
+    <configuration name="SolutionTest.getMinimumDifference" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="[0530][Minimum Absolute Difference in BST]" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="SolutionTest" />
-      <option name="METHOD_NAME" value="test1" />
+      <option name="METHOD_NAME" value="getMinimumDifference" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
         <option name="BSP.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SolutionTest.test1 (5)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="[0506][Relative Ranks]" />
+    <configuration name="SolutionTest.getMinimumDifference2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="[0530][Minimum Absolute Difference in BST]" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="SolutionTest" />
-      <option name="METHOD_NAME" value="test1" />
+      <option name="METHOD_NAME" value="getMinimumDifference2" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -143,19 +163,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.SolutionTest.test1 (1)" />
-      <item itemvalue="JUnit.SolutionTest.test1 (2)" />
-      <item itemvalue="JUnit.SolutionTest.test1 (3)" />
-      <item itemvalue="JUnit.SolutionTest.test1 (4)" />
-      <item itemvalue="JUnit.SolutionTest.test1 (5)" />
+      <item itemvalue="JUnit.SolutionTest.checkPerfectNumber" />
+      <item itemvalue="JUnit.SolutionTest.fib" />
+      <item itemvalue="JUnit.SolutionTest.getMinimumDifference" />
+      <item itemvalue="JUnit.SolutionTest.getMinimumDifference2" />
+      <item itemvalue="JUnit.SolutionTest.findPairs" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.SolutionTest.test1 (5)" />
-        <item itemvalue="JUnit.SolutionTest.test1 (4)" />
-        <item itemvalue="JUnit.SolutionTest.test1 (3)" />
-        <item itemvalue="JUnit.SolutionTest.test1 (2)" />
-        <item itemvalue="JUnit.SolutionTest.test1 (1)" />
+        <item itemvalue="JUnit.SolutionTest.findPairs" />
+        <item itemvalue="JUnit.SolutionTest.getMinimumDifference2" />
+        <item itemvalue="JUnit.SolutionTest.getMinimumDifference" />
+        <item itemvalue="JUnit.SolutionTest.fib" />
+        <item itemvalue="JUnit.SolutionTest.checkPerfectNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -215,7 +235,8 @@
       <workItem from="1593302168737" duration="873000" />
       <workItem from="1593349299733" duration="565000" />
       <workItem from="1593350828804" duration="1737000" />
-      <workItem from="1593386208975" duration="3631000" />
+      <workItem from="1593386208975" duration="9188000" />
+      <workItem from="1593474505742" duration="2995000" />
     </task>
     <task id="LOCAL-00040" summary="commit">
       <created>1560552440693</created>
@@ -571,10 +592,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="100" y="100" width="1240" height="700" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1593127395403">
+    <state x="208" y="31" key="#Project_Structure" timestamp="1593390815779">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="100" y="100" width="1240" height="700" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1440.900@0.0.1440.900" timestamp="1593127395403" />
+    <state x="208" y="31" key="#Project_Structure/0.0.1440.900@0.0.1440.900" timestamp="1593390815779" />
+    <state x="100" y="100" width="1240" height="700" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1593391139304">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="100" y="100" width="1240" height="700" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1440.900@0.0.1440.900" timestamp="1593391139304" />
     <state x="533" y="165" key="#com.intellij.ide.util.MemberChooser" timestamp="1593387493079">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -583,54 +608,74 @@
       <screen x="1440" y="0" width="1920" height="1080" />
     </state>
     <state x="1921" y="215" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/1440.0.1920.1080/0.0.1440.900@1440.0.1920.1080" timestamp="1592906253060" />
-    <state width="1400" height="242" key="GridCell.Tab.0.bottom" timestamp="1593389546969">
+    <state width="1400" height="438" key="GridCell.Tab.0.bottom" timestamp="1593479332237">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1400" height="242" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1593389546969" />
+    <state width="1400" height="438" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1593479332237" />
+    <state width="1400" height="273" key="GridCell.Tab.0.bottom/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1593406539423" />
     <state width="1880" height="283" key="GridCell.Tab.0.bottom/1440.23.1920.1057/43.23.1397.877@1440.23.1920.1057" timestamp="1592967893816" />
+    <state width="1400" height="273" key="GridCell.Tab.0.bottom/1440.23.1920.1057/44.23.1396.877@44.23.1396.877" timestamp="1593416008024" />
+    <state width="1400" height="251" key="GridCell.Tab.0.bottom/41.23.1399.877@41.23.1399.877" timestamp="1593478824923" />
     <state width="1359" height="229" key="GridCell.Tab.0.bottom/43.23.1397.877@43.23.1397.877" timestamp="1592951619608" />
     <state width="678" height="229" key="GridCell.Tab.0.bottom/44.23.1396.877@44.23.1396.877" timestamp="1592952531164" />
     <state width="1400" height="238" key="GridCell.Tab.0.bottom/52.23.1388.877@52.23.1388.877" timestamp="1593066870420" />
-    <state width="1400" height="242" key="GridCell.Tab.0.center" timestamp="1593389546968">
+    <state width="1400" height="438" key="GridCell.Tab.0.center" timestamp="1593479332236">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1400" height="242" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1593389546968" />
+    <state width="1400" height="438" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1593479332236" />
+    <state width="1400" height="273" key="GridCell.Tab.0.center/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1593406539421" />
     <state width="1880" height="283" key="GridCell.Tab.0.center/1440.23.1920.1057/43.23.1397.877@1440.23.1920.1057" timestamp="1592967893816" />
+    <state width="1400" height="273" key="GridCell.Tab.0.center/1440.23.1920.1057/44.23.1396.877@44.23.1396.877" timestamp="1593416008023" />
+    <state width="1400" height="251" key="GridCell.Tab.0.center/41.23.1399.877@41.23.1399.877" timestamp="1593478824921" />
     <state width="1359" height="229" key="GridCell.Tab.0.center/43.23.1397.877@43.23.1397.877" timestamp="1592951619608" />
     <state width="678" height="229" key="GridCell.Tab.0.center/44.23.1396.877@44.23.1396.877" timestamp="1592952531164" />
     <state width="1400" height="238" key="GridCell.Tab.0.center/52.23.1388.877@52.23.1388.877" timestamp="1593066870418" />
-    <state width="1400" height="242" key="GridCell.Tab.0.left" timestamp="1593389546967">
+    <state width="1400" height="438" key="GridCell.Tab.0.left" timestamp="1593479332235">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1400" height="242" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1593389546967" />
+    <state width="1400" height="438" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1593479332235" />
+    <state width="1400" height="273" key="GridCell.Tab.0.left/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1593406539420" />
     <state width="1880" height="283" key="GridCell.Tab.0.left/1440.23.1920.1057/43.23.1397.877@1440.23.1920.1057" timestamp="1592967893816" />
+    <state width="1400" height="273" key="GridCell.Tab.0.left/1440.23.1920.1057/44.23.1396.877@44.23.1396.877" timestamp="1593416008022" />
+    <state width="1400" height="251" key="GridCell.Tab.0.left/41.23.1399.877@41.23.1399.877" timestamp="1593478824920" />
     <state width="1359" height="229" key="GridCell.Tab.0.left/43.23.1397.877@43.23.1397.877" timestamp="1592951619607" />
     <state width="678" height="229" key="GridCell.Tab.0.left/44.23.1396.877@44.23.1396.877" timestamp="1592952531164" />
     <state width="1400" height="238" key="GridCell.Tab.0.left/52.23.1388.877@52.23.1388.877" timestamp="1593066870417" />
-    <state width="1400" height="242" key="GridCell.Tab.0.right" timestamp="1593389546969">
+    <state width="1400" height="438" key="GridCell.Tab.0.right" timestamp="1593479332237">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1400" height="242" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1593389546969" />
+    <state width="1400" height="438" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1593479332237" />
+    <state width="1400" height="273" key="GridCell.Tab.0.right/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1593406539422" />
     <state width="1880" height="283" key="GridCell.Tab.0.right/1440.23.1920.1057/43.23.1397.877@1440.23.1920.1057" timestamp="1592967893816" />
+    <state width="1400" height="273" key="GridCell.Tab.0.right/1440.23.1920.1057/44.23.1396.877@44.23.1396.877" timestamp="1593416008023" />
+    <state width="1400" height="251" key="GridCell.Tab.0.right/41.23.1399.877@41.23.1399.877" timestamp="1593478824922" />
     <state width="1359" height="229" key="GridCell.Tab.0.right/43.23.1397.877@43.23.1397.877" timestamp="1592951619608" />
     <state width="678" height="229" key="GridCell.Tab.0.right/44.23.1396.877@44.23.1396.877" timestamp="1592952531164" />
     <state width="1400" height="238" key="GridCell.Tab.0.right/52.23.1388.877@52.23.1388.877" timestamp="1593066870419" />
-    <state width="1400" height="192" key="GridCell.Tab.1.bottom" timestamp="1593262518090">
+    <state width="1400" height="438" key="GridCell.Tab.1.bottom" timestamp="1593479332460">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1400" height="192" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1593262518090" />
-    <state width="1400" height="192" key="GridCell.Tab.1.center" timestamp="1593262518089">
+    <state width="1400" height="438" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1593479332460" />
+    <state width="1400" height="273" key="GridCell.Tab.1.bottom/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1593406535659" />
+    <state width="1400" height="273" key="GridCell.Tab.1.bottom/1440.23.1920.1057/44.23.1396.877@44.23.1396.877" timestamp="1593416008027" />
+    <state width="1400" height="438" key="GridCell.Tab.1.center" timestamp="1593479332459">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1400" height="192" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1593262518089" />
-    <state width="1400" height="192" key="GridCell.Tab.1.left" timestamp="1593262518088">
+    <state width="1400" height="438" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1593479332459" />
+    <state width="1400" height="273" key="GridCell.Tab.1.center/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1593406535657" />
+    <state width="1400" height="273" key="GridCell.Tab.1.center/1440.23.1920.1057/44.23.1396.877@44.23.1396.877" timestamp="1593416008026" />
+    <state width="1400" height="438" key="GridCell.Tab.1.left" timestamp="1593479332459">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1400" height="192" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1593262518088" />
-    <state width="1400" height="192" key="GridCell.Tab.1.right" timestamp="1593262518090">
+    <state width="1400" height="438" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1593479332459" />
+    <state width="1400" height="273" key="GridCell.Tab.1.left/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1593406535656" />
+    <state width="1400" height="273" key="GridCell.Tab.1.left/1440.23.1920.1057/44.23.1396.877@44.23.1396.877" timestamp="1593416008025" />
+    <state width="1400" height="438" key="GridCell.Tab.1.right" timestamp="1593479332460">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1400" height="192" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1593262518090" />
+    <state width="1400" height="438" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1593479332460" />
+    <state width="1400" height="273" key="GridCell.Tab.1.right/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1593406535658" />
+    <state width="1400" height="273" key="GridCell.Tab.1.right/1440.23.1920.1057/44.23.1396.877@44.23.1396.877" timestamp="1593416008027" />
     <state x="293" y="193" width="824" height="504" key="IDE.errors.dialog" timestamp="1593161435798">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -641,39 +686,45 @@
     </state>
     <state x="367" y="208" key="RollbackChangesDialog/0.0.1440.900@0.0.1440.900" timestamp="1593386374017" />
     <state x="1929" y="250" key="RollbackChangesDialog/1440.0.1920.1080/0.0.1440.900@1440.0.1920.1080" timestamp="1592905880584" />
-    <state x="130" y="74" width="900" height="722" key="SettingsEditor" timestamp="1593387219153">
+    <state x="130" y="74" width="900" height="722" key="SettingsEditor" timestamp="1593478258888">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="130" y="74" width="900" height="722" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1593387219153" />
+    <state x="130" y="74" width="900" height="722" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1593478258888" />
     <state x="129" y="74" key="SettingsEditor/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1593310819945" />
     <state x="1939" y="179" width="1089" height="722" key="SettingsEditor/1440.0.1920.1080/0.0.1440.900@1440.0.1920.1080" timestamp="1592907781087" />
     <state x="1613" y="110" key="SettingsEditor/1440.23.1920.1057/43.23.1397.877@1440.23.1920.1057" timestamp="1592966837093" />
     <state x="406" y="168" width="900" height="722" key="SettingsEditor/43.23.1397.877@43.23.1397.877" timestamp="1592950943054" />
     <state x="283" y="156" width="1062" height="722" key="SettingsEditor/44.23.1396.877@44.23.1396.877" timestamp="1592952550242" />
-    <state x="436" y="367" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1593388017550">
+    <state x="436" y="367" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1593478581632">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="436" y="367" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1440.900@0.0.1440.900" timestamp="1593388017550" />
+    <state x="436" y="367" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1440.900@0.0.1440.900" timestamp="1593478581632" />
+    <state x="436" y="367" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1593401615816" />
     <state x="2021" y="441" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/1440.0.1920.1080/0.0.1440.900@1440.0.1920.1080" timestamp="1592905485465" />
     <state x="466" y="381" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/43.23.1397.877@43.23.1397.877" timestamp="1592951154917" />
     <state x="472" y="381" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/52.23.1388.877@52.23.1388.877" timestamp="1593065041874" />
+    <state x="499" y="267" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1593478577912">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="499" y="267" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1440.900@0.0.1440.900" timestamp="1593478577912" />
+    <state x="499" y="267" key="com.intellij.testIntegration.createTest.CreateTestDialog/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1593401608213" />
     <state x="402" y="49" width="636" height="801" key="find.popup" timestamp="1593262516580">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="402" y="49" width="636" height="801" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1593262516580" />
-    <state x="0" y="127" width="1206" height="749" key="new project wizard" timestamp="1593387266312">
+    <state x="241" y="113" width="1147" height="750" key="new project wizard" timestamp="1593478326861">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="0" y="127" key="new project wizard/0.0.1440.900@0.0.1440.900" timestamp="1593387266312" />
-    <state x="108" y="124" width="1206" height="749" key="new project wizard/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1593349370421" />
+    <state x="241" y="113" width="1147" height="750" key="new project wizard/0.0.1440.900@0.0.1440.900" timestamp="1593478326861" />
+    <state x="108" y="124" width="1206" height="749" key="new project wizard/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1593396535492" />
     <state x="1618" y="163" key="new project wizard/1440.0.1920.1080/0.0.1440.900@1440.0.1920.1080" timestamp="1592908078144" />
     <state x="1440" y="172" key="new project wizard/1440.23.1920.1057/43.23.1397.877@1440.23.1920.1057" timestamp="1592966881705" />
     <state x="108" y="144" key="new project wizard/41.23.1399.877@41.23.1399.877" timestamp="1593387189945" />
     <state x="44" y="147" key="new project wizard/44.23.1396.877@44.23.1396.877" timestamp="1592952740780" />
-    <state x="469" y="200" width="670" height="676" key="search.everywhere.popup" timestamp="1593351608990">
+    <state x="469" y="200" width="670" height="676" key="search.everywhere.popup" timestamp="1593478444079">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="469" y="200" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1593162973634" />
+    <state x="469" y="200" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1593478444079" />
     <state x="469" y="200" width="670" height="676" key="search.everywhere.popup/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1593351608990" />
     <state x="2065" y="258" key="search.everywhere.popup/1440.23.1920.1057/43.23.1397.877@1440.23.1920.1057" timestamp="1592965788430" />
     <state x="504" y="218" key="search.everywhere.popup/52.23.1388.877@52.23.1388.877" timestamp="1593065008140" />
@@ -919,6 +970,16 @@
           <line>65</line>
           <option name="timeStamp" value="120" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/[0507][Perfect Number]/src/Solution.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="121" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/[0523][K Diff Pairs In An Array]/src/Solution.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="124" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/[081][Search In Rotated Sorted Array II]/src/Solution2.java</url>
           <line>17</line>
@@ -1023,82 +1084,5 @@
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
     </expressions>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>Bundled Protobuf Distribution</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.29248658" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.7</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.29248658" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>[0419][Battleships in a Board]</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.29248658" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>R User Library</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.14285713" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>
