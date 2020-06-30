@@ -35,7 +35,6 @@ public class Solution {
             }
             root = s.pop();
 
-            System.out.println(root.val);
             if (first) {
                 first = false;
             } else {
