@@ -19,8 +19,7 @@ public class Solution {
      * @param root
      * @return
      */
-    public int getMinimumDifference(TreeNode root) {
-
+    public int minDiffInBST(TreeNode root) {
         if (root == null) {
             return 0;
         }
@@ -48,45 +47,4 @@ public class Solution {
         return min;
     }
 
-    public int getMinimumDifference2(TreeNode root) {
-
-        if (root == null) {
-            return 0;
-        }
-
-        List<Integer> list = new ArrayList<>();
-
-        Deque<TreeNode> queue = new LinkedList<>();
-        queue.add(root);
-        while (!queue.isEmpty()) {
-            TreeNode node = queue.poll();
-            list.add(node.val);
-            if (node.right != null) {
-                queue.addFirst(node.right);
-            }
-            if (node.left != null) {
-                queue.addFirst(node.left);
-            }
-        }
-
-
-        if (list.size() == 1) {
-            return list.get(0);
-        }
-
-        list.sort(new Comparator<Integer>() {
-            @Override
-            public int compare(Integer o1, Integer o2) {
-                return o1 - o2;
-            }
-        });
-
-        int min = Integer.MAX_VALUE;
-
-        for (int i = 1; i < list.size(); i++) {
-            min = Math.min(min, Math.abs(list.get(i - 1) - list.get(i)));
-        }
-
-        return min;
-    }
 }

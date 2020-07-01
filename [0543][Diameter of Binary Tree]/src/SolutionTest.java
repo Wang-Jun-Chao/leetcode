@@ -1,3 +1,5 @@
+import org.junit.Assert;
+
 import static org.junit.Assert.*;
 
 /**
@@ -9,4 +11,15 @@ import static org.junit.Assert.*;
  **/
 public class SolutionTest {
 
+    @org.junit.Test
+    public void diameterOfBinaryTree() {
+        Solution s = new Solution();
+        TreeNode root = new TreeNode(1);
+        root.left = new TreeNode(2);
+        root.right = new TreeNode(3);
+        root.left.left = new TreeNode(4);
+        root.left.right = new TreeNode(5);
+
+        Assert.assertEquals(3, s.diameterOfBinaryTree(root));
+    }
 }

@@ -1,4 +1,4 @@
-import static org.junit.Assert.*;
+import org.junit.Assert;
 
 /**
  * Author: 王俊超
@@ -9,4 +9,16 @@ import static org.junit.Assert.*;
  **/
 public class SolutionTest {
 
+    @org.junit.Test
+    public void reverseStr() {
+        Solution s = new Solution();
+        Object[][] data = {
+                {"abcdefg", 2, "bacdfeg"},
+                {"abcdefgh", 2, "bacdfegh"},
+        };
+
+        for (Object[] d : data) {
+            Assert.assertEquals(d[2], s.reverseStr((String) d[0], (Integer) d[1]));
+        }
+    }
 }
