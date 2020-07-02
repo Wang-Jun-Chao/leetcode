@@ -2,20 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce385e91-de99-4e13-9d76-ab57b6a23494" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/[0538][Convert BST to Greater Tree]/[0538][Convert BST to Greater Tree].iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[0538][Convert BST to Greater Tree]/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[0538][Convert BST to Greater Tree]/src/SolutionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[0538][Convert BST to Greater Tree]/src/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[0541][Reverse String II]/[0541][Reverse String II].iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[0541][Reverse String II]/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[0541][Reverse String II]/src/SolutionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[0543][Diameter of Binary Tree]/[0543][Diameter of Binary Tree].iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[0543][Diameter of Binary Tree]/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[0543][Diameter of Binary Tree]/src/SolutionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[0543][Diameter of Binary Tree]/src/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[0783][Minimum Distance Between BST Nodes]/[0783][Minimum Distance Between BST Nodes].iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[0783][Minimum Distance Between BST Nodes]/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[0783][Minimum Distance Between BST Nodes]/src/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[0551][Student Attendance Record I]/[0551][Student Attendance Record I].iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[0551][Student Attendance Record I]/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[0551][Student Attendance Record I]/src/SolutionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[0559][Maximum Depth of N-ary Tree]/[0559][Maximum Depth of N-ary Tree].iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[0559][Maximum Depth of N-ary Tree]/src/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[0559][Maximum Depth of N-ary Tree]/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[0559][Maximum Depth of N-ary Tree]/src/SolutionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[0563][Binary Tree Tilt]/[0563][Binary Tree Tilt].iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[0563][Binary Tree Tilt]/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[0563][Binary Tree Tilt]/src/SolutionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[0563][Binary Tree Tilt]/src/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[0566][Reshape the Matrix]/[0566][Reshape the Matrix].iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[0566][Reshape the Matrix]/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[0566][Reshape the Matrix]/src/SolutionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[0572][Subtree of Another Tree]/[0572][Subtree of Another Tree].iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[0572][Subtree of Another Tree]/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[0572][Subtree of Another Tree]/src/SolutionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[0572][Subtree of Another Tree]/src/TreeNode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -84,70 +88,69 @@
     <key name="CreateTestDialog.RecentsKey">
       <recent name="" />
     </key>
-    <key name="CreateClassDialog.RecentsKey">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/[0463][Island Perimeter]/src" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
     </key>
-    <key name="CreateTestDialog.Recents.Supers">
+    <key name="CreateClassDialog.RecentsKey">
       <recent name="" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/[0463][Island Perimeter]/src" />
-      <recent name="$PROJECT_DIR$" />
-    </key>
   </component>
-  <component name="RunManager" selected="JUnit.SolutionTest.diameterOfBinaryTree">
-    <configuration name="SolutionTest.convertBST" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="[0538][Convert BST to Greater Tree]" />
+  <component name="RunManager" selected="JUnit.SolutionTest.isSubtree2">
+    <configuration name="SolutionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="[0563][Binary Tree Tilt]" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="SolutionTest" />
-      <option name="METHOD_NAME" value="convertBST" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SolutionTest.checkRecord" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="[0551][Student Attendance Record I]" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SolutionTest" />
+      <option name="METHOD_NAME" value="checkRecord" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
         <option name="BSP.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SolutionTest.diameterOfBinaryTree" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="[0543][Diameter of Binary Tree]" />
+    <configuration name="SolutionTest.isSubtree" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="[0572][Subtree of Another Tree]" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="SolutionTest" />
-      <option name="METHOD_NAME" value="diameterOfBinaryTree" />
+      <option name="METHOD_NAME" value="isSubtree" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
         <option name="BSP.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SolutionTest.findPairs" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="[0523][K Diff Pairs In An Array]" />
+    <configuration name="SolutionTest.isSubtree2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="[0572][Subtree of Another Tree]" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="SolutionTest" />
-      <option name="METHOD_NAME" value="findPairs" />
+      <option name="METHOD_NAME" value="isSubtree2" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
         <option name="BSP.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SolutionTest.getMinimumDifference2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="[0530][Minimum Absolute Difference in BST]" />
+    <configuration name="SolutionTest.matrixReshape" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="[0566][Reshape the Matrix]" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="SolutionTest" />
-      <option name="METHOD_NAME" value="getMinimumDifference2" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-        <option name="BSP.BeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SolutionTest.reverseStr" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="[0541][Reverse String II]" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="SolutionTest" />
-      <option name="METHOD_NAME" value="reverseStr" />
+      <option name="METHOD_NAME" value="matrixReshape" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -162,19 +165,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.SolutionTest.getMinimumDifference2" />
-      <item itemvalue="JUnit.SolutionTest.findPairs" />
-      <item itemvalue="JUnit.SolutionTest.convertBST" />
-      <item itemvalue="JUnit.SolutionTest.reverseStr" />
-      <item itemvalue="JUnit.SolutionTest.diameterOfBinaryTree" />
+      <item itemvalue="JUnit.SolutionTest.checkRecord" />
+      <item itemvalue="JUnit.SolutionTest" />
+      <item itemvalue="JUnit.SolutionTest.matrixReshape" />
+      <item itemvalue="JUnit.SolutionTest.isSubtree" />
+      <item itemvalue="JUnit.SolutionTest.isSubtree2" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.SolutionTest.diameterOfBinaryTree" />
-        <item itemvalue="JUnit.SolutionTest.reverseStr" />
-        <item itemvalue="JUnit.SolutionTest.convertBST" />
-        <item itemvalue="JUnit.SolutionTest.findPairs" />
-        <item itemvalue="JUnit.SolutionTest.getMinimumDifference2" />
+        <item itemvalue="JUnit.SolutionTest.isSubtree2" />
+        <item itemvalue="JUnit.SolutionTest.isSubtree" />
+        <item itemvalue="JUnit.SolutionTest.matrixReshape" />
+        <item itemvalue="JUnit.SolutionTest" />
+        <item itemvalue="JUnit.SolutionTest.checkRecord" />
       </list>
     </recent_temporary>
   </component>
@@ -238,7 +241,8 @@
       <workItem from="1593474505742" duration="5061000" />
       <workItem from="1593492568375" duration="770000" />
       <workItem from="1593564530445" duration="24000" />
-      <workItem from="1593564572043" duration="1968000" />
+      <workItem from="1593564572043" duration="2267000" />
+      <workItem from="1593647589537" duration="4805000" />
     </task>
     <task id="LOCAL-00040" summary="commit">
       <created>1560552440693</created>
@@ -598,10 +602,11 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="208" y="31" key="#Project_Structure/0.0.1440.900@0.0.1440.900" timestamp="1593390815779" />
-    <state x="100" y="100" width="1240" height="700" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1593391139304">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="100" y="100" width="1240" height="700" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1593651681333">
+      <screen x="43" y="23" width="1397" height="877" />
     </state>
     <state x="100" y="100" width="1240" height="700" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1440.900@0.0.1440.900" timestamp="1593391139304" />
+    <state x="100" y="100" width="1240" height="700" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/43.23.1397.877@43.23.1397.877" timestamp="1593651681333" />
     <state x="533" y="165" key="#com.intellij.ide.util.MemberChooser" timestamp="1593387493079">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -610,12 +615,13 @@
       <screen x="1440" y="0" width="1920" height="1080" />
     </state>
     <state x="1921" y="215" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/1440.0.1920.1080/0.0.1440.900@1440.0.1920.1080" timestamp="1592906253060" />
-    <state width="1397" height="369" key="GridCell.Tab.0.bottom" timestamp="1593566336646">
+    <state width="1397" height="324" key="GridCell.Tab.0.bottom" timestamp="1593652747283">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1397" height="369" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1593566336646" />
+    <state width="1397" height="324" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1593652747283" />
     <state width="1400" height="273" key="GridCell.Tab.0.bottom/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1593406539423" />
     <state width="1880" height="293" key="GridCell.Tab.0.bottom/1440.0.1920.1080/0.0.1440.900@1440.0.1920.1080" timestamp="1593493108980" />
+    <state width="1397" height="202" key="GridCell.Tab.0.bottom/1440.23.1920.1057/0.0.1440.900@0.0.1440.900" timestamp="1593569123893" />
     <state width="1880" height="293" key="GridCell.Tab.0.bottom/1440.23.1920.1057/43.23.1397.877@1440.23.1920.1057" timestamp="1593484682468" />
     <state width="1880" height="293" key="GridCell.Tab.0.bottom/1440.23.1920.1057/44.23.1396.877@1440.23.1920.1057" timestamp="1593498081570" />
     <state width="1400" height="273" key="GridCell.Tab.0.bottom/1440.23.1920.1057/44.23.1396.877@44.23.1396.877" timestamp="1593416008024" />
@@ -623,12 +629,13 @@
     <state width="1359" height="229" key="GridCell.Tab.0.bottom/43.23.1397.877@43.23.1397.877" timestamp="1592951619608" />
     <state width="678" height="229" key="GridCell.Tab.0.bottom/44.23.1396.877@44.23.1396.877" timestamp="1592952531164" />
     <state width="1400" height="238" key="GridCell.Tab.0.bottom/52.23.1388.877@52.23.1388.877" timestamp="1593066870420" />
-    <state width="1397" height="369" key="GridCell.Tab.0.center" timestamp="1593566336645">
+    <state width="1397" height="324" key="GridCell.Tab.0.center" timestamp="1593652747282">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1397" height="369" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1593566336645" />
+    <state width="1397" height="324" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1593652747282" />
     <state width="1400" height="273" key="GridCell.Tab.0.center/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1593406539421" />
     <state width="1880" height="293" key="GridCell.Tab.0.center/1440.0.1920.1080/0.0.1440.900@1440.0.1920.1080" timestamp="1593493108978" />
+    <state width="1397" height="202" key="GridCell.Tab.0.center/1440.23.1920.1057/0.0.1440.900@0.0.1440.900" timestamp="1593569123892" />
     <state width="1880" height="293" key="GridCell.Tab.0.center/1440.23.1920.1057/43.23.1397.877@1440.23.1920.1057" timestamp="1593484682467" />
     <state width="1880" height="293" key="GridCell.Tab.0.center/1440.23.1920.1057/44.23.1396.877@1440.23.1920.1057" timestamp="1593498081523" />
     <state width="1400" height="273" key="GridCell.Tab.0.center/1440.23.1920.1057/44.23.1396.877@44.23.1396.877" timestamp="1593416008023" />
@@ -636,12 +643,13 @@
     <state width="1359" height="229" key="GridCell.Tab.0.center/43.23.1397.877@43.23.1397.877" timestamp="1592951619608" />
     <state width="678" height="229" key="GridCell.Tab.0.center/44.23.1396.877@44.23.1396.877" timestamp="1592952531164" />
     <state width="1400" height="238" key="GridCell.Tab.0.center/52.23.1388.877@52.23.1388.877" timestamp="1593066870418" />
-    <state width="1397" height="369" key="GridCell.Tab.0.left" timestamp="1593566336644">
+    <state width="1397" height="324" key="GridCell.Tab.0.left" timestamp="1593652747282">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1397" height="369" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1593566336644" />
+    <state width="1397" height="324" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1593652747282" />
     <state width="1400" height="273" key="GridCell.Tab.0.left/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1593406539420" />
     <state width="1880" height="293" key="GridCell.Tab.0.left/1440.0.1920.1080/0.0.1440.900@1440.0.1920.1080" timestamp="1593493108977" />
+    <state width="1397" height="202" key="GridCell.Tab.0.left/1440.23.1920.1057/0.0.1440.900@0.0.1440.900" timestamp="1593569123891" />
     <state width="1880" height="293" key="GridCell.Tab.0.left/1440.23.1920.1057/43.23.1397.877@1440.23.1920.1057" timestamp="1593484682466" />
     <state width="1880" height="293" key="GridCell.Tab.0.left/1440.23.1920.1057/44.23.1396.877@1440.23.1920.1057" timestamp="1593498081511" />
     <state width="1400" height="273" key="GridCell.Tab.0.left/1440.23.1920.1057/44.23.1396.877@44.23.1396.877" timestamp="1593416008022" />
@@ -649,12 +657,13 @@
     <state width="1359" height="229" key="GridCell.Tab.0.left/43.23.1397.877@43.23.1397.877" timestamp="1592951619607" />
     <state width="678" height="229" key="GridCell.Tab.0.left/44.23.1396.877@44.23.1396.877" timestamp="1592952531164" />
     <state width="1400" height="238" key="GridCell.Tab.0.left/52.23.1388.877@52.23.1388.877" timestamp="1593066870417" />
-    <state width="1397" height="369" key="GridCell.Tab.0.right" timestamp="1593566336646">
+    <state width="1397" height="324" key="GridCell.Tab.0.right" timestamp="1593652747283">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1397" height="369" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1593566336646" />
+    <state width="1397" height="324" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1593652747283" />
     <state width="1400" height="273" key="GridCell.Tab.0.right/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1593406539422" />
     <state width="1880" height="293" key="GridCell.Tab.0.right/1440.0.1920.1080/0.0.1440.900@1440.0.1920.1080" timestamp="1593493108979" />
+    <state width="1397" height="202" key="GridCell.Tab.0.right/1440.23.1920.1057/0.0.1440.900@0.0.1440.900" timestamp="1593569123893" />
     <state width="1880" height="293" key="GridCell.Tab.0.right/1440.23.1920.1057/43.23.1397.877@1440.23.1920.1057" timestamp="1593484682468" />
     <state width="1880" height="293" key="GridCell.Tab.0.right/1440.23.1920.1057/44.23.1396.877@1440.23.1920.1057" timestamp="1593498081565" />
     <state width="1400" height="273" key="GridCell.Tab.0.right/1440.23.1920.1057/44.23.1396.877@44.23.1396.877" timestamp="1593416008023" />
@@ -662,33 +671,37 @@
     <state width="1359" height="229" key="GridCell.Tab.0.right/43.23.1397.877@43.23.1397.877" timestamp="1592951619608" />
     <state width="678" height="229" key="GridCell.Tab.0.right/44.23.1396.877@44.23.1396.877" timestamp="1592952531164" />
     <state width="1400" height="238" key="GridCell.Tab.0.right/52.23.1388.877@52.23.1388.877" timestamp="1593066870419" />
-    <state width="1397" height="369" key="GridCell.Tab.1.bottom" timestamp="1593566336553">
+    <state width="1397" height="324" key="GridCell.Tab.1.bottom" timestamp="1593652747515">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1397" height="369" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1593566336553" />
+    <state width="1397" height="324" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1593652747515" />
     <state width="1400" height="273" key="GridCell.Tab.1.bottom/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1593406535659" />
     <state width="1400" height="438" key="GridCell.Tab.1.bottom/1440.0.1920.1080/0.0.1440.900@1440.0.1920.1080" timestamp="1593484682568" />
+    <state width="1397" height="202" key="GridCell.Tab.1.bottom/1440.23.1920.1057/0.0.1440.900@0.0.1440.900" timestamp="1593569123896" />
     <state width="1400" height="273" key="GridCell.Tab.1.bottom/1440.23.1920.1057/44.23.1396.877@44.23.1396.877" timestamp="1593416008027" />
-    <state width="1397" height="369" key="GridCell.Tab.1.center" timestamp="1593566336552">
+    <state width="1397" height="324" key="GridCell.Tab.1.center" timestamp="1593652747514">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1397" height="369" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1593566336552" />
+    <state width="1397" height="324" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1593652747514" />
     <state width="1400" height="273" key="GridCell.Tab.1.center/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1593406535657" />
     <state width="1400" height="438" key="GridCell.Tab.1.center/1440.0.1920.1080/0.0.1440.900@1440.0.1920.1080" timestamp="1593484682565" />
+    <state width="1397" height="202" key="GridCell.Tab.1.center/1440.23.1920.1057/0.0.1440.900@0.0.1440.900" timestamp="1593569123895" />
     <state width="1400" height="273" key="GridCell.Tab.1.center/1440.23.1920.1057/44.23.1396.877@44.23.1396.877" timestamp="1593416008026" />
-    <state width="1397" height="369" key="GridCell.Tab.1.left" timestamp="1593566336551">
+    <state width="1397" height="324" key="GridCell.Tab.1.left" timestamp="1593652747514">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1397" height="369" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1593566336551" />
+    <state width="1397" height="324" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1593652747514" />
     <state width="1400" height="273" key="GridCell.Tab.1.left/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1593406535656" />
     <state width="1400" height="438" key="GridCell.Tab.1.left/1440.0.1920.1080/0.0.1440.900@1440.0.1920.1080" timestamp="1593484682563" />
+    <state width="1397" height="202" key="GridCell.Tab.1.left/1440.23.1920.1057/0.0.1440.900@0.0.1440.900" timestamp="1593569123894" />
     <state width="1400" height="273" key="GridCell.Tab.1.left/1440.23.1920.1057/44.23.1396.877@44.23.1396.877" timestamp="1593416008025" />
-    <state width="1397" height="369" key="GridCell.Tab.1.right" timestamp="1593566336552">
+    <state width="1397" height="324" key="GridCell.Tab.1.right" timestamp="1593652747515">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1397" height="369" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1593566336552" />
+    <state width="1397" height="324" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1593652747515" />
     <state width="1400" height="273" key="GridCell.Tab.1.right/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1593406535658" />
     <state width="1400" height="438" key="GridCell.Tab.1.right/1440.0.1920.1080/0.0.1440.900@1440.0.1920.1080" timestamp="1593484682566" />
+    <state width="1397" height="202" key="GridCell.Tab.1.right/1440.23.1920.1057/0.0.1440.900@0.0.1440.900" timestamp="1593569123895" />
     <state width="1400" height="273" key="GridCell.Tab.1.right/1440.23.1920.1057/44.23.1396.877@44.23.1396.877" timestamp="1593416008027" />
     <state x="293" y="193" width="824" height="504" key="IDE.errors.dialog" timestamp="1593161435798">
       <screen x="0" y="0" width="1440" height="900" />
@@ -709,28 +722,28 @@
     <state x="1613" y="110" key="SettingsEditor/1440.23.1920.1057/43.23.1397.877@1440.23.1920.1057" timestamp="1592966837093" />
     <state x="406" y="168" width="900" height="722" key="SettingsEditor/43.23.1397.877@43.23.1397.877" timestamp="1592950943054" />
     <state x="283" y="156" width="1062" height="722" key="SettingsEditor/44.23.1396.877@44.23.1396.877" timestamp="1592952550242" />
-    <state x="436" y="367" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1593565072194">
+    <state x="436" y="367" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1593652321235">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="436" y="367" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1440.900@0.0.1440.900" timestamp="1593565072193" />
+    <state x="436" y="367" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1440.900@0.0.1440.900" timestamp="1593652321235" />
     <state x="436" y="367" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1593401615816" />
     <state x="2021" y="441" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/1440.0.1920.1080/0.0.1440.900@1440.0.1920.1080" timestamp="1593492899262" />
     <state x="466" y="381" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/43.23.1397.877@43.23.1397.877" timestamp="1592951154917" />
     <state x="472" y="381" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/52.23.1388.877@52.23.1388.877" timestamp="1593065041874" />
-    <state x="499" y="267" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1593565067674">
+    <state x="499" y="267" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1593652317964">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="499" y="267" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1440.900@0.0.1440.900" timestamp="1593565067674" />
+    <state x="499" y="267" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1440.900@0.0.1440.900" timestamp="1593652317964" />
     <state x="499" y="267" key="com.intellij.testIntegration.createTest.CreateTestDialog/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1593401608213" />
     <state x="2105" y="320" key="com.intellij.testIntegration.createTest.CreateTestDialog/1440.0.1920.1080/0.0.1440.900@1440.0.1920.1080" timestamp="1593492895688" />
     <state x="402" y="49" width="636" height="801" key="find.popup" timestamp="1593262516580">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="402" y="49" width="636" height="801" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1593262516580" />
-    <state x="241" y="113" width="1147" height="750" key="new project wizard" timestamp="1593564755950">
+    <state x="241" y="113" width="1147" height="750" key="new project wizard" timestamp="1593651708233">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="241" y="113" width="1147" height="750" key="new project wizard/0.0.1440.900@0.0.1440.900" timestamp="1593564755950" />
+    <state x="241" y="113" width="1147" height="750" key="new project wizard/0.0.1440.900@0.0.1440.900" timestamp="1593651708233" />
     <state x="108" y="124" width="1206" height="749" key="new project wizard/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1593396535492" />
     <state x="1618" y="163" key="new project wizard/1440.0.1920.1080/0.0.1440.900@1440.0.1920.1080" timestamp="1593492613592" />
     <state x="1440" y="172" key="new project wizard/1440.23.1920.1057/43.23.1397.877@1440.23.1920.1057" timestamp="1592966881705" />
@@ -995,6 +1008,27 @@
           <line>19</line>
           <option name="timeStamp" value="124" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/[0551][Student Attendance Record I]/src/Solution.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="125" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/[0566][Reshape the Matrix]/src/SolutionTest.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="127" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/[0572][Subtree of Another Tree]/src/Solution.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="129" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <condition expression="root.val == 4" language="JAVA" />
+          <url>file://$PROJECT_DIR$/[0572][Subtree of Another Tree]/src/Solution.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="130" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/[081][Search In Rotated Sorted Array II]/src/Solution2.java</url>
           <line>17</line>
@@ -1013,91 +1047,5 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-  </component>
-  <component name="debuggerHistoryManager">
-    <expressions id="breakpointCondition">
-      <expression>
-        <expression-string>course == 1</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>i == 3</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>index &gt;= s.length()</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>path.size()==4</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>path.size() == 3</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>idx &gt;= nums.length</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>start2 + k - 1 &gt;= nums2.length</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-    </expressions>
-    <expressions id="evaluateExpression">
-      <expression>
-        <expression-string>t.charAt(i)</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>(2 &lt;&lt; h1) - 1</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>dependency[1]</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>operator.subList(i + 1, operator.size())</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>operand.subList(i + 1, operand.size())</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>new ArrayList&lt;&gt;(operator.subList(0, i))</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>operand.subList(0, i + 1)</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>nums[i - 1] - 1</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>result.first()</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-    </expressions>
   </component>
 </project>
